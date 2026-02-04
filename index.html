@@ -51,9 +51,6 @@
         <!-- Recipe Count & Title -->
         <h2>
             <span id="recipe-count">Cargando...</span>
-            <button class="icon-btn" onclick="App.random()"
-                style="background:none; border:none; color:var(--accent); font-size:1.5rem; cursor:pointer;"
-                aria-label="Receta al Azar">🎲</button>
         </h2>
 
         <!-- Recipe Grid -->
@@ -68,6 +65,12 @@
             <span class="material-icons-round">restaurant_menu</span>
             <small>Recetas</small>
         </button>
+
+        <button class="nav-item" onclick="App.random()">
+            <span class="material-icons-round" style="color:var(--accent);">casino</span>
+            <small>Aleatorio</small>
+        </button>
+
         <button class="nav-item" onclick="App.filter('favorites')">
             <span class="material-icons-round">favorite</span>
             <small>Favoritos</small>

@@ -54,9 +54,11 @@ const App = {
     },
 
     // --- RENDERIZADO DE RECETAS ---
+    // --- RENDERIZADO OPTIMIZADO (PAGINACIÓN) ---
     render: (recipes) => {
         const container = document.getElementById('recipe-list');
         container.innerHTML = '';
+        container.scrollTop = 0;
 
         if (!recipes || recipes.length === 0) {
             container.innerHTML = `
@@ -67,21 +69,31 @@ const App = {
             return;
         }
 
+        // Configuración de Paginación
+        App.currentList = recipes;
+        App.renderedCount = 0;
+        App.batchSize = 20; // 20 recetas por carga para fluidez total
+
+        App.loadMore();
+    },
+
+    loadMore: () => {
+        const container = document.getElementById('recipe-list');
+        const btn = document.getElementById('load-more-btn');
+        if (btn) btn.remove();
+
+        const toAdd = App.currentList.slice(App.renderedCount, App.renderedCount + App.batchSize);
         const fragment = document.createDocumentFragment();
 
-        recipes.forEach(recipe => {
+        toAdd.forEach(recipe => {
             const isFav = App.favorites.includes(recipe.id);
             const card = document.createElement('article');
             card.className = 'recipe-card';
-
-            // Evento para abrir detalle
             card.onclick = (e) => {
-                // Si hizo clic en el corazón, NO abrir modal
                 if (e.target.closest('.fav-btn')) return;
                 App.showDetail(recipe);
             };
 
-            // HTML de la tarjeta
             card.innerHTML = `
                 <div class="card-image">
                     <img src="${recipe.imagen}" alt="${recipe.titulo}" loading="lazy" onerror="this.src='assets/logo.jpg'">
@@ -102,6 +114,22 @@ const App = {
         });
 
         container.appendChild(fragment);
+        App.renderedCount += toAdd.length;
+
+        // Botón "Ver Más" si quedan elementos
+        if (App.renderedCount < App.currentList.length) {
+            const moreBtn = document.createElement('button');
+            moreBtn.id = 'load-more-btn';
+            moreBtn.innerHTML = `Ver más recetas... <small style="display:block; font-weight:normal; opacity:0.8">(${App.renderedCount} de ${App.currentList.length})</small>`;
+            moreBtn.style.cssText = `
+                display: block; width: 100%; padding: 15px; margin-top: 20px;
+                background: white; border: 2px dashed rgba(146, 64, 14, 0.2);
+                color: var(--primary); font-weight: bold; cursor: pointer;
+                border-radius: 15px; font-size: 1rem;
+            `;
+            moreBtn.onclick = () => App.loadMore();
+            container.appendChild(moreBtn);
+        }
     },
 
     // --- ACCIONES DE NAVEGACIÓN Y FILTRO ---
