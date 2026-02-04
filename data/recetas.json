@@ -1,0 +1,25 @@
+[
+    {
+        "id": "demo-001",
+        "titulo": "Tiramisú Clásico",
+        "categoria": "Postres",
+        "tiempo": "30 min",
+        "imagen": "https://images.unsplash.com/photo-1571877227200-a0d98ea607e9?q=80&w=800&auto=format&fit=crop",
+        "ingredientes": [
+            "500g Queso Mascarpone",
+            "4 Huevos",
+            "100g Azúcar",
+            "300g Bizcochos de soletilla",
+            "Café fuerte",
+            "Cacao en polvo"
+        ],
+        "pasos": [
+            "Separar las yemas de las claras.",
+            "Batir las yemas con el azúcar hasta blanquear.",
+            "Añadir el mascarpone y mezclar sin grumos.",
+            "Montar las claras a punto de nieve e incorporar suavemente.",
+            "Mojar los bizcochos en café y montar capas con la crema.",
+            "Espolvorear cacao y refrigerar 4 horas."
+        ]
+    }
+]

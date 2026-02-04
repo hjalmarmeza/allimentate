@@ -1,0 +1,20 @@
+{
+    "name": "allimentate-scraper",
+    "version": "1.0.0",
+    "description": "Importador de Recetas Inteligente para AlliMéntate",
+    "main": "scraper/run_scraper.js",
+    "scripts": {
+        "start": "node scraper/run_scraper.js"
+    },
+    "dependencies": {
+        "axios": "^1.6.0",
+        "cheerio": "^1.0.0-rc.12",
+        "metascraper": "^5.37.0",
+        "metascraper-date": "^5.37.0",
+        "metascraper-description": "^5.37.0",
+        "metascraper-image": "^5.37.0",
+        "metascraper-title": "^5.37.0",
+        "metascraper-url": "^5.37.0",
+        "puppeteer": "^21.5.0"
+    }
+}
