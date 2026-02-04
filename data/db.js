@@ -6218,5 +6218,2981 @@ window.ChefAlliDB = [
             "Luego vierte la preparación en la licuadora, agrega el queso, el maní, las galletas y la leche evaporada. También agrega una pizca de sal y pimienta al gusto. Licúa hasta lograr que la mezcla quede con una consistencia cremosa.",
             "Para finalizar rectifica la sal y vierte la preparación en un recipiente."
         ]
+    },
+    {
+        "id": "rec-lwcpfezrv",
+        "titulo": "Receta de Chaufa especial",
+        "categoria": "Comida Peruana",
+        "tiempo": "30m",
+        "imagen": "https://cdn0.recetasgratis.net/es/posts/0/4/4/chaufa_especial_78440_orig.jpg",
+        "ingredientes": [
+            "1 pechuga de pollo",
+            "200 gramos de cerdo chasiu o asado en cubos",
+            "200 gramos de langostinos precocidos",
+            "2 huevos",
+            "1 cucharada sopera de ajo molido",
+            "1 trozo de kion",
+            "2 tazas de arroz graneado",
+            "1 chorro de sillao",
+            "1 cucharada sopera de salsa de ostión",
+            "sal al guso",
+            "1 pizca de azúcar",
+            "aceite de ajonjolí c/n",
+            "5 ramas de cebolla china",
+            "Para marinar el polllo:",
+            "5 cucharadas soperas de sillao",
+            "1 cucharada sopera de ajo en pasta",
+            "1 cucharadita de sal",
+            "1 cucharada sopera de jugo de kion"
+        ],
+        "pasos": [
+            "1\nEmpieza preparando el huevo revuelto o la tortilla. Para hacerlo, bate los huevos en un recipiente con una pizca de sal y cocínalos en un wok con un buen chorro de aceite caliente. Remueve para obtener huevos revueltos, que es más rápido, o si prefieres, haz una tortilla y luego córtala en cuadrados. Reserva.",
+            "2\nAparte, corta la pechuga de pollo en dados y marínalos con sillao, ajo en pasta, sal y jugo de kión. Para evitar que el kión se queme, puedes rallarlo y exprimir su jugo.",
+            "3\nCocina los dados de pollo en el wok con aceite de ajonjolí hasta que estén dorados y bien cocidos en el centro. Añade el cerdo chasiu y los langostinos precocidos. Deja que se calienten por un par de minutos, retirándolos inmediatamente para evitar que se sobrecocinen y queden duros.",
+            "4\nEn el mismo wok vierte un chorro de aceite de ajonjolí y, mientras aún está frío, incorpora el kión en láminas o finamente picado junto con el ajo. Además, puedes añadir la parte blanca de la cebolla china cortada finamente. Deja que aromatice el aceite sin que se queme, asegurándote de remover constantemente.",
+            "5\nAgrega el arroz graneado, de preferencia preparado la noche anterior, ya que así el almidón queda más resistente. Comienza a saltearlo y sazónalo con sillao o salsa de soya, salsa de ostión, una pizca de sal y un toque de azúcar para equilibrar sabores. Continúa salteando hasta que el arroz adquiera un color homogéneo.",
+            "6\nFinalmente, incorpora los huevos revueltos o tortilla, el pollo, el cerdo, los langostinos y la parte verde de la cebolla china. Saltea bien hasta que todo se integre y rectifica la sazón.",
+            "7\nSirve de inmediato la chaufa especial, decora con un wantán frito y disfruta de este clásico peruano. ¡A comer! Cuéntanos en los comentarios tu opinión y comparte una fotografía del resultado final."
+        ]
+    },
+    {
+        "id": "rec-hhxuxtk24",
+        "titulo": "Receta de Arroz árabe con pollo al horno",
+        "categoria": "Comida Peruana",
+        "tiempo": "1h 30m",
+        "imagen": "https://cdn0.recetasgratis.net/es/posts/0/1/4/arroz_arabe_con_pollo_al_horno_78410_orig.jpg",
+        "ingredientes": [
+            "8 pierna con encuentro",
+            "6 cucharadas soperas de ají panca en pasta",
+            "3 cucharadas soperas de ajo molido",
+            "½ cucharada sopera de pimienta negra molida",
+            "1 cucharadita de orégano seco molido",
+            "1 pizca de tomillo",
+            "1 cucharada sopera de mostaza",
+            "½ taza de sillao",
+            "sal",
+            "1 chorro de vinagre",
+            "Para el arroz árabe:",
+            "1 taza de arroz blanco",
+            "1 taza de gaseosa negra",
+            "½ taza de caldo de pollo",
+            "1 puñado de fideo cabello de ángel",
+            "200 gramos de tocino",
+            "100 gramos de pasas rubias y/o negras",
+            "100 gramos de pecanas tostadas",
+            "½ cucharadita de sal",
+            "mantequilla c/n",
+            "aceite c/n"
+        ],
+        "pasos": [
+            "1\nPara hacer este plato empezamos preparando el pollo al horno. En un bowl prepara el macerado mezclando la mostaza, ají panca en pasta, ajo molido, pimienta negra, sal, sillao, un chorrito de vinagre y las hierbas aromáticas: orégano y una pizca de tomillo. Remueve bien hasta integrar.",
+            "2\nEn una bandeja coloca las piezas de pollo y embadúrnalas con el macerado.",
+            "3\nEncima vierte un poco de cerveza negra y lleva a hornear a 180 °C durante aproximadamente 1 hora. Pasado ese tiempo, da vuelta al pollo para que se cocine de manera pareja del otro lado. Hornea por media hora más, o hasta que el pollo esté perfectamente cocido. Si la piel aún no está dorada, puedes darle otra vuelta y dejar unos minutos adicionales para que tome color. Cuando el pollo esté listo, resérvalo.",
+            "4\nPara preparar el arroz árabe comienza dorando el tocino hasta que quede crujiente. Luego, córtalo en una tabla en trozos pequeños, no es necesario que sean regulares.",
+            "5\nEn la misma tabla pica las pecanas de manera rústica; estas deben estar previamente peladas y tostadas.",
+            "6\nEn una sartén coloca una buena cucharada de mantequilla y parte los fideos cabello de ángel en trozos de unos cuatro dedos de largo. Tuéstalos por un par de minutos, removiendo constantemente para que tomen color de forma pareja. Resérvalos aparte.",
+            "7\nEn una olla profunda, o si prefieres en la arrocera, coloca un chorro de aceite y una cucharada de mantequilla. Añade el arroz blanco y sofríelo por un par de minutos hasta que se vea traslúcido.",
+            "8\nAgrega la Coca-Cola, el caldo de pollo y una cucharadita de sal para equilibrar el sabor dulce. Deja que hierva y, apenas rompa el hervor, reduce el fuego al mínimo. Coloca la tapa y deja cocinar por unos 20 minutos, o hasta que al probar el grano esté perfectamente cocido.",
+            "9\nCuando el arroz esté listo incorpora el tocino, las pasas, las pecanas y los fideos cabello de ángel tostados. Remueve bien y sirve inmediatamente, acompañando las presas de pollo al horno con una porción de arroz árabe y, por supuesto, la infaltable ensalada. Cuéntanos en los comentarios tu opinión y comparte una fotografía del resultado final."
+        ]
+    },
+    {
+        "id": "rec-7bue8fibu",
+        "titulo": "Receta de Ensalada de papa navideña",
+        "categoria": "Comida Peruana",
+        "tiempo": "30m",
+        "imagen": "https://cdn0.recetasgratis.net/es/posts/5/0/4/ensalada_de_papa_navidena_78405_orig.jpg",
+        "ingredientes": [
+            "1 kilogramo de papas blancas o rosadas",
+            "2 zanahorias",
+            "100 gramos de alverjas",
+            "200 gramos de tocino",
+            "4 duraznos",
+            "200 gramos de mayonesa",
+            "1 limón",
+            "sal c/n"
+        ],
+        "pasos": [
+            "1\nEmpieza cortando los vegetales. Para empezar, las zanahorias peladas córtalas en láminas gruesas de medio centímetro de grosor aproximadamente. Luego, colócalas planas sobre la tabla y corta de forma longitudinal para obtener bastones también de medio centímetro. Por último, posiciónalas de forma transversal para cortarlas y obtener dados.",
+            "2\nDe igual manera corta las papas peladas; sin embargo, córtalas en dados de aproximadamente un dedo de grosor para que se distingan como protagonistas en la ensalada.",
+            "3\nBlanquea estos ingredientes: las zanahorias, las papas y las arvejas. Para hacerlo, sumérgelas en abundante agua hirviendo con un buen puñado de sal: los vegetales por unos 3 minutos y las papas por 10 minutos, o hasta que estén cocidas pero sin deshacerse. Luego resérvalas para que enfríen.",
+            "4\nPara el tocino, coloca las láminas en una sartén y enciende el fuego a medio. Deja que se vayan dorando poco a poco mientras sueltan su grasa; recuerda darles la vuelta para que ambos lados queden dorados. Después, retíralos de la sartén y córtalos. Mientras más crujientes estén, más fácil será cortarlos.",
+            "5\nPara darle un toque más frutal y fresca a la ensalada navideña tradicional, corta los duraznos en dados. Para hacerlo, corta alrededor del hueso o la pepa y, luego, procede a cortar en bastones y dados, aproximadamente del tamaño de las zanahorias.",
+            "6\nColoca todos los insumos de la ensalada de papas fría en un bowl y aliña con mayonesa, limón y sal.",
+            "7\nRemueve la ensalada navideña de papa cuidadosamente para no desarmar las papas y sirve inmediatamente. ¡A comer! Cuéntanos en los comentarios tu opinión y comparte una fotografía del resultado final."
+        ]
+    },
+    {
+        "id": "rec-hoz5j0ypi",
+        "titulo": "Receta de Picante de habas",
+        "categoria": "Comida Peruana",
+        "tiempo": "30m",
+        "imagen": "https://cdn0.recetasgratis.net/es/posts/8/1/3/picante_de_habas_78318_orig.jpg",
+        "ingredientes": [
+            "1 cebolla finamente picada",
+            "½ kilogramo de papas peladas y cortadas en cubos grandes",
+            "2 cucharadas soperas de ajo molido",
+            "2 cucharadas soperas de ají amarillo en pasta",
+            "1 cucharada sopera de ají panca en pasta",
+            "1 tomate en cubos pequeños",
+            "300 gramos de habas peladas",
+            "1 rama de huacatay",
+            "250 gramos de queso fresco",
+            "¼ mililitro de leche evaporada",
+            "sal al gusto",
+            "pimienta negra molida",
+            "aceite c/n"
+        ],
+        "pasos": [
+            "1\nEmpieza preparando el aderezo. En una sartén, vierte un buen chorro de aceite y agrega la cebolla finamente picada. Remueve por un par de minutos hasta que se vuelva traslúcida.",
+            "2\nIncorpora el ajo molido, el ají amarillo y el ají panca. Remueve bien y deja cocinar a fuego medio por unos 15 minutos hasta que el aderezo tome una textura espesa, similar a una mermelada. Añade el tomate picado y sigue removiendo hasta que se suavice.",
+            "3\nIncorpora las papas peladas y picadas en dados grandes junto con las habas peladas. Agrega caldo de pollo o agua hasta cubrir los ingredientes.",
+            "4\nAromatiza con ramas de huacatay, añade una cucharadita de sal y pimienta negra molida. Deja que hierva por unos 15 minutos, o hasta que las papas estén cocidas.",
+            "5\nCumplido el tiempo de cocción, incorpora el queso fresco cortado en cubos y añade la leche evaporada para proporcionar un sabor más delicado. Deja que rompa el hervor, retira las ramas de huacatay y rectifica la sazón.",
+            "6\nSirve el picante de habas con papas en un plato hondo acompañado de una proteína como huevo frito, que es la forma más tradicional de complementar este plato y lograr un almuerzo balanceado. También puedes acompañarlo con una porción de arroz, como es costumbre en muchos guisos picantes de la cocina peruana. ¡A comer! Cuéntanos en los comentarios tu opinión y comparte una fotografía del resultado final."
+        ]
+    },
+    {
+        "id": "rec-w7e31sxta",
+        "titulo": "Receta de Saltado de atún peruano",
+        "categoria": "Comida Peruana",
+        "tiempo": "30m",
+        "imagen": "https://cdn0.recetasgratis.net/es/posts/6/1/3/saltado_de_atun_peruano_78316_orig.jpg",
+        "ingredientes": [
+            "2 latas de atún en trozos",
+            "1 cebolla",
+            "3 tomates",
+            "1 rama de culantro picado",
+            "1 cucharadita de ajo picado",
+            "1 cucharadita de kion picado",
+            "5 cucharadas soperas de sillao o salsa de soya",
+            "1 cucharadita de vinagre tinto",
+            "2 papas para freir",
+            "1 taza de arroz blanco",
+            "1½ tazas de agua                                                                    (360 mililitros)",
+            "1 cucharadita de sal",
+            "aceite c/n"
+        ],
+        "pasos": [
+            "1\nEmpieza preparando los vegetales: corta la cebolla y los tomates en gajos, como si fueras a hacer lomito de atún saltado. Además, pica finamente el culantro, el kion (jengibre) y el ajo.",
+            "2\nEn una sartén o wok, saltea la cebolla junto con el ajo y el kion en un chorro de aceite. Remueve constantemente, ya que el ajo y el jengibre tienden a quemarse con rapidez.",
+            "3\nIncorpora los tomates y saltéalos brevemente para que se integren con el resto de ingredientes.",
+            "4\nAgrega un buen chorro de sillao (salsa de soya) y unas gotas de vinagre tinto, y continúa salteando.",
+            "5\nAñade el atún previamente escurrido (de preferencia en trozos o lomito de atún) y remueve bien hasta que se integre completamente. Cuando notes que el atún ya está caliente, rectifica la sazón. Si lo deseas, puedes añadir una pizca de sal. Finalmente, agrega el culantro picado, saltea por última vez y ya estará listo para servir.",
+            "6\nAparte, prepara las papas fritas. Para hacerlo, córtalas en bastones. Puedes dejarlas con la cáscara, ya que le da un toque más rústico y, al mismo tiempo, más crocante. Una vez cortadas, fríelas de inmediato en abundante aceite caliente hasta que estén doradas.",
+            "7\nPara el arroz, comienza lavándolo muy bien. Luego, en una olla con un chorro de aceite y un poco de ajo molido o finamente picado, nacáralo hasta que los granos se vean traslúcidos, cuidando que el ajo no se queme.",
+            "8\nVierte el agua, sazona con una cucharadita de sal, deja que hierva y, luego, reduce el fuego. Tapa la olla y deja que el arroz se cocine hasta que esté perfectamente graneado.",
+            "9\nFinalmente, con el saltado de atún sirve una porción de arroz, una pequeña porción de papas fritas y el atún saltado como protagonista del plato. ¡Buen provecho! Cuéntanos en los comentarios tu opinión y comparte una fotografía del resultado final."
+        ]
+    },
+    {
+        "id": "rec-lidax1swd",
+        "titulo": "Receta de Chaufa de chancho",
+        "categoria": "Comida Peruana",
+        "tiempo": "45m",
+        "imagen": "https://cdn0.recetasgratis.net/es/posts/5/1/3/chaufa_de_chancho_78315_orig.jpg",
+        "ingredientes": [
+            "Para el cerdo:",
+            "1 kilogramo de bondiola o panceta",
+            "3 dientes de ajo",
+            "3 parte blanca de la cebolla china",
+            "1 trozo de kion",
+            "1 cucharadita de sal",
+            "Para el chaufa:",
+            "2 tazas de arroz blanco graneado",
+            "200 gramos de tocino",
+            "1 trozo de kion picado",
+            "5 ramas de cebolla china",
+            "1 cucharada sopera de ajo picado",
+            "sillao o salsa de soya c/n",
+            "2 huevos",
+            "sal al gusto",
+            "aceite de ajonjolí c/n",
+            "3 cucharadas soperas de miel",
+            "3 cucharadas soperas de salsa de ostión"
+        ],
+        "pasos": [
+            "1\nPara preparar este arroz chaufa, comienza cocinando el cerdo hasta que esté bien tierno. Colócalo en una olla con suficiente agua para cubrirlo y añade unos dientes de ajo, ramas de la parte blanca de la cebolla china, un trozo de kión (jengibre) y una cucharadita de sal. Tapa la olla y deja hervir durante unos 30 minutos, o hasta que notes que el cerdo está suave.",
+            "2\nRetíralo de la olla, déjalo escurrir y colócalo sobre una tabla para cortarlo en trozos. Luego, llévalo a una sartén y sazónalo con sillao (salsa de soya), salsa de ostión y un toque de miel para contrastar sabores. Remueve bien hasta que se forme una salsa espesa y reserva.",
+            "3\nEn un wok vierte un buen chorro de aceite (preferentemente de ajonjolí) y rompe un huevo directamente ahí. Remuévelo rápidamente con una cuchara de palo o una espátula. Puedes añadir un chorrito de sillao para darle sabor, o simplemente una pizca de sal. Remueve bien y reserva. Si prefieres, también puedes hacer un omelette y cortarlo en cubos.",
+            "4\nEn el mismo wok, sofríe el kión, la parte blanca de la cebolla china y el ajo bien picado. Para darle más sabor, puedes añadir cubos de tocino en este momento.",
+            "5\nIncorpora el arroz, que idealmente debe ser del día anterior para que esté más graneado.",
+            "6\nVierte un buen chorro de sillao por toda la sartén y saltea cuidadosamente.",
+            "7\nPara terminar, añade los trozos de cerdo, el huevo revuelto y la parte verde de la cebolla china finamente picada.",
+            "8\nSaltea el chaufa de chancho una vez más, rectifica la sazón si es necesario con una pizca de sal, y sirve de inmediato. ¡Buen provecho! Cuéntanos en los comentarios tu opinión y comparte una fotografía del resultado final."
+        ]
+    },
+    {
+        "id": "rec-hah43fnkc",
+        "titulo": "Receta de Pollada con arroz",
+        "categoria": "Comida Peruana",
+        "tiempo": "45m",
+        "imagen": "https://cdn0.recetasgratis.net/es/posts/0/1/3/pollada_con_arroz_78310_orig.jpg",
+        "ingredientes": [
+            "4 piezas de pollo",
+            "5 cucharadas soperas de ají panca en pasta",
+            "3 cucharadas soperas de ajo molido",
+            "1 cucharadita de comino molido",
+            "1 cucharadita de pimienta negra molida",
+            "1 cucharadita de orégano seco molido",
+            "2 cucharadas soperas de mostaza",
+            "100 mililitros de vinagre tinto",
+            "100 mililitros de sillao",
+            "3 cucharaditas de sal",
+            "aceite c/n"
+        ],
+        "pasos": [
+            "1\nEmpieza marinando las piezas de pollo. Para ello, coloca en un recipiente el ají panca en pasta, el orégano, la sal, la pimienta negra, el comino, el ajo molido y la mostaza. Luego añade el vinagre tinto, el sillao y la cerveza. Remueve bien y prueba si deseas (la mezcla debe estar ligeramente subida de sal).",
+            "2\nVuelca esta marinada sobre las piezas de pollo y asegúrate de masajearlas bien. Luego, deja reposar por 1 hora o mejor durante toda la noche. Así lograrás un sabor más profundo.",
+            "3\nCumplido el tiempo de reposo, coloca aceite en una sartén profunda y fríe las piezas aderezadas hasta que el pollo esté perfectamente cocido.",
+            "4\nPor otro lado, prepara el arroz. Hacerlo es fácil: coloca en una olla pequeña (o en la olla arrocera) un buen chorro de aceite e incorpora ajo picado o molido. Remueve bien mientras se calienta, para que el ajo se dore sin quemarse. Luego, añade el arroz y comienza a remover para nacarar, es decir, hasta que los granos se vean translúcidos.",
+            "5\nVierte sobre el arroz una taza y media de agua, remueve y agrega sal (aproximadamente una cucharadita). Deja que rompa el hervor, tapa la olla y reduce el fuego para que se cocine.",
+            "6\nDespués de unos 15 minutos, verifica que el arroz esté bien cocido y reserva.",
+            "7\nFinalmente, sirve una buena pieza de pollo con una porción de arroz, otra de papa, y no olvides la infaltable ensalada fresca y la crema de ají de huacatay. ¡A comer! Cuéntanos en los comentarios tu opinión y comparte una fotografía del resultado final."
+        ]
+    },
+    {
+        "id": "rec-bc6me64rt",
+        "titulo": "Receta de Tejas de Ica",
+        "categoria": "Comida Peruana",
+        "tiempo": "45m",
+        "imagen": "https://cdn0.recetasgratis.net/es/posts/1/6/2/tejas_de_ica_78261_orig.jpg",
+        "ingredientes": [
+            "100 gramos de pecanas",
+            "250 gramos de manjar blanco de olla",
+            "Para el fondant:",
+            "250 gramos de azúcar                                                                    (1¼ tazas)",
+            "60 gramos de glucosa",
+            "60 gramos de agua"
+        ],
+        "pasos": [
+            "1\nEmpieza pelando, abriendo y tostando las pecanas; puedes hacerlo en el horno a 180 °C. Luego, rellena las tejas dulces con manjar blanco de olla: hay que ser generoso. Asegúrate de parear las mitades que tengan el mismo tamaño.",
+            "2\nAlisa la superficie de los costados utilizando una espátula de codo, y si quedan huecos, puedes rellenarlos con más manjar. Colócalas en una bandeja y refrigéralas por lo menos 30 minutos para que el relleno quede bien estable.",
+            "3\nPrepara el fondant que les da la cubierta blanca colocando en una cacerola el azúcar, la glucosa y el agua. Lleva al fuego y deja que hierva hasta que se forme un almíbar y alcance los 114 °C.",
+            "4\nInmediatamente retíralo del fuego y vuelca el almíbar en el bowl de la batidora. Bate a máxima velocidad: notarás que se va volviendo una crema blanquecina. Sigue batiendo hasta que el bowl se sienta tibio al tacto.",
+            "5\nMientras el fondant aún está fluido, sumerge una a una las pecanas rellenas, cubriéndolas bien. Luego, con un tenedor, retíralas, escurre el exceso en el borde del bowl y déjalas enfriar sobre una bandeja con papel manteca o tapete de silicona. Si el fondant empieza a endurecerse mientras trabajas, puedes calentarlo suavemente a baño María para recuperar fluidez.",
+            "6\nDeja reposar las tejas de pecanas por un par de horas, o mejor toda la noche, para que se forme una corteza firme de fondant.",
+            "7\nSirve el postre de Ica o envuélvelas en papeles enmantecados para presentarlas en porciones individuales. ¡A comer! Cuéntanos en los comentarios tu opinión y comparte una fotografía del resultado final."
+        ]
+    },
+    {
+        "id": "rec-98m39wj39",
+        "titulo": "Receta de Suspiro limeño",
+        "categoria": "Comida Peruana",
+        "tiempo": "1h 30m",
+        "imagen": "https://cdn0.recetasgratis.net/es/posts/2/6/2/suspiro_limeno_78262_orig.jpg",
+        "ingredientes": [
+            "2 yemas",
+            "300 gramos de leche evaporada",
+            "100 gramos de azúcar                                                                    (½ taza)",
+            "200 gramos de leche condensada",
+            "Para el merengue:",
+            "120 gramos de azúcar",
+            "80 gramos de agua u oporto",
+            "2 clara",
+            "canela en polvo"
+        ],
+        "pasos": [
+            "1\nPara hacer hacer este postre peruano, empieza colocando en una olla grande la leche, el azúcar y la leche condensada. Remueve bien, enciende el fuego al máximo y deja que rompa hervor.",
+            "2\nMantén la cocción, pero esta vez reduce el fuego a medio para evitar que rebalse. Además, asegúrate de ir removiendo constantemente para que la leche no se derrame.",
+            "3\nDespués de unos 20 minutos de hervor constante, notarás que la leche se concentra y deja de rebalsar. Continúa removiendo hasta que se forme una crema densa: ese es el manjar blanco. Si ves que se están formando algunos grumos, puedes cambiar a un batidor de globo.",
+            "4\nInmediatamente retira del fuego y agrega las yemas. Remueve rápidamente con el batidor de globo para evitar que se coagulen. Luego, deja enfriar y reserva.",
+            "5\nPara hacer el merengue, coloca en una cacerola pequeña el azúcar y el agua, que también puedes reemplazar por oporto si quieres un postre más tradicional y con más sabor. Remueve un poco y luego enciende el fuego a medio-bajo; deja que hierva hasta que alcance los 121 °C.",
+            "6\nCuando el almíbar llegue a los 110 °C, empieza a batir las claras a máxima velocidad y, luego, vierte el almíbar en forma de hilo sobre el merengue por un costado de la batidora.",
+            "7\nCuando termines de incorporar todo el almíbar, sigue batiendo a máxima velocidad hasta que puedas tocar el merengue y se sienta frío. Coloca el merengue en una manga pastelera con una boquilla de estrella o la boquilla de tu preferencia",
+            "8\nVierte el manjar blanco en la base de una copa y encima decora con el merengue. Espolvorea un poco de canela en polvo por encima. Ya puedes servir este típico postre peruano y disfrutar. Cuéntanos en los comentarios tu opinión y comparte una fotografía del resultado final.Además, si quieres conocer más postres limeños, no te pierdas este artículo."
+        ]
+    },
+    {
+        "id": "rec-nl5crmpuf",
+        "titulo": "Receta de Alfajores peruanos de maicena",
+        "categoria": "Comida Peruana",
+        "tiempo": "45m",
+        "imagen": "https://cdn0.recetasgratis.net/es/posts/4/5/2/alfajores_peruanos_de_maicena_78254_orig.jpg",
+        "ingredientes": [
+            "100 gramos de harina",
+            "40 gramos de maicena",
+            "15 gramos de azúcar impalpable",
+            "85 gramos de mantequilla",
+            "manjar blanco para rellenar c/n",
+            "azúcar impalpable para decorar"
+        ],
+        "pasos": [
+            "1\nEmpieza colocando en un bowl los ingredientes secos: harina, azúcar impalpable, maicena y mantequilla fría cortada en cubos. Mezcla utilizando el accesorio de paleta, aumentando la velocidad gradualmente. También puedes hacerlo directamente sobre la mesa, usando un cornet o espátula para integrar los ingredientes hasta obtener una textura similar a la arena mojada.",
+            "2\nTermina de unir la masa volcándola sobre la superficie y amasando suavemente con las manos hasta formar una masa homogénea.",
+            "3\nEstira la masa entre papeles manteca, film o un tapete de silicona para evitar añadir más harina a la fórmula. Si prefieres hacerlo sobre la mesa, asegúrate de enharinar bien por debajo y por encima para evitar que se pegue.",
+            "4\nCorta discos de aproximadamente 5-6 cm de diámetro, aunque puedes variar el tamaño según tus preferencias o si deseas preparar bocaditos.",
+            "5\nColoca cuidadosamente las piezas sobre una placa con tapete de silicona y hornea a 150 °C durante 10 minutos. Recuerda que no deben dorarse. Retíralas del horno y déjalas enfriar por completo.",
+            "6\nColoca el manjar blanco en una manga y rellena las tapas con cuidado, ya que las galletitas son delicadas y pueden romperse fácilmente.",
+            "7\nAntes de servir los alfajores de maicena fáciles, espolvorea con azúcar impalpable o, si prefieres, pásalas por coco rallado. ¡Ya están listos para presentar en la mesa de bocaditos! Cuéntanos en los comentarios tu opinión y comparte una fotografía del resultado final."
+        ]
+    },
+    {
+        "id": "rec-kqvif58u7",
+        "titulo": "Receta de Ceviche de corvina peruano",
+        "categoria": "Comida Peruana",
+        "tiempo": "30m",
+        "imagen": "https://cdn0.recetasgratis.net/es/posts/8/2/2/ceviche_de_corvina_peruano_78228_orig.jpg",
+        "ingredientes": [
+            "2 filetes de corvina",
+            "1 cebolla roja",
+            "½ cucharadita de ajo molido",
+            "1 ají limo",
+            "2 ramas de culantro",
+            "2 limones",
+            "sal al gusto",
+            "choclos",
+            "camote",
+            "lechuga",
+            "cancha serrana chullpi c/n",
+            "Para la leche de tigre:",
+            "2 dientes de ajo",
+            "1 trozo de kion",
+            "½ rama de apio",
+            "1 rama de culantro",
+            "1 trozo de cebolla",
+            "4 limones",
+            "1 cucharón de caldo de pescado o chilcano frio"
+        ],
+        "pasos": [
+            "1\nPara hacer esta receta, empieza cortando los filetes de corvina en cubos medianos. Asegúrate de retirar el exceso o los trozos que no hayan quedado estéticamente bonitos.",
+            "2\nSobre una tabla, corta la cebolla en forma de pluma. Retira los extremos, pártela por la mitad y pela la capa más externa. Coloca las mitades con la base plana sobre la tabla y corta en tiras delgadas, también pica el culantro y el ají limo finamente.",
+            "3\nColoca estos cubos de pescado en un bowl y añade sal, ajo molido y ají limo picado. Reserva los retazos para preparar la leche de tigre.",
+            "4\nEn el vaso de la licuadora coloca los retazos junto con un trozo de kión, ajo, apio, culantro, una cucharadita de sal, rocoto, jugo de 2 limones y un par de cucharones de caldo de pescado frío o chicano.",
+            "5\nLicúa hasta que todos los ingredientes se integren bien o se trituren completamente. A continuación, cuela esta mezcla y refrigera la leche de tigre hasta servir.",
+            "6\nAntes de servir, coloca en el bowl del pescado la cebolla, el toque de culantro, más ají limo y vierte la leche de tigre junto con el jugo de limón recién exprimido. Remueve con una cuchara, haciendo movimientos envolventes para no destrozar el pescado ni aplastar la cebolla. Luego, rectifica la sazón.",
+            "7\nSirve inmediatamente en un plato hondo acompañado con camote en rodajas, una o dos hojas de lechuga y granos de choclo cocido. ¡Buen provecho! Cuéntanos en los comentarios tu opinión y comparte una fotografía del resultado final."
+        ]
+    },
+    {
+        "id": "rec-sd5cu8zfv",
+        "titulo": "Receta de Ceviche de lenguado",
+        "categoria": "Comida Peruana",
+        "tiempo": "30m",
+        "imagen": "https://cdn0.recetasgratis.net/es/posts/9/2/2/ceviche_de_lenguado_78229_orig.jpg",
+        "ingredientes": [
+            "2 filetes de lenguado",
+            "1 cebolla roja en pluma",
+            "½ cucharadita de ajo molido",
+            "½ ají limo",
+            "2 ramas de culantro",
+            "3 limones",
+            "1½ cucharones de leche de tigre",
+            "sal al gusto",
+            "1 choclos",
+            "2 camotes glaseados",
+            "1 hoja de lechuga",
+            "cancha serrana chullpi c/n"
+        ],
+        "pasos": [
+            "1\nEmpieza cortando los filetes de lenguado en cubos medianos. Aunque es un pescado plano y menos carnoso que otros como la corvina, su textura firme permite obtener cortes limpios y bastante uniformes si se trabaja con cuidado. Reserva los recortes o excedentes en el vaso de la licuadora para una la leche de tigre.",
+            "2\nColoca los cubos de pescado en un bowl y añade una cucharadita de ajo molido, ají limo picado, espolvorea sal por la superficie y un par de cubos de hielo para mantener la mezcla bien fría. Remueve bien y asegúrate de refrigerarla hasta el momento de servir.",
+            "3\nAparte, corta la cebolla en forma de pluma: retira los dos extremos junto con la capa exterior que la recubre, pártela por la mitad y acomoda las mitades sobre la tabla. Luego, corta en sentido longitudinal (de extremo a extremo) para obtener tiras bien delgadas.",
+            "4\nTambién pica finamente el culantro y exprime los limones.",
+            "5\nJusto antes de servir, comienza a ensamblar el plato: vierte la leche de tigre sobre el pescado, remueve bien, exprime el jugo de limón encima y añade una cucharadita de sal. Mezcla cuidadosamente y prueba la sazón.",
+            "6\nCuando estés conforme con el sabor, incorpora la cebolla y el culantro al gusto.",
+            "7\nSirve inmediatamente sobre una cama de lechuga y cebolla en pluma. No olvides acompañar con rodajas de camote glaseado, choclo y maíz chullpi. ¡A comer el exquisito ceviche de lenguado! Cuéntanos en los comentarios tu opinión y comparte una fotografía del resultado final."
+        ]
+    },
+    {
+        "id": "rec-mihowwac8",
+        "titulo": "Receta de Picante de atún",
+        "categoria": "Comida Peruana",
+        "tiempo": "30m",
+        "imagen": "https://cdn0.recetasgratis.net/es/posts/9/9/1/picante_de_atun_78199_orig.jpg",
+        "ingredientes": [
+            "3 latas de atún",
+            "1 cebolla",
+            "2 cucharaditas de ajo molido",
+            "2 cucharadas soperas de ají panca en pasta",
+            "2 tomates",
+            "2 papas",
+            "2 zanahorias",
+            "100 gramos de arverjas",
+            "pimienta negra molida",
+            "sal al gusto",
+            "aceite c/n",
+            "arroz blanco graneado"
+        ],
+        "pasos": [
+            "1\nEmpieza colocando en una sartén profunda o en una olla un buen chorro de aceite de oliva. Cuando esté caliente, añade la cebolla finamente picada y remueve por unos minutos para formar el aderezo.",
+            "2\nIncorpora el ajo molido o picado bien fino, la pasta de ají panca y una pizca de pimienta molida. Mezcla todo y deja que se cocine por unos 20 minutos, o hasta que el aderezo tome una textura parecida a una mermelada. Asegúrate de remover de vez en cuando para evitar que se queme y, si ves que se está secando, puedes ir agregando un poco de agua.",
+            "3\nPica los tomates en cubos pequeños. Para hacerlo, córtalos en rodajas, acomódalos y, luego, corta en tiras; finalmente, haz cortes transversales para obtener dados pequeños. Añade estos tomates a la sartén junto con el aderezo, remueve bien y deja cocinar por un par de minutos.",
+            "4\nPela las papas y córtalas en cubos medianos. Incorpóralas a la preparación, cúbrelas con agua y agrega un par de cucharaditas de sal. Tapa la olla para que se cocinen bien.",
+            "5\nDespués de unos 10 minutos, verifica que las papas estén cocidas. En este momento, añade las zanahorias picadas en dados pequeños y las arvejas. Deja que hiervan por unos 3 minutos, o hasta que estén al dente.",
+            "6\nAgrega el atún bien escurrido, ya sea en agua o en aceite. Remueve todo con cuidado y deja que dé un hervor.",
+            "7\nAntes de servir, incorpora el perejil finamente picado al picante de atún y sirve de inmediato acompañado de una porción pequeña de arroz. ¡Buen provecho! Cuéntanos en los comentarios tu opinión y comparte una fotografía del resultado final."
+        ]
+    },
+    {
+        "id": "rec-h0qwa6m9v",
+        "titulo": "Receta de Picante de fideos",
+        "categoria": "Comida Peruana",
+        "tiempo": "30m",
+        "imagen": "https://cdn0.recetasgratis.net/es/posts/6/9/1/picante_de_fideos_78196_orig.jpg",
+        "ingredientes": [
+            "250 gramos de fideos corbatitas o coditos",
+            "4 papas",
+            "2 cebollas",
+            "2 cucharadas soperas de ajo molido",
+            "3 cucharadas soperas de ají panca en pasta",
+            "¼ cucharadita de comino molido",
+            "¼ cucharadita de pimienta negra molida",
+            "2 tomates",
+            "2 zanahorias picadas finamente",
+            "100 gramos de alverjas",
+            "1 puñado de perejil picado finaemnte",
+            "sal al gusto",
+            "aceite c/n"
+        ],
+        "pasos": [
+            "1\nEn una sartén profunda, coloca la pasta corta y llévala al fuego alto. Remueve constantemente para que se tueste de manera uniforme, cuidando que no se queme. Una vez dorada, retírala y resérvala.",
+            "2\nEn la misma sartén, añade un buen chorro de aceite y agrega las cebollas finamente picadas. Sofríe por unos minutos hasta que se vuelva traslúcida.",
+            "3\nIncorpora el ajo molido, la pasta de ají panca y las especias: comino y pimienta negra molida. Mantén la mezcla a fuego medio, removiendo de vez en cuando, hasta que el aderezo adquiera una textura espesa, similar a una mermelada; esto puede tomar unos 15 minutos.",
+            "4\nAgrega los tomates finamente picados y mezcla bien. Para evitar que se queme, puedes ir añadiendo caldo de pollo, de res o agua, según tengas disponible.",
+            "5\nAñade las papas peladas y cortadas en cubos medianos. A continuación, vierte más caldo hasta cubrirlas, incorpora una cucharadita de sal y deja que comience a hervir.",
+            "6\nAgrega la pasta tostada, mezcla bien y deja cocinar hasta que tanto la pasta como las papas estén al dente, lo cual puede tomar alrededor de 10 minutos.",
+            "7\nIntegra la zanahoria picada finamente y, si lo prefieres, también alverjas. Cocina por unos 3 minutos más.",
+            "8\nRectifica la sazón, agrega perejil fresco finamente picado y sirve de inmediato. ¡Buen provecho! Cuéntanos en los comentarios tu opinión y comparte una fotografía del resultado final."
+        ]
+    },
+    {
+        "id": "rec-vm5bb2wvr",
+        "titulo": "Receta de Salsa tártara peruana",
+        "categoria": "Comida Peruana",
+        "tiempo": "15m",
+        "imagen": "https://cdn0.recetasgratis.net/es/posts/0/9/1/salsa_tartara_peruana_78190_orig.jpg",
+        "ingredientes": [
+            "250 gramos de mayonesa",
+            "1 cebolla blanca pequeña",
+            "5 ramas de cebolla china",
+            "1 puñado de perejil",
+            "1 huevo",
+            "1 limón",
+            "sal al gusto",
+            "alcaparras o pepinillos encurtidos (opcional)"
+        ],
+        "pasos": [
+            "1\nEmpieza cortando la cebolla blanca finamente. Para hacerlo, retira el extremo por donde crecen los tallos, pártela por la mitad y quita la capa rosada que la recubre. Apoya la parte plana sobre la tabla y realiza incisiones a lo largo de la cebolla, sin llegar al extremo donde están las raíces. Luego, haz cortes transversales para obtener cubitos pequeños.",
+            "2\nCorta la cebolla china finamente utilizando solo la parte verde.",
+            "3\nPica el perejil finamente, puedes usar también los tallos junto con las hojas. Si deseas, puedes añadir pepinillos encurtidos o alcaparras picados, aunque estos ingredientes son completamente opcionales.",
+            "4\nMientras tanto, coloca a sancochar un par de huevos por unos 12 minutos desde que el agua esté caliente. Cuando estén listos, déjalos enfriar y pélalos.",
+            "5\nPara preparar la salsa tártara peruana, coloca la mayonesa en un bowl y añade la cebolla blanca, la cebolla china, el perejil, el jugo de limón y sal al gusto. Mezcla bien y rectifica la sazón.",
+            "6\nRalla el huevo cocido y mézclalo con el resto de ingredientes.",
+            "7\nSirve la salsa o crema tártara en un bowl y úsala para acompañar unas yucas fritas o unos chicharrones de pescado. ¡A comer! Cuéntanos en los comentarios tu opinión y comparte una fotografía del resultado final."
+        ]
+    },
+    {
+        "id": "rec-7vkpfpi7i",
+        "titulo": "Receta de Chicharrón de pescado peruano",
+        "categoria": "Comida Peruana",
+        "tiempo": "30m",
+        "imagen": "https://cdn0.recetasgratis.net/es/posts/2/9/1/chicharron_de_pescado_peruano_78192_orig.jpg",
+        "ingredientes": [
+            "4 filetes de pescado blanco",
+            "1 huevo",
+            "2 cucharaditas de ajo molido",
+            "¼ cucharadita de orégano seco molido",
+            "100 gramos de harina",
+            "100 gramos de harina de maíz",
+            "1½ cucharaditas de sal",
+            "1 pizca de pimienta negra molida",
+            "aceite c/n",
+            "yucas fritas"
+        ],
+        "pasos": [
+            "1\nEmpieza cortando los filetes de pescado en cubos medianos, procurando que no tengan espinas. Lo ideal es usar pescados de carne blanca como perico, corvina o tilapia, ya que tienen un sabor suave y una textura firme que se presta para freír.",
+            "2\nColoca los trozos en un bowl y sazónalos con sal, pimienta, ajo molido, orégano molido y un huevo.",
+            "3\nMezcla bien y deja reposar en la refrigeradora por lo menos 30 minutos para que se impregnen los sabores.",
+            "4\nMientras tanto, prepara una mezcla de harinas en una bandeja: harina de trigo y harina de maíz en partes iguales. Si tienes a la mano harina chullpi o de maíz chullpi triturado, agrégala para lograr una corteza más crocante. Pasa cada cubo de pescado por esta mezcla, asegurándote de cubrirlos bien, y sacude el exceso.",
+            "5\nFríe los trozos en una sartén con abundante aceite caliente, colocándolos uno a uno para evitar que se peguen. Cuando estén dorados y crujientes, retíralos y colócalos sobre papel absorbente para eliminar el exceso de grasa.",
+            "6\nSirve de inmediato el chicharrón de pescado peruano acompañando con yuca frita, hojas de lechuga y salsa criolla. Si quieres elevar el sabor, añade salsa tártara y crema de rocoto al costado. ¡Buen provecho! Cuéntanos en los comentarios tu opinión y comparte una fotografía del resultado final."
+        ]
+    },
+    {
+        "id": "rec-8a7ohesr7",
+        "titulo": "Receta de Pan chuta",
+        "categoria": "Comida Peruana",
+        "tiempo": "1h 30m",
+        "imagen": "https://cdn0.recetasgratis.net/es/posts/8/8/1/pan_chuta_78188_orig.jpg",
+        "ingredientes": [
+            "500 gramos de harina",
+            "200 mililitros de agua de manzanilla",
+            "120 gramos de azúcar morena",
+            "20 gramos de levadura seca",
+            "40 gramos de mantequilla",
+            "10 gramos de sal",
+            "1 puñado de harina integral o salvado de trigo",
+            "anís o pasas"
+        ],
+        "pasos": [
+            "1\nComienza preparando una infusión de manzanilla. Calienta el agua de la receta y, apenas rompa el hervor, añade unas flores secas de manzanilla o un par de saquitos de té. Deja reposar hasta que entibie.",
+            "2\nEn un bowl grande, o en el bowl de la batidora, coloca todos los ingredientes secos: la harina, el azúcar (de preferencia morena, porque contiene más melaza y le da un mejor tono a la miga), la sal y la levadura seca. Remueve bien para integrarlos.",
+            "3\nAgrega la infusión tibia de manzanilla y comienza a mezclar utilizando el accesorio de gancho de la batidora.",
+            "4\nCuando notes que se empieza a formar una masa, incorpora la mantequilla cortada en cubos.",
+            "5\nAmasa por unos 10 minutos aproximadamente, o hasta que el gluten se haya desarrollado. Para comprobarlo, retira un trocito de masa, estíralo jalando de las cuatro esquinas; si forma una película fina y traslúcida, estará lista. Si se rompe con facilidad, necesita más tiempo de amasado.",
+            "6\nBolea un poco, colócala en un bowl previamente engrasado, cúbrela con un paño húmedo o con papel film y deja reposar en el lugar más cálido de tu hogar durante una hora o hasta que duplique su volumen.",
+            "7\nPasado ese tiempo, enharina una mesa con harina integral y espárcela bien, como se hace tradicionalmente. Coloca la masa encima, presiona ligeramente con las manos, dale vuelta para que el otro lado también se cubra de harina, y empieza a estirarla cuidadosamente con un rodillo. La masa debe quedar de un grosor aproximado de un dedo. Luego colócala sobre una placa previamente enmantecada. Si es circular, puedes ayudarte con la forma de la placa para que quede pareja.",
+            "8\nPincha la superficie con un tenedor o un palillo de brocheta y vuelve a cubrirla con un paño húmedo o film. Deja reposar nuevamente en un lugar cálido hasta que duplique su volumen, puede tomar unos 45 minutos.",
+            "9\nHornea a 180 °C durante unos 25 minutos o hasta que notes que el pan está bien dorado. Finalmente, retíralo del horno, deja enfriar sobre una rejilla y sirve acompañado de una rodaja de queso o con chocolate caliente. ¡A disfrutar! Cuéntanos en los comentarios tu opinión y comparte una fotografía del resultado final."
+        ]
+    },
+    {
+        "id": "rec-lezxwspd1",
+        "titulo": "Receta de Escabeche de pollo cusqueño",
+        "categoria": "Comida Peruana",
+        "tiempo": "45m",
+        "imagen": "https://cdn0.recetasgratis.net/es/posts/6/8/1/escabeche_de_pollo_cusqueno_78186_orig.jpg",
+        "ingredientes": [
+            "4 piernas con encuentro",
+            "2 zanahorias",
+            "1 cebolla",
+            "1 tomate (opcional)",
+            "1 coliflor",
+            "2 puñados de vainitas",
+            "1 puñado de alverjas (opcional)",
+            "perejil finamente picado",
+            "2 limones",
+            "vinagre blanco c/n",
+            "1 pizca de pimienta negra molida",
+            "1 pizca de comino molido",
+            "sal al gusto",
+            "2 dientes de ajo",
+            "2 hojas de laurel",
+            "1 cucharadita de orégano"
+        ],
+        "pasos": [
+            "1\nEmpieza limpiando las piezas de pollo; si tienen mucha grasa, córtala. Para cocinarlas, hierve abundante agua en una olla y sazona con dientes de ajo, hojas de laurel, orégano y sal. Sumérgelas y deja que se sancochen durante unos 25 minutos, o hasta que estén bien cocidas. Retira y reserva.",
+            "2\nCorta los vegetales. Las zanahorias, una vez peladas, puedes cortarlas en rodajas gruesas y, luego, de forma transversal para obtener bastones; si son delgadas, también puedes cortarlas de manera sesgada.",
+            "3\nSepara la coliflor en ramitos pequeños del tamaño de un bocado.",
+            "4\nCorta las vainitas en segmentos del tamaño de las zanahorias, y si gustas, también de forma sesgada.",
+            "5\nBlanquea todos los vegetales en agua hirviendo con una cucharadita de sal. Empieza por las zanahorias, que se cocinan en unos 3 minutos, luego la coliflor, con un tiempo similar, y finalmente las vainitas, hasta que queden al dente. Si te agradan, puedes blanquear también las arvejas.",
+            "6\nCorta la cebolla en gajos, retirando los extremos y la capa exterior. Dórala en una sartén con un poco de aceite, y añade un cucharón del caldo de pollo para suavizar su sabor sin perder el crocante. Si prefieres, puedes incorporar también tomates cortados en gajos.",
+            "7\nVuelca la mezcla con los vegetales y escabecha con jugo de limón, vinagre blanco, pimienta negra molida, comino y sal al gusto. Remueve bien y añade el pollo junto con perejil finamente picado.",
+            "8\nSirve de inmediato con camote sancochado, papas cocidas o una rodaja de choclo. ¡Buen provecho! Cuéntanos en los comentarios tu opinión y comparte una fotografía del resultado final."
+        ]
+    },
+    {
+        "id": "rec-racy0nuvy",
+        "titulo": "Receta de Salchipollo peruano",
+        "categoria": "Comida Peruana",
+        "tiempo": "45m",
+        "imagen": "https://cdn0.recetasgratis.net/es/posts/1/8/1/salchipollo_peruano_78181_orig.jpg",
+        "ingredientes": [
+            "1 kilogramo de papas amarillas",
+            "10 salchichas",
+            "1 pechuga de pollo",
+            "1 huevo",
+            "2 cucharadas soperas de mostaza",
+            "2 cucharaditas de sal",
+            "100 harina común",
+            "100 harina de maíz",
+            "1 cucharadita de paprika",
+            "1 cucharadita de pimienta negra molida",
+            "aceite c/n",
+            "2 cucharaditas de sal"
+        ],
+        "pasos": [
+            "1\nComienza cortando las papas en forma de bastones. Si prefieres, puedes pelarlas previamente, aunque dejarles la cáscara aportará un toque más crujiente. Para evitar que se oxiden, colócalas en un bowl con abundante agua fría.",
+            "2\nFríelas en abundante aceite caliente hasta que estén doradas. Asegúrate de que el aceite esté burbujeante al momento de sumergirlas y que las papas estén bien escurridas y secas para evitar que el aceite salte. Cuando estén listas, retíralas con una espumadera y déjalas escurrir sobre una bandeja con papel absorbente.",
+            "3\nCorta las salchichas en rodajas delgadas, ya sea en forma sesgada o recta.",
+            "4\nDóralas en una sartén amplia con un buen chorro de aceite durante unos minutos, removiendo constantemente para que se cocinen de manera pareja. Como vienen precocidas, solo necesitarán tomar color. Una vez doradas, retíralas y resérvalas hasta el momento de servir.",
+            "5\nPara el pollo, córtalo primero en tiras delgadas y, luego, transversalmente para obtener cubos medianos o grandes.",
+            "6\nEn un bowl, prepara una marinada con huevo, mostaza, sal y pimienta.",
+            "7\nSumerge los cubos de pollo uno a uno y deja reposar en la refrigeradora por lo menos 1 hora.",
+            "8\nPásalos por una mezcla de ingredientes secos: harina de trigo, harina de maíz, sal y paprika. Si te gusta puedes añadirle orégano. Empaniza cada pieza de manera uniforme y retira el exceso sacudiéndolas ligeramente.",
+            "9\nInmediatamente fríelos en abundante aceite a temperatura media, alrededor de los 170 °C. Cocina durante unos minutos, removiendo ocasionalmente para que se doren de manera pareja. Cuando estén bien cocidos y con un color dorado, retíralos con una espumadera y colócalos sobre papel absorbente para eliminar el exceso de aceite.",
+            "10\nFinalmente, sirve el plato de salchipollo peruano armando una base de papas fritas y espolvoreando con sal. Añade por encima las salchichas doradas y corona con las piezas de pollo crujientes. Acompaña con las clásicas salsas: mayonesa, kétchup, mostaza y el infaltable ají. Cuéntanos en los comentarios tu opinión y comparte una fotografía del resultado final."
+        ]
+    },
+    {
+        "id": "rec-p1rsizdpm",
+        "titulo": "Receta de Adobo de carne",
+        "categoria": "Comida Peruana",
+        "tiempo": "45m",
+        "imagen": "https://cdn0.recetasgratis.net/es/posts/0/7/1/adobo_de_carne_78170_orig.jpg",
+        "ingredientes": [
+            "1 kilogramo de carne para guiso",
+            "3 cucharadas soperas de ají panca en pasta",
+            "2 cucharadas soperas de ajo molido o picado",
+            "½ cucharadita de comino molido",
+            "½ cucharadita de pimienta negra molida",
+            "½ cucharadita de achiote en polvo",
+            "100 mililitros de vinagre",
+            "caldo de res c/n",
+            "1 taza de arroz blanco",
+            "2 tazas de agua                                                                    (480 mililitros)",
+            "2 camotes",
+            "sal al gusto",
+            "aceite c/n"
+        ],
+        "pasos": [
+            "1\nComienza prepara el adobo: incorpora ají panca en pasta, ajo molido o picado, comino y pimienta negra molidos, achiote en polvo, un par de cucharaditas de sal y vinagre. Remueve bien.",
+            "2\nAparte, corta la carne en trozos grandes y colócala en un bowl. Vuelca esta marina sobre las piezas de carne.",
+            "3\nEmbardunarlas bien, cubre el bowl con papel film y lleva a refrigerar por lo menos un par de horas, o mejor aún, toda la noche.",
+            "4\nAl día siguiente, en una olla o sartén profunda, sofríe la cebolla picada finamente hasta que esté traslúcida.",
+            "5\nEn ese momento, incorpora la carne con su marinada y cubre con un par de cucharones de caldo de res, o agua si no dispones de caldo. Deja que hierva a fuego medio-bajo durante unos 30 minutos, o hasta que la carne esté bien cocida y suave.",
+            "6\nPara el arroz, añade un buen chorro de aceite en una olla pequeña o en la arrocera. Agrega el arroz blanco y remueve por unos minutos junto con una cucharadita de ajo picado para nacarar el grano y lograr una textura más suelta.",
+            "7\nCubre con agua, añade sal al gusto y remueve para disolverla. Tapa la olla, espera a que rompa el hervor, luego baja el fuego al mínimo y deja cocinar por unos 20 minutos.",
+            "8\nEn otra olla pon a sancochar los camotes en abundante agua. Cuando estén suaves, pélalos y córtalos en rodajas. Sirve el adobo de carne inmediatamente acompañando con una porción de arroz y camote cocido. ¡Buen provecho! Cuéntanos en los comentarios tu opinión y comparte una fotografía del resultado final."
+        ]
+    },
+    {
+        "id": "rec-pnwmnldo4",
+        "titulo": "Receta de Lomito saltado de carne",
+        "categoria": "Comida Peruana",
+        "tiempo": "30m",
+        "imagen": "https://cdn0.recetasgratis.net/es/posts/1/7/1/lomito_saltado_de_carne_78171_orig.jpg",
+        "ingredientes": [
+            "1 kilogramo de lomo fino",
+            "2 cebollas",
+            "4 tomates",
+            "1 ají amarillo",
+            "100 mililitros de vinagre tinto",
+            "120 mililitros de sillao",
+            "caldo de carne c/n",
+            "1 cucharadita de ajo molido",
+            "½ cucharadita de kion rallado",
+            "sal al gusto",
+            "culantro picado",
+            "papas fritas",
+            "arroz blanco graneado"
+        ],
+        "pasos": [
+            "1\nEmpieza cortando la carne en cubos medianos, procurando retirar nervios o grasa para que los trozos queden limpios. Incorpora pimienta negra molida al gusto y reserva.",
+            "2\nAparte, corta los vegetales: cebollas en gajos grandes retirando el corazón, tomates también en gajos del mismo tamaño, y ají amarillo en juliana fina. Si vas a decorar, puedes añadir unas hojas de culantro bien picadas.",
+            "3\nCalienta una sartén amplia o de preferencia un wok con un buen chorro de aceite y deja que alcance temperatura alta, hasta que empiece a humear. En ese momento, coloca cuidadosamente los cubos de carne y deja que se doren sin moverlos. Cuando se haya dorado un lado, voltéalos para que se doren por el otro.\nTruco: este proceso debe ser rápido, con el fuego al máximo, para evitar que la carne se sobrecocine.",
+            "4\nAñade las cebollas, ajíes, tomates, un chorrito de vinagre, sillao, un cucharón de caldo de carne, ajo molido, kion rallado y una pizca de sal. Saltea todo con energía para integrar bien los sabores.",
+            "5\nIncorpora el culantro picadob y continúa salteando hasta que los tomates empiecen a suavizarse.",
+            "6\nSirve inmediatamente y acompaña con papas amarillas fritas, ya sea en gajos o en bastones, y una porción generosa de arroz blanco graneado. ¡A comer el exquisito lomo saltado a la peruana! Cuéntanos en los comentarios tu opinión y comparte una fotografía del resultado final."
+        ]
+    },
+    {
+        "id": "rec-sa8xrgt21",
+        "titulo": "Receta de Tallarines rojos con huancaína",
+        "categoria": "Comida Peruana",
+        "tiempo": "45m",
+        "imagen": "https://cdn0.recetasgratis.net/es/posts/5/6/1/tallarines_rojos_con_huancaina_78165_orig.jpg",
+        "ingredientes": [
+            "Para los tallarines rojos:",
+            "4 piezas de pollo pierna con encuentro",
+            "3 cucharadas soperas de ají panca en pasta",
+            "2 cucharadas soperas de ajo molido",
+            "½ cucharadita de pimienta negra molida",
+            "1 cebolla",
+            "1 zanahoria",
+            "5 tomates",
+            "3 cucharadas soperas de pasta de tomate",
+            "2 tazas de caldo de pollo",
+            "3 hojas de laurel",
+            "1 cucharadita de orégano seco",
+            "200 gramos de tallarines",
+            "Para las papas a la huancaína:",
+            "3 ajíes amarillos",
+            "½ cebolla",
+            "3 dientes de ajo",
+            "200 gramos de queso fresco",
+            "½ paquete de galletas de soda",
+            "1 chorro de leche evaporada",
+            "1 chorro de aceite",
+            "sal al gusto",
+            "2 papas sancochadas en rodajas"
+        ],
+        "pasos": [
+            "1\nComienza sancochando los tallarines. Para hacerlo, pon a hervir agua en una olla grande con tapa; una vez que rompa el hervor, añade un puñado de sal, remueve y espera a que vuelva a hervir. Luego, incorpora los tallarines y deja que se cocinen entre 8 y 10 minutos. Remueve de tanto en tanto para evitar que se peguen. Cuando estén al dente, escúrrelos y resérvalos.",
+            "2\nEn otra olla, dora las piezas de pollo previamente salpimentadas. Asegúrate de agregar un buen chorro de aceite y, si la olla es pequeña, hazlo en tandas para que se sellen bien.",
+            "3\nMientras tanto, corta los vegetales: cebolla, tomate y zanahoria pelada en trozos rústicos, ya que luego se van a licuar.",
+            "4\nSofríe la cebolla, la zanahoria y los dientes de ajo en una olla con aceite. Remueve hasta que se doren ligeramente.",
+            "5\nAgrega los tomates picados, el ají panca y la pasta de tomate. Cocina hasta que los tomates se suavicen. Luego, lleva todo al vaso de la licuadora y tritura con un poco de agua hasta obtener una salsa homogénea.",
+            "6\nVierte esta salsa para tallarines rojos en la olla y añade las piezas de pollo. Cubre con caldo de pollo, añade una cucharadita de sal y aromatiza con hojas de laurel y orégano.",
+            "7\nCocina durante aproximadamente 25 minutos, hasta que el pollo esté bien cocido. En ese punto, incorpora los tallarines. Si prefieres, retira las presas para que sea más fácil mezclar la pasta con la salsa.",
+            "8\nPara preparar la salsa a la huancaína, hierve los ajíes despepitados durante unos 15 minutos, o hasta que la piel se retire fácilmente. Dora la cebolla y los dientes de ajo en una sartén.",
+            "9\nUna vez dorados, colócalos en la licuadora junto con los ajíes, el queso, la galleta, la leche, un buen chorro de aceite y sal al gusto. Tritura hasta obtener una crema suave y bien integrada.",
+            "10\nPara servir, coloca los tallarines rojos peruanos en el plato con las piezas de pollo encima. A un lado, acomoda unas rodajas de papa sancochada y báñalas con la salsa a la huancaína. ¡Y listo! Cuéntanos en los comentarios tu opinión y comparte una fotografía del resultado final."
+        ]
+    },
+    {
+        "id": "rec-h36j8e2q3",
+        "titulo": "Receta de Pollada peruana",
+        "categoria": "Comida Peruana",
+        "tiempo": "45m",
+        "imagen": "https://cdn0.recetasgratis.net/es/posts/4/6/1/pollada_peruana_78164_orig.jpg",
+        "ingredientes": [
+            "4 piezas de pollo",
+            "5 cucharadas soperas de ají panca en pasta",
+            "3 cucharadas soperas de ajo molido",
+            "1 cucharadita de comino molido",
+            "1 cucharadita de pimienta negra molida",
+            "1 cucharadita de orégano seco molido",
+            "2 cucharadas soperas de mostaza",
+            "100 mililitros de vinagre tinto",
+            "100 mililitros de sillao",
+            "3 cucharaditas de sal",
+            "aceite c/n"
+        ],
+        "pasos": [
+            "1\nEmpieza preparando la marinada. En un bowl, mezcla ají panca, ajo molido (picado o rallado), comino, pimienta, orégano seco molido, mostaza, vinagre tinto, un par de cucharaditas de sal y sillao.",
+            "2\nRemueve bien y prueba: debe tener el punto subido de sal.",
+            "3\nVierte la marinada sobre las presas de pollo, embadúrnalas bien y deja reposar un par de horas, o mejor aún, toda la noche en la refrigeradora.",
+            "4\nPasado el tiempo de reposo, cocina las presas en una sartén vertiendo toda la marinada encima, tapa y deja cocer por unos 20 minutos aproximadamente, hasta que el pollo esté completamente cocido. Recuerda voltear las piezas a mitad de cocción para que se cocinen de forma pareja.",
+            "5\nPara darle ese toque crocante a la piel, calienta abundante aceite en una sartén profunda y sumerge las presas. Déjalas dorar bien por ambos lados, volteándolas con cuidado.",
+            "6\nSirve la pollada peruana y acompaña con una ensalada fresca que puede incluir rodajas de tomate, pepinillo, coliflor, palta y/o zanahoria rallada. Añade también una porción de papas, ya sean sancochadas o doradas. Y no te olvides de poner en la mesa un ramequín con crema de ají y rocoto. ¿Te gusta la cocina peruana? Cuéntanos en los comentarios tu opinión y comparte una fotografía del resultado final."
+        ]
+    },
+    {
+        "id": "rec-6wxldgjb8",
+        "titulo": "Receta de Tallarines rojos con atún",
+        "categoria": "Comida Peruana",
+        "tiempo": "30m",
+        "imagen": "https://cdn0.recetasgratis.net/es/posts/9/5/1/tallarines_rojos_con_atun_78159_orig.jpg",
+        "ingredientes": [
+            "1 puñado de tallarines",
+            "2 latas de atún",
+            "1 cebolla finamente picada",
+            "1 cucharada sopera de ajo molido o finamente picado",
+            "4 tomates picados rústicamente",
+            "2 cucharadas soperas de ají panca en pasta",
+            "1 pizca de comino molido",
+            "2 hojas de laurel",
+            "1 pizca de pimienta negra molida",
+            "sal al gusto"
+        ],
+        "pasos": [
+            "1\nEmpieza sancochando la pasta en abundante agua hirviendo con un buen puñado de sal. Deja que se cocine entre 8 a 10 minutos, o prueba uno para asegurarte; debe sentirse firme, pero no crudo. Luego, escúrrelos y resérvalos.",
+            "2\nAparte, en una sartén vierte un buen chorro de aceite. Cuando esté bien caliente, coloca la cebolla finamente picada y deja que se sude. Remueve esporádicamente para evitar que se queme.",
+            "3\nAñade el ajo, ya sea picado finamente, molido o rallado, según tu lo prefieras.",
+            "4\nIncorpora la pasta de ají panca junto con las especias: comino molido, pimienta negra molida y una cucharadita de sal. Cocina por unos minutos más para que se integren los sabores.",
+            "5\nLicúa los tomates con un poco de agua y agrégalos a la sartén junto con el aderezo.",
+            "6\nDeja que hierva, y si deseas, ponle unas hojas de laurel para darle aroma.",
+            "7\nDespués de unos 15 minutos de cocción, añade el atún previamente escurrido para evitar que el exceso de líquido disuelta la salsa.",
+            "8\nRemueve bien, ajusta la sazón y finalmente incorpora los tallarines. Mézclalos con cuidado para que la salsa se entrelace con la pasta. ¡Sirve los tallarines con atún en lata de inmediato y buen provecho! Cuéntanos en los comentarios tu opinión y comparte una fotografía del resultado final."
+        ]
+    },
+    {
+        "id": "rec-w4nlunmrs",
+        "titulo": "Receta de Leche asada peruana",
+        "categoria": "Comida Peruana",
+        "tiempo": "45m",
+        "imagen": "https://cdn0.recetasgratis.net/es/posts/3/5/1/leche_asada_peruana_78153_orig.jpg",
+        "ingredientes": [
+            "2 yemas",
+            "2 tazas de leche evaporada",
+            "4 huevos",
+            "1 vaina de vainilla o esencia de vainilla",
+            "1 taza de Azúcar                                                                    (200 gramos)"
+        ],
+        "pasos": [
+            "1\nPara empezar a preparar esta deliciosa leche asada, lo primero que debes hacer es volcar la lata de leche en una cacerola. Utiliza latas estándar de 397 gramos. Enciende la hornilla para que se caliente, corta una vaina de vainilla por la mitad, raspa las semillas y colócalas en la leche para aromatizarla.",
+            "2\nCuando rompa el hervor, apaga la hornilla y deja reposar por unos 5 minutos aproximadamente, así se hace una infusión.",
+            "3\nAparte, separa las yemas de las claras. Colócalas en un bowl grande junto con los huevos y agrega el azúcar. Remueve con un batidor de globo.",
+            "4\nVierte un poco de la leche caliente en el bowl con los huevos, colando previamente. Bate mientras agregas la leche hasta que se integren.",
+            "5\nVierte el resto de la leche colándola y sigue mezclando. No hace falta batir vigorosamente porque se quiere evitar que se formen burbujas en la superficie.",
+            "6\nVuelve a colar para retirar cualquier residuo de huevo coagulado.",
+            "7\nLlena los dulceros casi al ras. Recuerda utilizar unos pocillos resistentes a altas temperaturas.",
+            "8\nFinalmente, cocina a baño maría a 180°C por unos 45 minutos o hasta que se haya dorado la costra que se forma en la superficie. Luego, deja reposar para que enfríen y refrigera durante toda la noche para un mejor sabor y consistencia. ¡A disfrutar! ¡Cuéntanos en los comentarios tu opinión y comparte con nosotros una fotografía del resultado final!"
+        ]
+    },
+    {
+        "id": "rec-iv4w6e0o7",
+        "titulo": "Receta de Ceviche con leche de tigre",
+        "categoria": "Comida Peruana",
+        "tiempo": "30m",
+        "imagen": "https://cdn0.recetasgratis.net/es/posts/7/4/1/ceviche_con_leche_de_tigre_78147_orig.jpg",
+        "ingredientes": [
+            "4 filetes de pescado blanco (lenguado, corvina, etc)",
+            "1 ají limo",
+            "2 cebolla roja",
+            "4 puñados de culantro",
+            "1 cucharadita de ajo",
+            "1 trozo de kion",
+            "½ rama de apio",
+            "1 pizca de sal",
+            "6 limones",
+            "2 cucharones de chilcano",
+            "maíz chullpi c/n",
+            "4 hojas de lechuga"
+        ],
+        "pasos": [
+            "1\nComienza cortando el pescado en filetes, eliminando espinas y piel. Corta los filetes en cubos uniformes de aproximadamente 2 centímetros. Reserva los restos de pescado para preparar la leche de tigre para el ceviche.",
+            "2\nAromatiza un bowl frotando un ají limo partido y luego agrega una pizca de sal. Si te gusta el picante, añade rocoto finamente picado, además de culantro picado, un poco de cebolla en pluma y una cucharadita de ajo molido. Remueve bien, cubre con papel film y refrigera.\nTruco: si lo deseas, puedes añadir unos cubos de hielo.",
+            "3\nPara preparar la leche de tigre, coloca en el vaso de la licuadora unos dientes de ajo, un trozo de kion, media rama de apio, unas ramas de culantro, el jugo de 4 limones, un trozo de cebolla, un cucharón de chilcano o fumet, los restos de pescado y media cucharadita de sal.",
+            "4\nLicúa durante 30 segundos hasta obtener una mezcla homogénea, luego cuela para eliminar los sólidos.",
+            "5\nAñade el pescado cortado al bowl aromatizado junto con la cebolla en juliana. Vierte la leche de tigre colada sobre el pescado y potencia la acidez con el jugo de 2 limones adicionales. Mezcla suavemente y refrigera por 5 minutos.",
+            "6\nSancocha los camotes hasta que estén tiernos pero firmes. Si deseas, glaséalos con un poco de miel. Cocina los choclos y desgránalos una vez fríos.",
+            "7\nSirve inmediatamente en platos hondos. Coloca una hoja de lechuga como base, dispone las rodajas de camote a un costado y el choclo desgranado. En el centro, coloca el ceviche con su leche de tigre y decora con cancha serrana y yuyo de mar. ¡Cuéntanos en los comentarios tu opinión y comparte con nosotros una fotografía del resultado final!"
+        ]
+    },
+    {
+        "id": "rec-nj6niadzq",
+        "titulo": "Receta de Queso helado arequipeño",
+        "categoria": "Comida Peruana",
+        "tiempo": "10m",
+        "imagen": "https://cdn0.recetasgratis.net/es/posts/5/3/1/queso_helado_arequipeno_78135_orig.jpg",
+        "ingredientes": [
+            "300 gramos de leche entera",
+            "200 gramos de leche evaporada",
+            "100 gramos de crema de leche (opcional)",
+            "3 ramas de canela",
+            "1 chorro de esenica de vainilla",
+            "100 gramos de azúcar                                                                    (½ taza)",
+            "2 yemas",
+            "200 gramos de leche condensada",
+            "50 gramos de coco rallado                                                                    (½ taza)",
+            "canela en polvo c/n"
+        ],
+        "pasos": [
+            "1\nEmpieza tostando el coco rallado en una olla a fuego medio-bajo hasta que esté ligeramente dorado. Asegúrate de removerlo constantemente para evitar que se queme.",
+            "2\nAparte, en otra olla pon a hervir la leche junto con la leche evaporada y, si deseas una textura aún más cremosa, incorpora también crema de leche.",
+            "3\nAromatiza con unas ramas de canela y la esencia de vainilla. Además, puedes utilizar otras especias como anís o clavos de olor. Enriquécelo con las especias que prefieras.",
+            "4\nEn este momento, también puedes endulzar con azúcar. Remueve bien para que se disuelva completamente en la leche caliente.",
+            "5\nDeja que hierva a fuego bajo. Puedes tapar la olla y dejar que la mezcla se infusione con el aroma de las especias durante unos 5 minutos, removiendo de vez en cuando para evitar que rebalse o se evapore en exceso.",
+            "6\nDestapa la olla, apaga el fuego e incorpora el resto de ingredientes. Primero, añade la yema de huevo una por una. Ni bien agregues una, remueve rápidamente con un batidor de globo para evitar que se coagule y lograr que se integre bien a la mezcla.",
+            "7\nAñade la leche condensada, remueve bien y vierte la mezcla en un bowl para congelar. Además, no olvides retirar las ramas de canela antes de llevarla al congelador.",
+            "8\nCuando notes que la crema comienza a congelarse, raspa los bordes con una cuchara o espátula y vuelve a llevar al congelador. Repite este proceso cada cierto tiempo durante unas 2 horas.",
+            "9\nCuando la mezcla tenga una textura similar a un granizado, remueve bien y sirve de inmediato. Puedes decorar espolvoreando canela en polvo por encima. ¡Listo el helado cremoso de queso arequipeño! Cuéntanos en los comentarios tu opinión y comparte una fotografía del resultado final."
+        ]
+    },
+    {
+        "id": "rec-jgesy0av3",
+        "titulo": "Receta de Guiso de pollo peruano",
+        "categoria": "Comida Peruana",
+        "tiempo": "45m",
+        "imagen": "https://cdn0.recetasgratis.net/es/posts/5/2/1/guiso_de_pollo_peruano_78125_orig.jpg",
+        "ingredientes": [
+            "8 piernas y encuentros de pollo",
+            "1 cebolla picada finamente",
+            "3 cucharadas soperas de ají panca en pasta",
+            "2 cucharadas soperas de ajo molido",
+            "4 tomates en cubos",
+            "3 hojas de laurel",
+            "2 zanahoria en cubos",
+            "1 zanahoria en rodajas",
+            "100 gramos de arverjas",
+            "aceite c/n",
+            "sal al gusto",
+            "pimienta negra molida c/n",
+            "papas sancochadas",
+            "arroz blanco graneado"
+        ],
+        "pasos": [
+            "1\nPara preparar estofado de pollo o guiso, comienza sellando las piezas de pollo. En una olla o sartén profunda, calienta un buen chorro de aceite y, cuando esté bien caliente, coloca cuidadosamente las piezas de pollo previamente salpimentadas. Una vez doradas por ambos lados, retíralas y reserva.",
+            "2\nEn la misma sartén, añade la cebolla finamente picada y, si es necesario, vierte otro chorro de aceite. Remueve bien para despegar los restos caramelizados del fondo.",
+            "3\nDespués de aproximadamente 10 minutos, incorpora el ajo, el ají panca, las hojas de laurel, el orégano, una pizca de comino y una cucharadita de sal. Remueve constantemente durante 20 minutos hasta que el aderezo adquiera una consistencia similar a la mermelada. Si notas que se está quemando o el fuego es demasiado alto, agrega un buen chorro de agua para evitarlo.",
+            "4\nMientras se cocina el aderezo, coloca en la licuadora las zanahorias y el tomate en cubos. Vierte agua hasta cubrir y licúa hasta obtener una salsa homogénea. Luego, vierte esta salsa en la sartén con el aderezo junto con la pasta de tomate.",
+            "5\nIncorpora las piezas de pollo y, si es necesario, cubre con caldo de pollo. Tapa la olla y deja que el guiso hierva durante unos 30 minutos o hasta que el pollo esté perfectamente cocido.",
+            "6\nAntes de terminar con el estofado peruano, rectifica la sazón e incorpora las zanahorias en rodajas y las alverjas.",
+            "7\nCocina las verduras por un par de minutos más y sirve de inmediato el estofado de pollo peruano acompañado de una porción de arroz y papa sancochada. ¡Buen provecho! Cuéntanos en los comentarios tu opinión y comparte una fotografía del resultado final."
+        ]
+    },
+    {
+        "id": "rec-3cyi95vih",
+        "titulo": "Receta de Pastel de papa y rocoto relleno",
+        "categoria": "Comida Peruana",
+        "tiempo": "1h 30m",
+        "imagen": "https://cdn0.recetasgratis.net/es/posts/8/0/1/pastel_de_papa_y_rocoto_relleno_78108_orig.jpg",
+        "ingredientes": [
+            "Para el rocoto relleno:",
+            "1 kilogramo de carne picado o molida",
+            "1 cebolla",
+            "2 cucharadas soperas de ajo molido",
+            "3 cucharadas soperas de ají panca",
+            "¼ cucharadita de pimienta negra",
+            "1 pizca de comino molido",
+            "sal al gusto",
+            "¼ cucharadita de orégano",
+            "aceite c/n",
+            "4 rocotos",
+            "1 chorro de vinagre",
+            "2 cucharadas soperas de azúcar",
+            "2 cucharaditas de sal",
+            "Para el pastel de papa:",
+            "1 litro de leche evaporada",
+            "pimienta blanca molida",
+            "1½ cucharaditas de sal",
+            "1 pizca de nuez mosacada",
+            "1 kilogramo de papa blanca, canchan o rosada",
+            "250 gramos de queso fresco en laminas",
+            "3 huevos"
+        ],
+        "pasos": [
+            "1\nPara preparar el pastel de papa con queso, comienza pelando las papas y cortándolas en rodajas de aproximadamente medio centímetro de grosor.",
+            "2\nEn una sartén amplia y profunda, vierte la leche y sazona con sal, pimienta, nuez moscada y ajo finamente picado o molido. Enciende el fuego y deja que hierva.",
+            "3\nSumerge las rodajas de papa una por una y cocina en la leche hasta que estén al dente, es decir, que puedas pincharlas, pero aún mantengan cierta firmeza.",
+            "4\nApaga el fuego inmediatamente y acomoda las papas en una bandeja profunda y resistente a altas temperaturas. Previamente, úntala con mantequilla para evitar que las papas se peguen y facilitar el desmolde. Coloca una primera capa de papas y, encima, una capa de tiras de queso. Repite este proceso alternando capas de papa y queso.",
+            "5\nEn un bowl vierte la leche tibia (casi fría) que quedó de la cocción y añade los huevos. Bate bien hasta que se integren.",
+            "6\nVierte la mezcla de leche y huevo sobre la bandeja con las papas. Termina con una última capa de queso y hornea a 180 °C por aproximadamente 20 minutos, o hasta que la superficie se dore bien.",
+            "7\nPara preparar el rocoto relleno, empieza cortando la parte superior de los rocotos y retirando las venas y semillas. Es recomendable usar guantes durante este proceso.",
+            "8\nPara reducir el picor, coloca los rocotos en una olla con abundante agua, vinagre, sal y azúcar. Hierve durante 5 minutos, luego escurre el agua y repite este proceso de 2 a 3 veces más hasta que el picor disminuya. Reserva los rocotos.",
+            "9\nEn una sartén, sofríe la cebolla finamente picada con un buen chorro de aceite hasta que esté transparente.",
+            "10\nDespués de unos 10 minutos, añade el ajo, ají panca, pimienta, comino, sal al gusto y orégano. Remueve bien y cocina hasta que el aderezo tome consistencia y el aceite se separe.",
+            "11\nIncorpora la carne, que puede ser picada o molida según prefieras, y cocina por unos minutos más.",
+            "12\nRellena los rocotos con la mezcla de carne y cubre con una tajada de queso.",
+            "13\nColoca los rocotos en una bandeja profunda y vierte la leche con huevo que sobró del pastel de papa peruano. Hornea por unos 15 minutos o hasta que el queso gratine bien.",
+            "14\nSirve inmediatamente el pastel de papa con rocoto relleno acompañado de una generosa porción de pastel de papa. ¡Disfruta de esta deliciosa combinación! Cuéntanos en los comentarios tu opinión y comparte una fotografía del resultado final."
+        ]
+    },
+    {
+        "id": "rec-tnl2ky057",
+        "titulo": "Receta de Escabeche de pollo arequipeño",
+        "categoria": "Comida Peruana",
+        "tiempo": "45m",
+        "imagen": "https://cdn0.recetasgratis.net/es/posts/3/1/1/escabeche_de_pollo_arequipeno_78113_orig.jpg",
+        "ingredientes": [
+            "4 encuentros con pierna de pollo",
+            "1 coliflor",
+            "2 zanahorias",
+            "2 puñados de vainitas",
+            "1 cebolla",
+            "vinagre tinto al gusto",
+            "aceite de oliva al gusto",
+            "sal al gusto",
+            "pimienta negra molida al gusto",
+            "jugo de limón al gusto"
+        ],
+        "pasos": [
+            "1\nPara preparar escabeche de pollo, comienza cortando los vegetales. Retira los extremos de la cebolla, pártela por la mitad y quita la capa externa. Luego, córtala en gajos o tiras gruesas, similares a las utilizadas en el lomo saltado.",
+            "2\nLava, pela y corta las zanahoriaseliminando los extremos. Si son muy largas, pártelas por la mitad y, apoyándolas sobre la tabla, corta láminas de aproximadamente 1 cm de grosor. Luego, corta estas láminas en bastones del mismo tamaño.",
+            "3\nAntes de sancochar la coliflor, asegúrate de cortarla en floretes o buquets pequeños, del tamaño de un bocado.",
+            "4\nA las vainitas, retírales los extremos y córtalas de forma sesgada si lo prefieres.",
+            "5\nBlanquea todos los vegetales (excepto la cebolla) en una olla con abundante agua caliente. Cocínalos por separado para evitar que se sobrecocinen, ya que cada uno tiene distintos tiempos de cocción. Una vez listos, resérvalos.",
+            "6\nEn otra olla, sancocha las piernas y encuentros de pollo en abundante agua, sazonada con sal, dientes de ajo, un trozo de cebolla y hojas de laurel. Estos ingredientes aportarán sabor al pollo. Cuando estén listos, retíralos de la olla y resérvalos.",
+            "7\nPara preparar la vinagreta, coloca el vinagre tinto con jugo de limón en un bowl y sazona con sal y pimienta negra al gusto. Luego, vierte aceite de oliva en forma de hilo, removiendo constantemente hasta obtener una emulsión.",
+            "8\nVierte la vinagreta sobre el pollo y deja que se macere durante 30 minutos.",
+            "9\nCocina la cebolla en una sartén con un pequeño chorro de agua, solo para suavizarla y reducir su picor.",
+            "10\nCumplido el tiempo de maceración, retira el pollo de la bandeja y sírvelo. Luego, pasa los vegetales por la vinagreta, remueve bien y sírvelos inmediatamente. Acompaña el plato con papas, camotes sancochados y choclo para disfrutar de una experiencia completa. ¡Buen provecho! Cuéntanos en los comentarios tu opinión y comparte una fotografía del resultado final."
+        ]
+    },
+    {
+        "id": "rec-8ah63bf4k",
+        "titulo": "Receta de Estofado de pollo peruano",
+        "categoria": "Comida Peruana",
+        "tiempo": "45m",
+        "imagen": "https://cdn0.recetasgratis.net/es/posts/1/9/0/estofado_de_pollo_peruano_78091_orig.jpg",
+        "ingredientes": [
+            "8 piezas de pollo",
+            "1 cebolla picada finamente",
+            "1 tomate picado finamente",
+            "3 dientes de ajo",
+            "3 cucharadas soperas de ají panca en pasta",
+            "3 hojas de laurel",
+            "2 tomate",
+            "2 zanahoria",
+            "2 litros de caldo de pollo",
+            "1 zanahoria en rodajas",
+            "100 gramos de arverjas",
+            "aceite c/n",
+            "sal al gusto",
+            "camote sancochado"
+        ],
+        "pasos": [
+            "1\nComienza cortando la cebolla finamente, ya que la utilizaremos para preparar el aderezo. También pica el ajo en trozos pequeños o, si lo prefieres, puedes usar ajo molido. Corta el tomate en concassé, es decir, en cubos muy pequeños. Además, corta otro tomate en gajos rústicos junto con una zanahoria para licuar. Por último, corta la zanahoria en rodajas para la decoración.",
+            "2\nEn una olla o sartén profunda, vierte un buen chorro de aceite y coloca, una por una, las presas de pollo previamente salpimentadas para dorarlas. Cocina hasta que estén doradas por ambos lados y resérvalas aparte.",
+            "3\nEn la misma olla agrega más aceite si es necesario y añade la cebolla, removiendo constantemente durante un par de minutos hasta que esté caramelizada. Incorpora el ajo y el ají panca, y en este momento también puedes agregar unas hojas de laurel y pimienta negra molida.",
+            "4\nDespués de unos 20 minutos, cuando el aderezo haya cocido, añade el tomate picado y remueve durante unos minutos más. Aparte, licúa los trozos de tomate y zanahoria con unos buenos cucharones de caldo de pollo hasta obtener una pasta homogénea, luego vierte esta mezcla en la olla con el aderezo.",
+            "5\nColoca las piezas de pollo en la olla y, si es necesario, añade más caldo de pollo hasta cubrirlas. Agrega una cucharadita de sal, tapa la olla y deja que hierva a fuego bajo durante unos 25 minutos o hasta que el pollo esté completamente cocido. Mantén la temperatura baja para evitar que el líquido se evapore rápidamente y tener salsa muy densa.",
+            "6\nCuando el pollo esté listo, incorpora la zanahoria en rodajas y las arvejas. Tapa el estofado de pollo a la olla y deja que se cocinen hasta estar tiernas.",
+            "7\nPrueba y ajusta la sazón antes de servir. Acompaña el estofado de pollo con arroz con unas rodajas de camote. ¡Buen provecho! Cuéntanos en los comentarios tu opinión y comparte una fotografía del resultado final."
+        ]
+    },
+    {
+        "id": "rec-2i58d2pp4",
+        "titulo": "Receta de Papa rellena peruana",
+        "categoria": "Comida Peruana",
+        "tiempo": "45m",
+        "imagen": "https://cdn0.recetasgratis.net/es/posts/2/9/0/papa_rellena_peruana_78092_orig.jpg",
+        "ingredientes": [
+            "½ kilogramo de papa rosada o blanca",
+            "½ kilogramo de papa amarilla",
+            "1 cebollas roja grande",
+            "2 cucharadas soperas de ajo molido",
+            "½ kilogramo de carne molida de res",
+            "100 gramos de aceituna negra",
+            "2 huevos duros",
+            "100 gramos de pasas negras (opcional)",
+            "harina c/n",
+            "aceite para freir",
+            "sal al gusto",
+            "1 pizca de pimienta negra"
+        ],
+        "pasos": [
+            "1\nComienza con la preparación de la papa rellena peruana sancochando las papas bien lavadas en abundante agua fría para hacer la masa. Cocina a fuego medio-bajo durante unos 30 a 40 minutos, o hasta que puedas pincharlas con un palillo o la punta de un cuchillo y penetren fácilmente.",
+            "2\nRetíralas de la olla inmediatamente, pélalas mientras aún están calientes y prénsalas rápidamente hasta obtener un puré homogéneo. Deja que se enfríe.",
+            "3\nUna vez fría la masa de papa, agrega sal al gusto y una pizca de pimienta blanca recién molida, amasa bien y reserva.",
+            "4\nAparte, en una sartén profunda, vierte un buen chorro de aceite. Cuando esté caliente, vuelca la cebolla picada finamente y sofríe hasta que esté dorada. Incorpora el ajo y sofríe por un par de minutos más.",
+            "5\nAñade el ají panca en pasta y, si lo prefieres, una cucharada de ají amarillo también en pasta. Remueve bien y cocina el aderezo durante unos 15 minutos o hasta que la grasa se separe.",
+            "6\nCon el aderezo listo, incorpora la carne picada o molida, remueve bien y deja que se cocine por unos 10 minutos aproximadamente o hasta que esté perfectamente cocida. En este momento puedes sazonar con pimienta, comino, orégano y sal al gusto.",
+            "7\nDespués de apagar el fuego, incorpora el perejil finamente picado y reserva.",
+            "8\nPara formar las papas rellenas, separa una porción de masa de papa. Para evitar que se pegue a tus manos, engrásalas ligeramente antes de aplanarla. Dale forma cóncava en la palma de tu mano.",
+            "9\nColoca el relleno de carne en el centro y añade una aceituna y 1/4 de huevo sancochado. Cierra la masa cuidadosamente, cubriendo bien el relleno, proporciona forma ovalada con las manos.",
+            "10\nPasa cada papa rellena por harina para evitar que se adhieran a la superficie y repite el procedimiento con las demás porciones de masa.",
+            "11\nFinalmente, fríe en una olla con abundante aceite caliente a unos 180 °C y sumerge las papas peruanas rellenas cuidadosamente, fríelas hasta que estén doradas.",
+            "12\nCuando estén listas, retíralas con una espumadera y escúrrelas sobre papel absorbente. Sirve la mejor receta de papa rellena peruana acompañada de sarsa o con una ensalada fresca. ¡Buen provecho! Cuéntanos en los comentarios tu opinión y comparte una fotografía del resultado final."
+        ]
+    },
+    {
+        "id": "rec-ks0zr9ybb",
+        "titulo": "Receta de Carapulcra chinchana",
+        "categoria": "Comida Peruana",
+        "tiempo": "45m",
+        "imagen": "https://cdn0.recetasgratis.net/es/posts/8/8/0/carapulcra_chinchana_78088_orig.jpg",
+        "ingredientes": [
+            "1 cebolla",
+            "3 dientes de ajo",
+            "5 cucharadas soperas de ají panca en pasta",
+            "1 kilogramo de cerdo (panceta, bondiola)",
+            "1 kilogramo de papa yungay",
+            "1 pizca de comino molido",
+            "¼ cucharadita de pimienta negra molida",
+            "1 rama de canela",
+            "5 clavos de olor",
+            "2 hojas de laurel",
+            "2 litros de caldo de cerdo o ave",
+            "sal al gusto"
+        ],
+        "pasos": [
+            "1\nComienza picando la cebolla en dados pequeños para el aderezo. Haz lo mismo con el ajo o, si prefieres, usa ajo molido. También asegúrate de tener lista la papa Yungay, sancochada y cortada en cubos de aproximadamente un centímetro de grosor. No es necesario que sean perfectamente uniformes, solo asegúrate de que tengan un tamaño similar para lograr una cocción pareja.",
+            "2\nEn una sartén profunda u olla dora las piezas de cerdo previamente salpimentadas y, una vez doradas, resérvalas aparte.",
+            "3\nEn la misma sartén vierte un buen chorro de aceite o deja la manteca de cerdo si prefieres darle un toque más tradicional. Cuando esté bien caliente, incorpora la cebolla y sofríela removiendo ocasionalmente por unos 5 minutos hasta que tome un tono dorado.",
+            "4\nAgrega el ajo picado o molido junto con la pasta de ají panca y continúa cocinando a fuego lento, removiendo de vez en cuando hasta que el aderezo adquiera una textura similar a la de una mermelada. Si notas que se está secando demasiado, añade caldo de cerdo, pollo o agua según lo necesites.",
+            "5\nA media cocción incorpora las especias: comino, pimienta negra, una rama de canela, un par de clavos de olor, hojas de laurel y sal al gusto.",
+            "6\nLuego de aproximadamente 30 minutos, añade el maní molido o, si prefieres, mantequilla de maní, y mezcla bien para integrar los sabores.",
+            "7\nVuelve a incorporar el cerdo y cúbrelo con caldo de cerdo o de ave, dejando que hierva por unos 30 minutos más.",
+            "8\nIncorpora la papa y deja que la preparación de la carapulcra siga hirviendo hasta que tome una consistencia más espesa, removiendo ocasionalmente para comprobar la textura. Si está muy seco, añade más caldo para lograr el equilibrio perfecto.",
+            "9\nCuando el cerdo esté tierno, rectifica la sazón de la carapulcra chinchana y sirve inmediatamente en un plato hondo decorando con una sarsa criolla o acompañándolo con su fiel compañero, la sopa seca y trozos de yuca. ¡A disfrutar! Cuéntanos en los comentarios tu opinión y comparte una fotografía del resultado final."
+        ]
+    },
+    {
+        "id": "rec-jkp0volq1",
+        "titulo": "Receta de Carapulcra de pollo",
+        "categoria": "Comida Peruana",
+        "tiempo": "45m",
+        "imagen": "https://cdn0.recetasgratis.net/es/posts/9/8/0/carapulcra_de_pollo_78089_orig.jpg",
+        "ingredientes": [
+            "8 piezas de piernas y encuentro de pollo",
+            "1 cebolla",
+            "3 dientes de ajo picado",
+            "5 cucharadas soperas de ají panca en pasta",
+            "¼ cucharadita de comino molido",
+            "¼ cucharadita de pimienta negra molida",
+            "1 rama de canela",
+            "2 hojas de laurel",
+            "sal al gusto",
+            "aceite c/n",
+            "1 puñado de maní molido",
+            "500 gramos de papa seca",
+            "2 litros de caldo de pollo"
+        ],
+        "pasos": [
+            "1\nComienza picando la cebolla que usarás para el aderezo y resérvala.",
+            "2\nEn una olla o sartén profunda calienta un buen chorro de aceite y dora las piezas de pollo cuidadosamente, piernas y encuentros previamente salpimentados, hasta que estén doradas por ambos lados. Retíralas y resérvalas aparte.",
+            "3\nEn la misma olla añade otro poco de aceite e incorpora la cebolla picada. Remueve por un par de minutos hasta que se vea translúcida o ligeramente caramelizada, permitiendo que absorba los sabores del fondo.",
+            "4\nAgrega el ajo, la pasta de ají panca y las especias: comino, pimienta molida, rama de canela, hojas de laurel y sal. Mezcla bien y deja que se cocine a fuego lento por unos 40 minutos removiendo esporádicamente y agregando cucharones de caldo de pollo para evitar que el aderezo se seque o se queme. La consistencia ideal es la de una mermelada.",
+            "5\nCuando el aderezo alcance la consistencia adecuada, incorpora el maní molido o en pasta y mezcla bien.",
+            "6\nAgrega la papa seca previamente hidratada y las piezas de pollo doradas, cubre con caldo de pollo.",
+            "7\nRemueve bien, tapa la olla y cocina por aproximadamente 25 minutos o hasta que el pollo esté bien cocido.",
+            "8\nFinalmente, rectifica la sazón y verifica la consistencia de la carapulcra peruana: debe estar espesa, pero no seca. Sirve de inmediato acompañando con una porción de arroz y sarsa criolla. ¡Buen provecho! Cuéntanos en los comentarios tu opinión y comparte una fotografía del resultado final."
+        ]
+    },
+    {
+        "id": "rec-akatd0iq7",
+        "titulo": "Receta de Picadillo de paiche",
+        "categoria": "Comida Peruana",
+        "tiempo": "30m",
+        "imagen": "https://cdn0.recetasgratis.net/es/posts/5/6/0/picadillo_de_paiche_78065_orig.jpg",
+        "ingredientes": [
+            "4 filetes de paiche fresco o deshidratado",
+            "1 cebolla picada",
+            "1 cucharadita de ajo",
+            "1 puñado de sachaculantro",
+            "1 tomate picado",
+            "1 pizca de azafrán, palillo o cúrcuma",
+            "2 tazas de fumet o chilcano",
+            "sal al gusto",
+            "aceite c/n"
+        ],
+        "pasos": [
+            "1\nEmpieza sofriendo la cebolla finamente picada en una sartén con un buen chorro de aceite.",
+            "2\nCuando la cebolla esté traslúcida, incorpora el ajo finamente picado o molido junto con el sachaculantro, que también debe estar bien picado. Para hacerlo, apila las hojas, enróllalas y córtalas en tiras delgadas. Añade el tomate, que debe estar cortado en dados pequeños del mismo tamaño que la cebolla.",
+            "3\nAgrega una el ají dulce picado y una pizca de azafrán, que puedes sustituir por palillo o cúrcuma en polvo. Remueve constantemente mientras cocinas el aderezo. Si notas que se está secando demasiado o quemando, añade un chorro de agua y sigue cocinando.",
+            "4\nDespués de aproximadamente 20 minutos, incorpora el pescado cortado en cubos y cúbrelo con fumet, chilcano o, en su defecto, agua. Puedes usar paiche fresco o, si prefieres una versión más tradicional, paiche deshidratado previamente remojado durante toda la noche y desmenuzado.",
+            "5\nRemueve la mezcla y, tras unos minutos, notarás que el pescado comienza a desmenuzarse. En este momento, incorpora la yuca sancochada y picada.",
+            "6\nAjusta la sazón y sirve inmediatamente acompañado de una porción de arroz, frejoles, plátano verde, patacones o tostones y ensalada de tomate y lechuga. ¡Buen provecho! Cuéntanos en los comentarios tu opinión y comparte una fotografía del resultado final."
+        ]
+    },
+    {
+        "id": "rec-b1nlz58uw",
+        "titulo": "Receta de Ají de gallina peruano",
+        "categoria": "Comida Peruana",
+        "tiempo": "45m",
+        "imagen": "https://cdn0.recetasgratis.net/es/posts/4/3/0/aji_de_gallina_peruano_78034_orig.jpg",
+        "ingredientes": [
+            "1 pechuga de pollo",
+            "1 cebolla picada",
+            "1 cucharada sopera de ajo molido",
+            "4 cucharadas soperas de pasta de ají amarillo",
+            "palillo o cúrcuma c/n",
+            "5 rebanadas de pan de molde sin corteza",
+            "1 chorro de leche",
+            "huevos sancochados en cuartos (opcional)",
+            "aceitunas negras (opcional)",
+            "pecanas tostadas y picadas (opcional)",
+            "¼ cucharadita de pimienta negra molida",
+            "1 chorro de aceite",
+            "sal al gusto",
+            "papas sancochadas y peladas",
+            "arroz graneado"
+        ],
+        "pasos": [
+            "1\nEmpieza sancochando el pollo. Para ello, la pechuga debe estar libre de piel. Una vez lista, sumérgela en abundante agua y aromatiza el caldo con un trozo de cebolla, poro, kion, dientes de ajo, hojas de laurel, pimienta entera y una cucharadita de sal. Deja hervir durante aproximadamente 30 minutos, o hasta que el pollo esté perfectamente cocido. Cuando esté listo, retíralo de la olla, deja enfriar y deshiláchalo. Reserva el caldo.",
+            "2\nAparte, remoja el pan con un par de cucharadas del caldo de pollo caliente o, si prefieres, con leche. Después de unos 10 minutos, el pan debe estar tan suave que se deshace. Desmenúzalo con un tenedor o, si buscas una textura más homogénea, tritúralo en la licuadora y reserva.",
+            "3\nEn una sartén, vierte la cebolla finamente picada y sofríela con un buen chorrito de aceite.",
+            "4\nCuando esté traslúcida, incorpora el ajo molido o picado junto con la pasta de ají amarillo. Agrega las especias: pimienta negra molida, palillo o cúrcuma en polvo y una pizca de sal. Cocina el aderezo hasta que tome la textura de una mermelada, removiendo esporádicamente para evitar que se queme.",
+            "5\nAñade la mezcla de pan y un par de cucharones del caldo de pollo. Deja que rompa hervor y espese.",
+            "6\nSi tiene una textura cremosa, incorpora el pollo deshilachado y vierte el chorro de leche si no lo hiciste anteriormente. Remueve bien.",
+            "7\nCuando vuelva a hervir, rectifica la sazón y la consistencia. Si está muy denso, puedes añadir un par de cucharones de caldo de pollo.",
+            "8\nPor último, incorpora las pecanas tostadas picadas y el queso parmesano rallado.",
+            "9\nSirve sobre un par de rodajas de papa sancochada acompañado de una porción de arroz. Para la presentación, decora con rodajas de huevo duro, aceitunas negras y más pecanas picadas. ¡A comer! Cuéntanos en los comentarios tu opinión y comparte una fotografía del resultado final."
+        ]
+    },
+    {
+        "id": "rec-d207hnqhp",
+        "titulo": "Receta de Picante de papa",
+        "categoria": "Comida Peruana",
+        "tiempo": "45m",
+        "imagen": "https://cdn0.recetasgratis.net/es/posts/3/5/9/picante_de_papa_77953_orig.jpg",
+        "ingredientes": [
+            "1 cebolla",
+            "3 cucharaditas de ajo molido",
+            "3 cucharadas soperas de pasta de ají amarillo",
+            "1 kilogramo de papa pelada y en cubos",
+            "100 gramos de pan",
+            "1 litro de caldo de pollo",
+            "200 gramos de queso rallado",
+            "1 chorro de leche (opcional)",
+            "sal al gusto",
+            "aceite c/n"
+        ],
+        "pasos": [
+            "1\nComienza preparando el aderezo. Primero, corta una cebolla en cubos pequeños: parte la cebolla por la mitad, retira los extremos y la última capa que la recubre. Corta tiras delgadas sin llegar a cortarlas por completo hasta el otro extremo. Luego, corta transversalmente para obtener cubos pequeños.",
+            "2\nSofríe la cebolla en una sartén profunda previamente caliente con un buen chorro de aceite.",
+            "3\nCuando la cebolla se vea traslúcida, añade el ajo molido o finamente picado y la pasta de ají amarillo. Mantente removiendo esporádicamente por unos 15 minutos aproximadamente. Puedes añadir cucharones de agua si notas que la base se está quemando.",
+            "4\nIncorpora la papa, previamente pelada y picada en cubos medianos. Si prefieres una versión más tradicional, la papa debe estar sancochada previamente; sin embargo, también puedes incorporarla cruda. Simplemente cubre con caldo de pollo y deja que se cocine hasta que los cubos estén suaves. Asegúrate de remover de vez en cuando para que no se queme el fondo.",
+            "5\nMientras la papa se cocina, coloca el pan en un bowl y cúbrelo con caldo de pollo caliente.",
+            "6\nCuando la papa esté lista, vuelca la mezcla de pan en la olla y remueve bien. En este momento, la mezcla se espesará; si aún está un poco líquida, puedes aplastar un par de papas para darle más consistencia.",
+            "7\nAntes de servir, agrega el queso rallado y remueve. Si deseas, puedes añadir un chorrito de leche.",
+            "8\nSirve inmediatamente y decora con más queso rallado, perejil finamente picado y, si prefieres, unas rodajas o cubos de huevo sancochado. ¡Buen provecho! Cuéntanos en los comentarios tu opinión y comparte con nosotros una fotografía del resultado final."
+        ]
+    },
+    {
+        "id": "rec-jba71b3ez",
+        "titulo": "Receta de Frejoles con seco de pollo",
+        "categoria": "Comida Peruana",
+        "tiempo": "1h 30m",
+        "imagen": "https://cdn0.recetasgratis.net/es/posts/3/4/9/frejoles_con_seco_de_pollo_77943_orig.jpg",
+        "ingredientes": [
+            "4 piernas con encuentros",
+            "2 cebollas finamente picada",
+            "2 cucharadas soperas de ajo molido",
+            "½ taza de culantro",
+            "3 cucharadas soperas de ají amarillo molido",
+            "1 litro de caldo de pollo",
+            "2 zanahorias cortadas",
+            "1 puñado de alverjas",
+            "70 mililitros de chicha de jora",
+            "½ kilogramo de frejol canario",
+            "3 hojas de laurel",
+            "1 pizca de pimienta negra molida",
+            "1 pizca de comino molido",
+            "sal al gusto",
+            "aceite c/n"
+        ],
+        "pasos": [
+            "1\nPara el seco de pollo, comienza licuando las ramas y hojas de culantro con un chorro de agua hasta obtener una mezcla homogénea.",
+            "2\nSazona las piezas de pollo con sal, pimienta negra molida y una pizca de comino. Sella las piezas de pollo en una olla grande con un poco de aceite caliente, dorándolas por ambos lados. Retira y reserva.",
+            "3\nEn la misma olla, añade otro chorro de aceite y caliéntalo. Incorpora la cebolla finamente picada y revuelve ocasionalmente hasta que se vuelva translúcida para comenzar a preparar el aderezo.",
+            "4\nAgrega ajo picado o molido, pasta de ají amarillo y una pizca de sal. Remueve hasta que la mezcla adquiera la consistencia de una mermelada y el aceite comience a separarse.",
+            "5\nAñade la mitad del culantro licuado, la chicha de jora y las piezas de pollo. Cubre con caldo de pollo o agua caliente.",
+            "6\nTapa la olla y cocina a fuego medio por 30 minutos.",
+            "7\nAgrega las zanahorias y alverjas, cocina hasta que estén tiernas. Ajusta el sabor con el resto del culantro licuado y sal al gusto.",
+            "8\nPara los frejoles, remójalos durante toda la noche. Al día siguiente, enjuágalos bien y colócalos en una olla grande con agua fría hasta cubrirlos por dos dedos. Puedes añadir hojas de laurel y un trozo de tocino. Tapa la olla y aproximadamente cocina por 1 hora o hasta que los frejoles estén suaves.",
+            "9\nTapa la olla y deja que se cocine por 1 hora aproximadamente o hasta los frejoles estén suaves. En este momento, retira las hojas de laurel y el trozo de cerdo.",
+            "10\nEn una sartén a fuego lento, prepara un aderezo con cebolla picada, ajo, sal, pimienta y comino. Incorpora el aderezo a la olla de frejoles, remueve y deja hervir mientras aplastas un poco los frejoles para que queden cremosos.",
+            "11\nSirve los frejoles como base en el plato, añade una porción de arroz, coloca una pieza de pollo encima y cubre con bastante jugo. ¡Buen provecho! Cuéntanos en los comentarios tu opinión sobre la elaboración de seco de carne con frejoles y comparte con nosotros una fotografía del resultado final."
+        ]
+    },
+    {
+        "id": "rec-osw7ukxje",
+        "titulo": "Receta de Postre maná",
+        "categoria": "Comida Peruana",
+        "tiempo": "1h 30m",
+        "imagen": "https://cdn0.recetasgratis.net/es/posts/9/2/9/postre_mana_77929_orig.jpg",
+        "ingredientes": [
+            "1 litro de leche evaporada",
+            "1 huevo",
+            "6 yemas",
+            "400 gramos de azúcar                                                                    (2 tazas)"
+        ],
+        "pasos": [
+            "1\nEmpieza colocando la leche y el azúcar en una olla grande.",
+            "2\nAun frío, añade las yemas y los huevos batidos, removiendo bien. A continuación, enciende el fuego a temperatura media y remueve hasta que el azúcar se disuelva y la mezcla rompa a hervir. Es importante que la olla sea alta para evitar que la leche rebalse.",
+            "3\nDeja que hierva hasta que la mezcla se reduzca, lo cual tomará alrededor de 30 minutos. Durante este tiempo, cuando la mezcla se espese, asegúrate de remover constantemente para evitar que el fondo se queme.",
+            "4\nCumplido el tiempo de cocción, sabrás que está listo cuando al remover el manjar puedas ver el fondo de la olla. Retira del fuego y vierte el manjar en el bowl de la batidora. Bate a máxima velocidad con el accesorio de paleta hasta que enfríe.",
+            "5\nRetira la mezcla del bowl y colócala sobre una hoja de papel film. A continuación, envuelve y refrigera por 1 hora, amasa el manjar hasta obtener una masa homogénea que se despegue de las manos.",
+            "6\nDivide la masa en cuatro porciones y envuélvelas en papel film para que no se sequen. Luego, tiñe cada porción del color de la fruta correspondiente: rojo para fresas, verde para peras, naranja para duraznos y naranjas, y amarillo para plátanos.",
+            "7\nComienza a proporcionar forma a las frutas modelando con las manos.",
+            "8\nTermina el postre de maná colocando clavos de olor en forma de tallo para las naranjas y peras. Para las fresas, coloca unas hojas en la parte superior con el manjar verde y da la ilusión de semillas pasando las fresas por un rallador fino. Puedes darle el mismo efecto a las naranjas.",
+            "9\nTermina decorando las frutas y sírvelas en la mesa. ¡A disfrutar! Cuéntanos en los comentarios tu opinión y comparte con nosotros una fotografía del resultado final."
+        ]
+    },
+    {
+        "id": "rec-0ctj6pj9y",
+        "titulo": "Receta de Chiffon de naranja",
+        "categoria": "Comida Peruana",
+        "tiempo": "1h 30m",
+        "imagen": "https://cdn0.recetasgratis.net/es/posts/7/0/9/chiffon_de_naranja_77907_orig.jpg",
+        "ingredientes": [
+            "260 gramos de harina",
+            "6 yemas",
+            "6 claras",
+            "200 gramos de azúcar                                                                    (1 taza)",
+            "200 gramos de jugo de naranja",
+            "40 gramos de aceite",
+            "6 gramos de polvo de hornear",
+            "1 pizca de sal"
+        ],
+        "pasos": [
+            "1\nPara hacer este chiffon de naranja, comienza exprimiendo el jugo de las naranjas. Utiliza una naranja de jugo y ralla la cáscara antes de cortarla para que sea más fácil.",
+            "2\nCierne los ingredientes secos 5 veces (harina, polvo de hornear y pizca de sal). Cernir ayuda a que el bizcocho quede mucho más esponjoso y delicado.",
+            "3\nEngrasa la base del molde y corta un disco de papel manteca para que encaje perfectamente en la base. No engrases las paredes para que el bizcocho se adhiera y crezca alto.",
+            "4\nSepara las claras de las yemas y coloca las claras en un bowl limpio y seco. Luego, bátelas hasta que se vean espumosas y vierte la mitad del azúcar en forma de lluvia. Continúa batiendo hasta que se formen picos firmes. Reserva aparte.",
+            "5\nEn el mismo bowl, vuelca las yemas y agrega el resto del azúcar. También aromatiza con ralladura de cáscara de naranja. Empieza a batir a máxima velocidad hasta que duplique su volumen y se vea una crema de un color amarillo un poco más pálido.",
+            "6\nDeja de batir y agrega el aceite. Bate hasta que se integre.",
+            "7\nIncorpora el jugo de naranja y mezcla bien.",
+            "8\nAñade la mezcla de ingredientes secos en tres tiempos y siempre moviendo de forma envolvente. Para hacerlo, utiliza una espátula de goma dando giros de arriba hacia abajo delicadamente mientras rotas el bowl.",
+            "9\nPor último, incorpora el merengue también en tiempos y continuando con los movimientos envolventes.",
+            "10\nCuando la masa se vea homogénea, vuélcala en el molde engrasado. Esparce un poco para que crezca de forma uniforme y hornea a 170 °C por 1 hora o hasta que al introducir un palillo, este salga completamente limpio.",
+            "11\nEntonces, retira del horno y dale vuelta inmediatamente para que enfríe por un par de horas boca abajo.",
+            "12\nFinalmente, decora con azúcar impalpable y corta unas tajadas. ¡A disfrutar! Cuéntanos en los comentarios tu opinión y comparte con nosotros una fotografía del resultado final."
+        ]
+    },
+    {
+        "id": "rec-5ed0mbk0h",
+        "titulo": "Receta de Adobo ayacuchano",
+        "categoria": "Comida Peruana",
+        "tiempo": "1h 30m",
+        "imagen": "https://cdn0.recetasgratis.net/es/posts/2/0/9/adobo_ayacuchano_77902_orig.jpg",
+        "ingredientes": [
+            "1 kilogramo de cerdo",
+            "2 cebollas finamente picadas",
+            "2 zanahorias",
+            "3 cucharadas soperas de ají panca en pasta",
+            "2 cucharadas soperas de ajo molido",
+            "2 ramas de hierba buena",
+            "4 papas blancas",
+            "1 cebolla china",
+            "1 chorro de vinagre tinto",
+            "½ cucharadita de orégano seco molido",
+            "¼ cucharadita de comino molido",
+            "1 cebolla en gajos",
+            "mote sancochado",
+            "8 hojas de lechuga",
+            "sal al gusto",
+            "aceite c/n"
+        ],
+        "pasos": [
+            "1\nEmpieza cortando el cerdo en trozos medianos si es que no está previamente cortado y, luego, procede a salpimentarlos uno a uno.",
+            "2\nCalienta una olla con un buen chorro de aceite y, luego, séllalos. Puedes hacerlo en tandas para que se doren las piezas en vez de sancocharse. Dales vuelta para que todos los lados se doren y, luego, retíralos de la olla y resérvalos aparte.",
+            "3\nEn la misma olla, vierte otro chorro de aceite y añade la cebolla finamente picada para sudarla. Remueve para que se desprendan los restos de cerdo caramelizados en el fondo de la olla.",
+            "4\nDespués de unos 5 minutos, agrega el ají panca en pasta y el ajo molido. Mantén a fuego por unos 15 minutos más removiendo esporádicamente para evitar que se queme y llegue a tener la textura de una mermelada, integra las piezas de cerdo.",
+            "5\nCubre con agua y añade el vinagre tinto, orégano, comino molido y una cucharadita de sal. Además, sumerge una rama de hierbabuena, tapa y deja cocinar por 45 minutos aproximadamente.",
+            "6\nCumplido el tiempo de cocción, incorpora las zanahorias cortadas en trozos grandes y la papa pelada y picada del mismo tamaño. Deja que hierva por otros 10 minutos o hasta que las papas estén suaves.",
+            "7\nPor último, añade las cebollas cortadas en gajos y la cebolla china cortada en un largo de 4 dedos. Deja que hierva un par de minutos más.",
+            "8\nRectifica la sazón y sirve inmediatamente en un plato hondo sobre unas hojas de lechuga y acompaña con mote y un par de panes chapla. ¡Buen provecho! Cuéntanos en los comentarios tu opinión y comparte con nosotros una fotografía del resultado final."
+        ]
+    },
+    {
+        "id": "rec-7l5r3k18k",
+        "titulo": "Receta de Patachi",
+        "categoria": "Comida Peruana",
+        "tiempo": "1h 30m",
+        "imagen": "https://cdn0.recetasgratis.net/es/posts/4/0/9/patachi_77904_orig.jpg",
+        "ingredientes": [
+            "1 kilogramo de carne con hueso",
+            "1 trozo de pellejo o carne de cerdo",
+            "6 pimientas negras enteras",
+            "5 dientes de ajo",
+            "200 gramos de trigo",
+            "100 gramos de habas secas",
+            "100 gramos de alverja partida seca",
+            "chuño c/n",
+            "½ apio",
+            "3 zanahorias",
+            "3 papas",
+            "1 pizca de orégano seco molido",
+            "sal al gusto"
+        ],
+        "pasos": [
+            "1\nDesde la noche anterior, vierte el trigo en un bowl y cúbrelo con abundante agua fría, déjalo remojar durante toda la noche. Al día siguiente, enjuágalo bien y tenlo listo para usar. Haz lo mismo con las alverjas secas partidas y déjalas remojando.",
+            "2\nCorta la pieza de carne en trozos grandes para que tomen menos tiempo de cocción. Luego, colócalos en una olla grande junto con el pellejo o trozos de cerdo.",
+            "3\nAgrega unas pimientas negras, dientes de ajo, el trigo, las habas remojadas y el chuño. Tapa la olla y deja que se cocine por 1 hora o hasta que el trigo haya reventado y se sienta suave.",
+            "4\nDestapa la olla y añade las ramas de apio cortadas, las zanahorias en cubos grandes o, si prefieres, en bastones y las papas peladas. Reduce el fuego a medio bajo y deja que se cocine por 15 minutos o hasta que la carne y los demás ingredientes estén muy suaves.",
+            "5\nCumplido el tiempo de cocción, añade sal al gusto y orégano seco molido.",
+            "6\nSirve inmediatamente en un plato hondo y, si te gusta, espolvorea perejil picado encima. ¡Buen provecho! Cuéntanos en los comentarios tu opinión y comparte con nosotros una fotografía del resultado final."
+        ]
+    },
+    {
+        "id": "rec-qd4goypt9",
+        "titulo": "Receta de Pollo a la Coca Cola en olla",
+        "categoria": "Comida Peruana",
+        "tiempo": "45m",
+        "imagen": "https://cdn0.recetasgratis.net/es/posts/2/9/8/pollo_a_la_coca_cola_en_olla_77892_orig.jpg",
+        "ingredientes": [
+            "4 piernas con encuentro",
+            "1½ cebolla finamente picada",
+            "2 cucharadas soperas de ajo molido",
+            "3 cucharadas soperas de pasta de tomate",
+            "½ litro de gaseosa negra",
+            "1 chorro de sillao",
+            "2 cucharadas soperas de maicena o chuño",
+            "sal al gusto",
+            "aceite c/n",
+            "rodajas de papa sancochada o arroz blanco graneado"
+        ],
+        "pasos": [
+            "1\nEmpieza salpimentando las piezas de pollo y, luego, procede a sellarlas en una olla con un buen chorro de aceite. Asegúrate de que el aceite esté bien caliente para que tomen color, dales vuelta para que adopten un color dorado uniforme. Retira las piezas de pollo y resérvalas.",
+            "2\nVierte otro chorro de aceite en la olla con los restos de pollo e incorpora la cebolla finamente picada para empezar a hacer un aderezo. Notarás que se comienzan a despegar los restos caramelizados.",
+            "3\nRemueve constantemente por unos 5 minutos aproximadamente hasta que la cebolla se vea traslúcida. Luego, incorpora el ajo molido o finamente picado y la pasta de tomate.",
+            "4\nRemueve esporádicamente por 10 minutos y reincorpora las piezas de pollo.",
+            "5\nCubre con la gaseosa negra, un buen chorro de sillao y tapa la olla.",
+            "6\nDeja que se cocine por 25 minutos aproximadamente o hasta que las piezas de pollo estén perfectamente cocidas. Si les falta cocción, vuelve a tapar la olla y deja que se cocinen por otros 10 minutos.",
+            "7\nCuando el pollo esté cocido, retíralo y resérvalo, espesa la salsa con maicena o chuño. Recuerda disolver cualquiera de estas féculas en agua fría hasta que se disuelvan por completo. Luego, vierte esta mezcla en la salsa y remueve constantemente para que no se formen grumos y deja que hierva por 5 minutos aproximadamente.",
+            "8\nRectifica la sazón de los muslos de pollo a la Coca Cola, puedes agregar sal para contrastar el sabor dulce y, luego, volver a sumergir las piernas para que se vuelvan a calentar. Sirve inmediatamente con unas rodajas de papa sancochada o arroz blanco graneado.¡Buen provecho! Cuéntanos en los comentarios tu opinión y comparte con nosotros una fotografía del resultado final."
+        ]
+    },
+    {
+        "id": "rec-uj5qjgyq9",
+        "titulo": "Receta de Chiffon de vainilla o angel cake",
+        "categoria": "Comida Peruana",
+        "tiempo": "1h 30m",
+        "imagen": "https://cdn0.recetasgratis.net/es/posts/3/0/9/chiffon_de_vainilla_o_angel_cake_77903_orig.jpg",
+        "ingredientes": [
+            "6 huevos",
+            "200 gramos de azúcar                                                                    (1 taza)",
+            "4 gramos de vainilla",
+            "40 gramos de aceite",
+            "200 gramos de leche",
+            "260 gramos de harina",
+            "6 gramos de polvo de hornear",
+            "1 pizca de sal"
+        ],
+        "pasos": [
+            "1\nEmpieza tamizando unas 5 veces los ingredientes secos: harina, polvo de hornear y sal. Cernir varias veces ayuda a que el bizcocho quede bien esponjoso.",
+            "2\nPrepara el molde enmantequillando solo la base y cortando un aro de papel manteca que encaje perfectamente en la base. Luego, adhiérelo a la mantequilla. No enmantequilles las paredes ni agregues harina, ya que se desea que la masa se pegue a las paredes para que crezca adecuadamente.",
+            "3\nSepara las claras de las yemas y coloca las yemas en un bowl, bátelas con la mitad del azúcar y aromatiza con un chorro de esencia de vainilla. Usa una batidora eléctrica hasta que tripliquen su volumen.",
+            "4\nIntegra el aceite y la leche, y sigue batiendo hasta que se mezclen bien estos ingredientes.",
+            "5\nIncorpora poco a poco, o en tandas, la mezcla de ingredientes secos previamente cernidos. Puedes cernirlos una vez más sobre la masa de yemas para que quede bien esponjosa.",
+            "6\nMezcla utilizando una espátula de goma y realizando movimientos envolventes hasta que no quede ni un solo grumo de harina. Reserva la masa.",
+            "7\nAparte, en un bol limpio, bate las claras a punto de nieve y vierte en un bol, bátelas a máxima velocidad hasta que estén espumosas y blancas. En este momento, añade el resto del azúcar en forma de lluvia y sigue batiendo hasta que se formen picos firmes.",
+            "8\nAñade el merengue en 3 tiempos a la masa continuando con los movimientos envolventes.",
+            "9\nCuando obtengas una masa homogénea, viértela en el molde y hornea a 170 °C durante 1 hora o hasta que al introducir un palillo, este salga limpio.",
+            "10\nCuando el chiffon peruano esté listo, retíralo del horno y déjalo enfriar de cabeza. Si tu molde no tiene patitas, coloca 3 objetos del mismo tamaño como soporte y deja enfriar por un par de horas.",
+            "11\nFinalmente, desmolda pasando una espátula por las paredes y retirando el papel manteca. Decora espolvoreando azúcar impalpable encima. ¡A disfrutar! Cuéntanos en los comentarios tu opinión y comparte con nosotros una fotografía del resultado final."
+        ]
+    },
+    {
+        "id": "rec-54fi1imjn",
+        "titulo": "Receta de Bola de oro postre",
+        "categoria": "Comida Peruana",
+        "tiempo": "1h 30m",
+        "imagen": "https://cdn0.recetasgratis.net/es/posts/5/0/9/bola_de_oro_postre_77905_orig.jpg",
+        "ingredientes": [
+            "Para el bizcocho:",
+            "200 gramos de mantequilla",
+            "180 gramos de azúcar",
+            "2 huevos",
+            "200 gramos de harina",
+            "120 gramos de leche evaporada",
+            "4 gramos de polvo de hornear",
+            "esencia de vainilla c/n",
+            "Para el manjar de yemas:",
+            "400 mililitros de leche evaporada",
+            "400 gramos de leche condensada",
+            "8 yemas",
+            "esencia de vainilla o rama de canela",
+            "Para la mermelada de albaricoques",
+            "200 gramos de albaricoques",
+            "50 gramos de azúcar                                                                    (¼ taza)",
+            "Para el manjar de pecanas:",
+            "150 gramos de azúcar                                                                    (¾ taza)",
+            "150 gramos de leche evaporada",
+            "100 gramos de pecanas tostadas y picadas",
+            "Para el maná:",
+            "1 litro de leche evaporada",
+            "400 gramos de azúcar                                                                    (2 tazas)",
+            "1 huevos",
+            "6 yemas",
+            "esencia de vainilla o ramas de anela",
+            "Para el glaseado real:",
+            "1 clara",
+            "270 gramos de azúcar impalpable",
+            "gotas de jugo de limón"
+        ],
+        "pasos": [
+            "1\nEmpieza preparando el bizcocho. Coloca la mantequilla, que debe estar a temperatura ambiente, junto con el azúcar y bate a máxima velocidad hasta que se convierta en una crema suave y untable.",
+            "2\nIncorpora los huevos uno a uno y bate después de cada adición. Además, en este momento puedes saborizar con esencia de vainilla.",
+            "3\nIntercala los ingredientes secos con los líquidos. Es decir, vierte un tercio de la harina junto con el polvo de hornear, mezcla a velocidad baja hasta que se incorpore.",
+            "4\nAñade la mitad de la leche evaporada y mezcla también a velocidad baja.",
+            "5\nIntegra la segunda parte de ingredientes secos, luego el resto de la leche y termina añadiendo el último tercio de la harina. Mezcla a velocidad mínima después de cada adición.",
+            "6\nCuando la mezcla se vea homogénea, vuélcala en dos placas con tapetes de silicona o papel manteca y hornea a 170 °C por 15 minutos o hasta que la superficie se vea dorada. Luego, retira del horno, desmolda, deja enfriar y corta en discos de diferentes tamaños.",
+            "7\nLa segunda preparación es el manjar de yemas. Comienza vertiendo en una olla la leche evaporada junto con la leche condensada y, si quieres aromatizar, unas gotas de esencia de vainilla o una rama de canela. Deja que hierva removiendo esporádicamente y teniendo cuidado de que no rebalse.",
+            "8\nDespués de unos 20 minutos, notarás que ya no rebalsa y empieza a evaporarse el líquido, obteniendo una salsa densa. Retira del fuego y vierte la mezcla colándola sobre un bowl con las yemas batidas. Cuando viertas un poco del manjar, remueve rápidamente para evitar que el huevo se coagule y vierte el resto del manjar encima. Mezcla bien hasta que veas una crema homogénea y, vuelve a colar si deseas, reserva.",
+            "9\nLa tercera preparación es el manjar de pecanas. Hacerlo es diferente al manjar de yemas: tienes que empezar haciendo un caramelo, es decir, vierte en una olla el azúcar y cubre con agua.",
+            "10\nDeja que hierva sin remover hasta que esté dorado y, luego, vierte de golpe la leche caliente. Mezcla hasta que se vea como una salsa ligeramente densa y retira del fuego.",
+            "11\nAgrega las pecanas picadas y tostadas, remueve bien y reserva.",
+            "12\nLa cuarta preparación es la mermelada de albaricoque. Comienza colocando los albaricoques en agua caliente para hidratarlos. Déjalos reposar por 10 minutos o hasta que estén suaves y, luego, tritúralos en la licuadora. Vierte este puré en una olla y agrega el azúcar. Deja que hierva hasta que se vea denso como una mermelada o compota y luego retira del fuego y reserva.",
+            "13\nEmpieza armando la bola de oro. Forra la parte interna de un bowl semicircular y comienza a colocar un disco pequeño de bizcocho. Coloca una capa del manjar de yemas, encima mermelada de albaricoque, luego cubre con otro bizcocho. Después, una capa del manjar de pecanas y cubre con otro bizcocho.",
+            "14\nRepite las mismas capas hasta llenar al ras del bowl y cubre con papel film. A continuación, con una tabla o un plato plano, aplasta la superficie para que se compacten las capas. Refrigera durante toda la noche y, al día siguiente, desmolda y retira el papel film.",
+            "15\nLa quinta preparación es hacer el maná. Para ello, vierte en una olla la leche y el azúcar. Agrega las yemas junto con los huevos batidos y mezcla bien. Enciende el fuego a medio y remueve constantemente hasta que, después de unos 30 minutos, tome punto.",
+            "16\nReduce el fuego y sigue removiendo, notarás que se forma un manjar denso. Retíralo del fuego, vierte la mezcla en la batidora y bate a máxima velocidad hasta que enfríe. Envuelve esta masa homogénea en film y refrigera por 1 hora.",
+            "17\nAmasa el maná y reserva un poco para hacer las frutas de decoración. Luego, estíralo hasta que tenga el doble de tamaño que la torta y cubre, que debe estar untada por la superficie con el manjar de yemas. Forra bien y corta el exceso. Vuelve a amasar el excedente y realiza dos rollitos delgados para entrelazarlos y decorar el borde.",
+            "18\nLa última preparación es el glaseado real que se usa para decorar. Hacerlo es fácil: coloca la clara, el azúcar en polvo y el jugo de limón en un bowl y bátelo a máxima velocidad por aproximadamente 5 minutos. Luego, colócalo en una manga con boquilla delgada y decora la torta bola de oro haciendo un punto perdido.",
+            "19\nFinalmente, decora con las frutas de postre maná y sirve inmediatamente. ¡A disfrutar! Cuéntanos en los comentarios tu opinión y comparte con nosotros una fotografía del resultado final."
+        ]
+    },
+    {
+        "id": "rec-umy68o7qz",
+        "titulo": "Receta de Cocadas peruanas",
+        "categoria": "Comida Peruana",
+        "tiempo": "45m",
+        "imagen": "https://cdn0.recetasgratis.net/es/posts/0/9/8/cocadas_peruanas_77890_orig.jpg",
+        "ingredientes": [
+            "100 gramos de azúcar                                                                    (½ taza)",
+            "120 gramos de coco rallado (mix pelo largo y corto)",
+            "2 claras",
+            "25 gramos de harina",
+            "1 gramo de polvo de hornear",
+            "1 pizca de sal",
+            "canela en polvo c/n"
+        ],
+        "pasos": [
+            "1\nEmpieza colocando en un bowl pequeño resistente a altas temperaturas las claras con el azúcar. Remueve constantemente con un batidor de globo y coloca el bowl sobre una cacerola a baño maría. Mantente removiendo constantemente por aproximadamente 5 minutos o hasta que el azúcar esté completamente disuelto.\nTruco: es importante remover para que las claras no se coagulen y quede una textura de huevo revuelto.",
+            "2\nIncorpora el coco rallado. Puedes combinar un coco rallado más fino con un coco rallado más grueso, en hebras, y remueve bien. Esta vez puedes cambiar a utilizar una espátula de goma, si es más fácil y, luego, retira del fuego.",
+            "3\nFuera del fuego, incorpora los ingredientes secos: canela en polvo, harina y polvo de hornear.",
+            "4\nMezcla bien y, con las manos, retira trozos de masa para formar bolitas de aproximadamente 50 gramos cada una.",
+            "5\nColoca estas cocadas tradicionales en una placa con tapete de silicona o papel manteca, dejando un espacio de 4 dedos de separación entre cada una.",
+            "6\nHornea a 180 °C por 25 minutos o hasta que se vean doradas. Luego, retira la placa del horno y deja que enfríen. ¡Ahora ya puedes disfrutarlas! Cuéntanos en los comentarios tu opinión y comparte con nosotros una fotografía del resultado final."
+        ]
+    },
+    {
+        "id": "rec-myhc5yw8j",
+        "titulo": "Receta de Anticuchos peruanos",
+        "categoria": "Comida Peruana",
+        "tiempo": "45m",
+        "imagen": "https://cdn0.recetasgratis.net/es/posts/3/8/8/anticuchos_peruanos_77883_orig.jpg",
+        "ingredientes": [
+            "1 kilogramo de corazón de res",
+            "3 cucharadas soperas de ajo molido",
+            "1 chorro de aceite",
+            "½ taza de vinagre tinto",
+            "6 cucharadas soperas de ají panca en pasta",
+            "½ cucharadita de comino molido",
+            "½ cucharada sopera de orégano seco molido",
+            "½ cucharada postre de pimienta negra molida",
+            "sal al gusto",
+            "2 choclos",
+            "4 papas",
+            "mantequilla para dorar c/n"
+        ],
+        "pasos": [
+            "1\nEmpieza limpiando el corazón de todas las partes blancas y duras, si es que no lo compraste ya limpio. Después, procede a cortar tiras gruesas y, luego, trozos en forma cuadrada alargada y de un grosor regular para que la cocción sea pareja. Recuerda cortar a contrapelo para que quede suave.",
+            "2\nPara la marinada, vierte en un bowl grande ajo molido o finamente picado, aceite, vinagre tinto, ají panca en pasta, comino molido, orégano, pimienta negra molida y sal al gusto. Mezcla bien y rectifica la sazón.",
+            "3\nVierte este adobo sobre las piezas de corazón, cúbrelas bien y deja que repose, mejor si es toda la noche refrigerando.",
+            "4\nAl día siguiente, retira los trozos de corazón y colócalos en brochetas o en palitos de madera. Inserta de 4 a 5 piezas de carne en cada uno.",
+            "5\nEnciende la parrilla, una plancha eléctrica o, en su defecto, una sartén. Cuando esté caliente, esparce un poco de aceite y coloca los anticuchos encima.",
+            "6\nDeja que se cocinen y, de vez en cuando, ve bañándolos con el marinado. Para hacerlo, puedes utilizar una brocha o hacer tu propia brocha con la panca de choclo. Después de un par de minutos, dales vuelta para que se terminen de cocinar y, luego, retíralos.",
+            "7\nPara servir, sancocha previamente unas mazorcas de choclo. Si te gusta que tengan un sabor dulce, añade azúcar y anís al agua de sancochar. Luego, córtalos en rodajas.",
+            "8\nAdemás, sancocha unas papas amarillas o blancas y, luego, pélalas y córtalas en rodajas gruesas. Si deseas, dóralas en mantequilla rociándoles un poco de sal para que queden más ricas.",
+            "9\nSirve inmediatamente los anticuchos de corazón con el trozo de choclo, las rodajas de papa y acompaña con ají o uchucuta. ¡Buen provecho! Cuéntanos en los comentarios tu opinión y comparte con nosotros una fotografía del resultado final."
+        ]
+    },
+    {
+        "id": "rec-uotsa6tjm",
+        "titulo": "Receta de Alfajores de miel",
+        "categoria": "Comida Peruana",
+        "tiempo": "1h 30m",
+        "imagen": "https://cdn0.recetasgratis.net/es/posts/6/2/8/alfajores_de_miel_77826_orig.jpg",
+        "ingredientes": [
+            "Para las tapitas de los alfajores:",
+            "170 gramos de harina",
+            "1 yema",
+            "30 gramos de azúcar impalpable",
+            "85 gramos de manteca o mantequilla",
+            "30 gramos de pisco",
+            "Para la miel:",
+            "100 gramos de chancaca",
+            "80 gramos de azúcar rubia",
+            "200 gramos de agua",
+            "2 ramas de canela",
+            "4 clavos de olor"
+        ],
+        "pasos": [
+            "1\nPara hacer la masa de alfajores, coloca en el bowl de la batidora la harina, una pizca de sal, azúcar impalpable y la materia grasa, que puede ser manteca vegetal o, si lo prefieres, mantequilla fría cortada en cubos.",
+            "2\nComienza a mezclar a velocidad media-alta utilizando el accesorio de paleta hasta que toda la materia grasa se haya unido a la harina y tenga una textura similar a arena mojada. En este momento, incorpora la yema de huevo junto con el pisco y mezcla a velocidad media-baja solo hasta que se integren a la mezcla.",
+            "3\nVierte toda la mezcla sobre una mesa limpia o sobre un tapete de silicona. Amasa hasta formar una masa compacta. Luego, envuélvela en papel film y déjala reposar en el refrigerador por lo menos 30 minutos.",
+            "4\nTranscurrido el tiempo de reposo, coloca la masa entre dos papeles manteca, tapetes de silicona o papel film. Con un rodillo, empieza a estirar la masa hasta que tenga aproximadamente medio centímetro de grosor.",
+            "5\nCuando la masa esté bien estirada, corta discos de 6 o 7 cm de diámetro y colócalos sobre una placa con tapete de silicona o papel manteca y congela la masa por 10 minutos.",
+            "6\nHornea a 160 °C por 30 minutos. Para saber si es momento de retirarlas del horno, saca una galleta y pártela; no debe verse masa cruda apelmazada en el centro. Cuando estén listas, retira la placa del horno y deja enfriar.",
+            "7\nPara la miel, coloca en una cacerola grande la chancaca, el azúcar y cubre con agua. Agrega las especias, que son canela y clavo de olor. Cocina a fuego medio-alto hasta que la chancaca se derrita. Una vez que comience a hervir, deja de remover, retira las especias y deja hervir hasta que tome punto.",
+            "8\nDespués de unos 5 minutos de hervor constante, las burbujas deben haberse controlado. Apaga el fuego, deja que las burbujas se calmen y verifica la textura de la miel. Debe sentirse ligeramente densa; si está muy densa, al enfriar espesará demasiado y quedará muy dura.",
+            "9\nInmediatamente, rellena los alfajores o galletas de miel aún tibia y sirve. ¡Disfruta! Cuéntanos en los comentarios tu opinión y comparte con nosotros una fotografía del resultado final."
+        ]
+    },
+    {
+        "id": "rec-nox2p5pzc",
+        "titulo": "Receta de Picante de pollo",
+        "categoria": "Comida Peruana",
+        "tiempo": "45m",
+        "imagen": "https://cdn0.recetasgratis.net/es/posts/2/7/7/picante_de_pollo_77772_orig.jpg",
+        "ingredientes": [
+            "1 pechuga",
+            "1 cebolla roja",
+            "3 zanahorias",
+            "2 papas blancas",
+            "100 gramos de alverjitas",
+            "3 dientes de ajo",
+            "2 cucharadas soperas de ají amarillo",
+            "1 cucharada sopera de ají panca",
+            "pimienta negra molida",
+            "caldo de pollo",
+            "perejil picado",
+            "aceite c/n",
+            "sla al gusto"
+        ],
+        "pasos": [
+            "1\nEmpieza pelando y cortando las zanahorias y las papas en cubos de aproximadamente 2 cm. Recuerda corta primero en rodajas, luego en tiras delgadas y finalmente en cubos. Reserva las zanahorias en un bowl y las papas en otro bowl con agua fría hasta cubrirlas.",
+            "2\nPica finamente la cebolla y el ajo, o rállalo si te resulta más fácil.",
+            "3\nCorta la pechuga de pollo en tiras de aproximadamente 2 dedos de grosor y, luego, en cubos regulares. Salpimenta al gusto.",
+            "4\nCalienta una olla amplia con un buen chorro de aceite y, cuando esté bien caliente, dora los cubos de pollo por todos los lados sin cocinarlos completamente. Mantén el fuego muy alto para evitar que se sobrecocinen y, si la olla no es lo suficientemente grande, dora el pollo en tandas. Una vez listo, resérvalo.",
+            "5\nEn la misma olla vierte otro chorro de aceite y vierte la cebolla para sudarla, es decir, mantén en el fuego por un par de minutos hasta que se vea traslúcida.",
+            "6\nDespués de unos 10 minutos aproximadamente, incorpora el ajo molido, el ají amarillo y el ají panca. Cocina a fuego medio removiendo esporádicamente hasta que el aderezo tenga una consistencia similar a la de una mermelada, aproximadamente 15 minutos.",
+            "7\nAgrega las papas, zanahorias y alverjas a la olla y cubre con caldo de pollo. Añade una cucharadita de sal, tapa y cocina por unos 10 minutos o hasta que las papas estén al dente.",
+            "8\nAñade los dados de pollo, mezcla bien y deja que hierva por un par de minutos para que se caliente y termine de cocinarse.",
+            "9\nAntes de servir, rectifica la sazón, incorpora perejil finamente picado y sirve acompañando con una ración de arroz. ¡Buen provecho! Cuéntanos en los comentarios tu opinión y comparte con nosotros una fotografía del resultado final."
+        ]
+    },
+    {
+        "id": "rec-8qp3gm06b",
+        "titulo": "Receta de Chicharrón con mote",
+        "categoria": "Comida Peruana",
+        "tiempo": "1h 30m",
+        "imagen": "https://cdn0.recetasgratis.net/es/posts/4/4/8/chicharron_con_mote_77844_orig.jpg",
+        "ingredientes": [
+            "8 trozos de cerdo",
+            "3 ramas de hierbabuena",
+            "3 cucharaditas de sal",
+            "4 dientes de ajo",
+            "manteca de cerdo o aceite c/n",
+            "150 gramos de mote o maíz blanco grande",
+            "4 papas sancochadas",
+            "1 cebolla",
+            "jugo de limón c/n"
+        ],
+        "pasos": [
+            "1\nEmpieza preparando el mote. Para ello, déjalo remojando en agua durante toda la noche. Al día siguiente, cocina el mote en una olla a presión para que la cocción sea más rápida, dejándolo hervir durante unos 40 minutos a 1 hora hasta que revienten y estén suave. Reserva.",
+            "2\nPara los chicharrones de chancho peruano, corta el cerdo en trozos grandes. Luego, colócalos en una olla, cúbrelos al ras con agua y aromatiza con unas ramas de hierbabuena, un buen puñado de sal (debe estar ligeramente salado) y unos dientes de ajo.",
+            "3\nEnciende el fuego y, sin tapar, deja que la carne se sancoche hasta que el agua se haya evaporado por completo.",
+            "4\nSi el cerdo tiene una parte grasosa, notarás que en el fondo de la olla habrá aceite, lo que ayudará a freír los trozos de carne. Sin embargo, si no hay suficiente aceite debido a la magreza de las piezas, añade manteca de cerdo o, en su defecto, aceite vegetal para freír.",
+            "5\nFríe cuidadosamente las piezas de cerdo, dándoles vuelta para que queden doradas de manera uniforme y con una corteza crujiente. En el mismo aceite, puedes freír las papas en rodajas, previamente sancochadas.",
+            "6\nRetira cuidadosamente del aceite e inmediatamente sirve en un plato con las rodajas de papas sancochadas, el mote, los chicharrones y una sarsa rápida preparada con cebolla en pluma, hojas de hierbabuena, jugo de limón y sal al gusto. ¡Buen provecho!"
+        ]
+    },
+    {
+        "id": "rec-xz3d40isa",
+        "titulo": "Rompope casero",
+        "categoria": "Comida Mexicana",
+        "tiempo": "30m",
+        "imagen": "https://cdn0.recetasgratis.net/es/posts/2/0/4/rompope_casero_78402_orig.jpg",
+        "ingredientes": [
+            "1 litro de leche",
+            "3 canelas en rama",
+            "4 anís estrella",
+            "5 clavos de olor",
+            "250 gramos de azúcar                                                                    (1¼ tazas)",
+            "5 yemas",
+            "1 taza de ron"
+        ],
+        "pasos": [
+            "1\nEn una olla vierte la leche junto con las ramas de canela, anís estrella y clavos de olor. A continuación, deja que hierva suavemente para que se aromatice. Una vez que haya tomado el perfume de la canela, retira del fuego y reserva.",
+            "2\nEn otra cacerola coloca el azúcar y enciende a fuego medio. Deja que se derrita lentamente hasta formar un caramelo dorado, removiendo con paciencia y utilizando una espátula resistente al calor para evitar que se queme.",
+            "3\nCuando el caramelo tenga un color brillante y uniforme, incorpora de inmediato la leche aromatizada (sin las ramas de canela) y mezcla durante unos minutos hasta que el caramelo se disuelva por completo en la leche.",
+            "4\nAparte en un bowl bate las yemas de los huevos utilizando un batidor de globo.",
+            "5\nVierte poco a poco la leche con caramelo sobre las yemas, siempre removiendo de manera constante para evitar que el calor las coagule.",
+            "6\nUna vez integrada toda la mezcla, regresa a la olla y cocina a fuego bajo por un par de minutos removiendo constantemente hasta que sienta cremoso.",
+            "7\nCuando llegue a la temperatura adecuada, retira del fuego y vierte en un recipiente resistente al calor. Añade el ron, mezcla bien y deja enfriar.",
+            "8\nSirve el rompope casero en copas, decorando con una ramita de canela o canela en polvo. ¡Disfruta de esta bebida casera y perfecta para las celebraciones navideñas! Cuéntanos en los comentarios tu opinión y comparte una fotografía del resultado final."
+        ]
+    },
+    {
+        "id": "rec-w5vbiwi4m",
+        "titulo": "Receta de Quesadillas potosinas",
+        "categoria": "Comida Mexicana",
+        "tiempo": "30m",
+        "imagen": "https://cdn0.recetasgratis.net/es/posts/2/6/3/quesadillas_potosinas_78362_orig.jpg",
+        "ingredientes": [
+            "2 tazas de masa de maíz nixtamalizada",
+            "3 chiles guajillos secos",
+            "1 diente de ajo pelado",
+            "200 mililitros de agua caliente",
+            "200 gramos de queso fresco rallado o frijoles como alternativa",
+            "2 cucharadas soperas de manteca o aceite vegetal",
+            "sal al gusto",
+            "crema para acompañar",
+            "lechuga para acompañar"
+        ],
+        "pasos": [
+            "1\nPara iniciar la receta, prepara el chile. Limpia los chiles anchos retirando semillas y venas, luego suavízalos en agua caliente durante unos 8 minutos. A continuación, escúrrelos y licúalos junto con el ajo y un poco de agua hasta obtener una pasta espesa.",
+            "2\nIncorpora el chile a la masa mezclando la masa de maíz con la pasta de chile y una pizca de sal hasta obtener un color uniforme y una textura suave. Si la masa queda seca, añade unas gotas de agua tibia para ajustarla.",
+            "3\nCuando la masa esté lista, divide en porciones pequeñas y forma bolitas. Luego, aplánalas entre dos hojas de plástico usando una prensa o rodillo hasta obtener tortillas delgadas.",
+            "4\nRellena las tortillas colocando en el centro una porción de queso o del relleno que prefieras. Dobla la tortilla por la mitad y presiona suavemente los bordes para sellarla bien.",
+            "5\nCalienta un comal o sartén a fuego medio y unta ligeramente con manteca o aceite. Cocina las quesadillas por ambos lados hasta que estén ligeramente doradas y el relleno se haya derretido.",
+            "6\nSirve las quesadillas calientes acompañadas de crema, lechuga, salsa verde o roja, y un toque de queso rallado por encima. ¡Disfrútalas recién hechas para aprovechar al máximo su textura y sabor! Cuéntanos en los comentarios tu opinión y comparte con nosotros una fotografía del resultado final.Además, si quieres preparar gran variedad de quesadillas, no te pierdas este artículo de Tipos de quesadillas."
+        ]
+    },
+    {
+        "id": "rec-ibx3xwfyj",
+        "titulo": "Receta de Tacos de gaonera",
+        "categoria": "Comida Mexicana",
+        "tiempo": "30m",
+        "imagen": "https://cdn0.recetasgratis.net/es/posts/4/6/3/tacos_de_gaonera_78364_orig.jpg",
+        "ingredientes": [
+            "500 gramos de gaonera",
+            "1 cucharada sopera de aceite vegetal",
+            "1 cucharadita de ajo en polvo",
+            "sal y pimienta al gusto",
+            "tortillas de maíz",
+            "1 taza de nopales en tiras",
+            "1 pieza de cebolla en julianas",
+            "cilantro fresco"
+        ],
+        "pasos": [
+            "1\nPara preparar la receta de tacos de gaonera, comienza por la carne: seca la gaonera con una toalla de cocina y córtala en tiras delgadas para facilitar una cocción rápida y uniforme.",
+            "2\nSazona la carne colocándola en un tazón y agregando sal, pimienta y ajo en polvo. Mezcla bien para distribuir los sabores de manera uniforme y deja reposar durante unos minutos para que se impregnen.",
+            "3\nMientras la carne reposa, calienta una sartén y añade un poco de aceite. A continuación, saltea los nopales y la cebolla hasta que estén dorados. Cuando estén listos, retíralos del sartén y reserva.",
+            "4\nEn la misma sartén caliente, agrega la carne de gaonera y cocina por un par de minutos, moviéndola constantemente hasta que se dore ligeramente sin perder su jugosidad.",
+            "5\nCalienta las tortillas de maíz en un comal o sartén. Si prefieres, prepara tus propias tortillas con masa nixtamalizada, ya que los tacos de gaonera se disfrutan mucho más con tortillas recién hechas.",
+            "6\nPor último, arma los tacos rellenándolos con la gaonera, añade un poco de nopal y cebolla asados, y acompaña con cilantro fresco, limón y tu salsa favorita. ¡Ahora sí, disfruta de unos deliciosos tacos de gaonera! Cuéntanos en los comentarios tu opinión y comparte con nosotros una fotografía del resultado final."
+        ]
+    },
+    {
+        "id": "rec-sruzvpa9e",
+        "titulo": "Receta de Salsa de pepino para pozole",
+        "categoria": "Comida Mexicana",
+        "tiempo": "15m",
+        "imagen": "https://cdn0.recetasgratis.net/es/posts/3/6/3/salsa_de_pepino_para_pozole_78363_orig.jpg",
+        "ingredientes": [
+            "2 pepinos medianos, pelados y sin semillas",
+            "1 puñado de chile de árbol",
+            "2 tomates maduros",
+            "½ pieza de cebolla picada",
+            "1 trozo de cebolla para el licuado",
+            "1 diente de ajo",
+            "jugo de 3 limones grandes",
+            "1 cucharadita de sal",
+            "1 cucharadita de pimienta negra",
+            "1 cucharada sopera de aceite vegetal"
+        ],
+        "pasos": [
+            "1\nPara preparar la salsa de pepino para pozole, pela los pepinos, retira las semillas con una cuchara y córtalos en cubos pequeños.\nTruco: si lo deseas puedes rallar los pepinos para una textura diferente.",
+            "2\nTrocea la cebolla, el tomate y el diente de ajo para facilitar su asado; estos ingredientes aportarán textura y sabor a la salsa.",
+            "3\nEn una sartén, calienta una cucharada de aceite vegetal y sofríe la cebolla, el tomate y el diente de ajo troceados. Agrega un puñado de chiles de árbol, ajustando la cantidad según el nivel de picante que prefieras.",
+            "4\nColoca los ingredientes salteados en la licuadora, añade el jugo de tres limones grandes, sal y pimienta al gusto. Licúa hasta obtener una salsa ligeramente espesa.",
+            "5\nIncorpora la salsa licuada en un recipiente con el pepino y la cebolla picada, mezcla bien y ajusta con más sal o limón según tu gusto.",
+            "6\nDeja reposar la salsa de pepino para pozole durante 5 minutos antes de servir para que los sabores se integren por completo. ¡Listo! Ya puedes disfrutar esta deliciosa salsa con tu pozole. Cuéntanos en los comentarios tu opinión y comparte con nosotros una fotografía del resultado final."
+        ]
+    },
+    {
+        "id": "rec-mrnkwe8in",
+        "titulo": "Receta de Espagueti verde con pollo",
+        "categoria": "Comida Mexicana",
+        "tiempo": "30m",
+        "imagen": "https://cdn0.recetasgratis.net/es/posts/1/6/3/espagueti_verde_con_pollo_78361_orig.jpg",
+        "ingredientes": [
+            "400 gramos de pasta de espagueti",
+            "1 pechuga de pollo en tiras o cubos",
+            "2 chiles poblanos",
+            "½ taza de crema o media crema",
+            "1 taza de leche                                                                    (240 mililitros)",
+            "140 gramos de queso crema",
+            "1 diente de ajo",
+            "1 trozo de cebolla",
+            "1 cucharada sopera de aceite de oliva o mantequilla",
+            "sal y pimienta al gusto"
+        ],
+        "pasos": [
+            "1\nComienza la receta de espagueti verde con pollo cocinando la pasta en abundante agua con sal hasta que quede al dente. Escúrrela y reserva un poco del agua de cocción para ajustar la consistencia de la salsa más adelante.",
+            "2\nAsa los chiles poblanos directamente sobre la flama o en un sartén hasta que la piel se ennegrezca por completo. Luego colócalos en una bolsa o en un recipiente tapado para que suden durante 10 minutos y puedas retirar la piel con facilidad.\nTruco: retira también las semillas y venas.",
+            "3\nAhora prepara la salsa. En la licuadora mezcla los chiles pelados, la crema, la leche, el ajo, la cebolla y el queso. Licúa hasta obtener una textura suave y cremosa, y ajusta el sabor con sal y pimienta al gusto.",
+            "4\nContinúa con la receta cocinando el pollo. En una sartén amplia, calienta un poco de aceite o mantequilla y dora las tiras de pollo por ambos lados. Sazona con sal y pimienta al gusto, luego retíralas de la sartén y reserva.",
+            "5\nEn la misma sartén, vierte la salsa verde y caliéntala a fuego bajo. Añade el espagueti verde mexicano cocido y mezcla bien hasta que la pasta quede completamente impregnada con la salsa. Si la salsa está muy espesa, incorpora un poco del agua de cocción reservada. Cocina por 3 a 4 minutos, mezclando ocasionalmente.",
+            "6\nSirve la pasta verde con pollo, ya sea colocado encima o mezclado. A continuación, espolvorea queso fresco desmenuzado o rallado antes de llevarlo a la mesa y decora con unas hojas de cilantro fresco para darle un toque final delicioso y fresco. ¡A comer! Cuéntanos en los comentarios tu opinión y comparte con nosotros una fotografía del resultado final."
+        ]
+    },
+    {
+        "id": "rec-367tunx4z",
+        "titulo": "Receta de Flautas de salchicha",
+        "categoria": "Comida Mexicana",
+        "tiempo": "30m",
+        "imagen": "https://cdn0.recetasgratis.net/es/posts/5/6/3/flautas_de_salchicha_78365_orig.jpg",
+        "ingredientes": [
+            "12 piezas de tortillas de maíz delgadas",
+            "6 piezas de salchichas de pavo",
+            "50 gramos de queso gouda o queso panela",
+            "aceite vegetal",
+            "palillos de madera",
+            "lechuga picada",
+            "crema al gusto",
+            "queso fresco desmoronado al gusto"
+        ],
+        "pasos": [
+            "1\nComienza por suavizar las tortillas de maíz calentándolas ligeramente en un comal o sartén. Esto ayudará a que se ablanden y no se rompan al momento de enrollarlas.",
+            "2\nPrepara el relleno. Corta las salchichas en cuartos; si lo prefieres, puedes partirlas a la mitad, rallarlas o picarlas finamente según tu gusto.",
+            "3\nColoca media salchicha sobre cada tortilla y, si deseas un sabor más completo, añade un poco de queso gouda o queso fresco junto con la salchicha; el queso le dará un toque extra de sabor y cremosidad a la flauta.",
+            "4\nEnrolla las tortillas formando flautas firmes y compactas. Si lo consideras necesario, asegúralas con un palillo para evitar que se abran al momento de freírlas.",
+            "5\nFríe las flautas. Puedes calentar una sartén con un poco de aceite y dorarlas hasta que queden crujientes, o bien optar por una versión más ligera utilizando una freidora de aire a 200 °C durante unos 10 minutos. En ambos casos, deben quedar con un dorado uniforme.\nTruco: puedes freírlas en abundante aceite para que queden más crujientes y perfectas para disfrutar como botana.",
+            "6\nUna vez que las flautas estén fritas y crujientes, colócalas en un plato y decora con lechuga, crema, queso, salsa y, si deseas, añade rodajas de tomate o aguacate para darles un toque fresco y colorido. ¡A comer! Cuéntanos en los comentarios tu opinión y comparte con nosotros una fotografía del resultado final."
+        ]
+    },
+    {
+        "id": "rec-rxi2nraez",
+        "titulo": "Receta de Chilaquiles verdes con bistec",
+        "categoria": "Comida Mexicana",
+        "tiempo": "30m",
+        "imagen": "https://cdn0.recetasgratis.net/es/posts/8/3/3/chilaquiles_verdes_con_bistec_78338_orig.jpg",
+        "ingredientes": [
+            "8 piezas de tortillas de maíz",
+            "300 gramos de bistec de res",
+            "400 gramos de tomates verdes",
+            "2 chiles serranos",
+            "2 dientes de ajo",
+            "1 trozo de cebolla",
+            "aceite vegetal",
+            "sal y pimienta al gusto",
+            "100 gramos de queso rallado",
+            "cilantro para decorar",
+            "rodajas de cebolla para decorar"
+        ],
+        "pasos": [
+            "1\nPara comenzar la receta de chilaquiles verdes con bistec, prepara los totopos. Corta las tortillas en triángulos y fríelas en aceite caliente hasta que queden doradas y crujientes. Retíralas y colócalas sobre papel absorbente para eliminar el exceso de grasa. Reserva.\nTruco: también puedes preparar los totopos en una freidora de aire: cocínalos a 210 °C durante 15 minutos o hasta que queden dorados y crujientes.",
+            "2\nEn una olla con agua, hierve los tomates verdes, los chiles, el ajo y la cebolla durante 8 a 10 minutos, o hasta que estén bien suaves.",
+            "3\nEscurre los ingredientes cocidos y licúalos junto con un poco del agua de cocción y las hojas de cilantro. Agrega sal al gusto y mezcla hasta obtener una salsa suave y homogénea.\nTruco: puedes añadir un par chiles de árbol verdes para intensificar el picor.",
+            "4\nEn una sartén o cazuela con un poco de aceite, vierte la salsa licuada y cocina a fuego medio hasta que hierva, aproximadamente 5 minutos. Ajusta la sal y la pimienta al gusto.",
+            "5\nEn otra sartén, calienta un poco de aceite y cocina el bistec sazonado con sal y pimienta hasta que esté bien dorado. Reserva caliente para continuar con la receta.",
+            "6\nPara terminar, monta los chilaquiles con carne: incorpora los totopos a la salsa y mezcla suavemente para que se impregnen sin perder su textura crujiente. Sirve de inmediato, colocando el bistec encima y decorando con cebolla, queso fresco y cilantro. ¡Y listo! Cuéntanos en los comentarios tu opinión y comparte con nosotros una fotografía del resultado final."
+        ]
+    },
+    {
+        "id": "rec-5xmduoswv",
+        "titulo": "Receta de Enchiladas queretanas",
+        "categoria": "Comida Mexicana",
+        "tiempo": "30m",
+        "imagen": "https://cdn0.recetasgratis.net/es/posts/0/4/3/enchiladas_queretanas_78340_orig.jpg",
+        "ingredientes": [
+            "12 piezas de tortillas de maíz",
+            "5 piezas de chiles guajillos",
+            "2 dientes de ajo",
+            "1 trozo de cebolla",
+            "2 piezas de papas medianas",
+            "2 piezas de zanahorias medianas",
+            "100 gramos de queso fresco rallado",
+            "1 taza de lechuga picada",
+            "½ cebolla en rodajas",
+            "aceite vegetal",
+            "sal al gusto",
+            "pimienta al gusto"
+        ],
+        "pasos": [
+            "1\nEmpieza la receta cocinando las verduras: pela las papas y las zanahorias, córtalas en cubos pequeños y hiérvelas en agua con sal durante 10 a 12 minutos, hasta que estén tiernas pero firmes. Luego, escurre bien y reserva para continuar con la preparación.",
+            "2\nPrepara la salsa: limpia y desvena los chiles guajillos, luego hiérvelos en agua caliente durante unos 8 minutos o hasta que estén suaves. Escúrrelos y licúalos junto con el ajo, la cebolla y un poco del agua de cocción hasta obtener una salsa homogénea y tersa. Finalmente, sazona con sal y pimienta al gusto.",
+            "3\nUna vez licuada, vierte la salsa en una sartén con un poco de aceite y sofríela a fuego medio durante 5 minutos, moviendo constantemente para potenciar su sabor. Luego, reserva y mantenla caliente hasta el momento de usarla.",
+            "4\nAhora, prepara las tortillas calentando aceite en una sartén. Sumerge cada tortilla en la salsa roja y fríelas brevemente, solo unos segundos por lado, para que se suavicen sin romperse.",
+            "5\nRellena y arma las enchiladas colocando una porción de papa y zanahoria en cada tortilla. Enróllalas con cuidado y colócalas ordenadamente en un plato. Repite el proceso con todas las tortillas hasta terminar.",
+            "6\nSirve las enchiladas de inmediato para disfrutar su textura perfecta y su sabor recién hecho. Añade lechuga rallada, queso fresco desmenuzado y unas rodajas de cebolla blanca para darle un toque fresco y tradicional. ¡Y listo! Cuéntanos en los comentarios tu opinión y comparte con nosotros una fotografía del resultado final."
+        ]
+    },
+    {
+        "id": "rec-i4fnd7ji5",
+        "titulo": "Receta de Enchiladas michoacanas",
+        "categoria": "Comida Mexicana",
+        "tiempo": "30m",
+        "imagen": "https://cdn0.recetasgratis.net/es/posts/9/3/3/enchiladas_michoacanas_78339_orig.jpg",
+        "ingredientes": [
+            "12 piezas de tortillas de maíz",
+            "5 chiles guajillo, limpios y suavizados en agua",
+            "2 dientes de ajo",
+            "1 trozo de cebolla blanca",
+            "250 gramos de queso fresco rallado",
+            "2 piezas de papas medianas en cubos",
+            "2 piezas de zanahorias medianas en cubos",
+            "aceite vegetal",
+            "sal al gusto",
+            "½ taza de lechuga picada",
+            "½ taza de queso rallado"
+        ],
+        "pasos": [
+            "1\nPara comenzar con la receta de enchiladas michoacanas, prepara la salsa limpiando y desvenando los chiles guajillos. Hiérvelos en agua durante 8 minutos hasta que estén tiernos. Después, escúrrelos y licúalos junto con el ajo, la cebolla, un poco de agua y sal hasta obtener una salsa suave y tersa.",
+            "2\nCuela la mezcla y fríela en una sartén con un poco de aceite a fuego medio durante 5 minutos, removiendo constantemente hasta que espese ligeramente. Luego, reserva.",
+            "3\nEn una sartén amplia, fríe las papas y las zanahorias hasta que estén doradas y crujientes. Luego, retíralas y colócalas sobre papel absorbente para eliminar el exceso de aceite.",
+            "4\nCuando la salsa esté lista, sumerge cada tortilla en la salsa roja y fríela brevemente en aceite caliente, cuidando que no se endurezca.",
+            "5\nUna vez fritas las tortillas, rellénalas con un poco de queso rallado, dóblalas en forma de taco y colócalas en el plato. Si lo prefieres, añade a las enchiladas fritas pollo deshebrado como relleno o espolvoréalo por encima. ¡A comer! Cuéntanos en los comentarios tu opinión y comparte con nosotros una fotografía del resultado final.",
+            "6\nPara finalizar, decora y sirve las enchiladas de papas y zanahoria fritas acompañadas de las papas y zanahorias fritas. Añade también queso fresco y lechuga picada al gusto para realzar el sabor. ¡Listo, disfruta de este delicioso platillo michoacano! Cuéntanos en los comentarios tu opinión y comparte con nosotros una fotografía del resultado final."
+        ]
+    },
+    {
+        "id": "rec-1ku1lpqpk",
+        "titulo": "Receta de Espagueti verde con camarones",
+        "categoria": "Comida Mexicana",
+        "tiempo": "45m",
+        "imagen": "https://cdn0.recetasgratis.net/es/posts/7/3/3/espagueti_verde_con_camarones_78337_orig.jpg",
+        "ingredientes": [
+            "400 gramos de espaguetis",
+            "400 gramos de camarones limpios y pelados",
+            "2 chiles poblanos, limpios y asados",
+            "½ taza de crema o media crema",
+            "½ taza de leche                                                                    (120 mililitros)",
+            "1 diente de ajo",
+            "1 trozo de cebolla blanca",
+            "1 rama de cilantro fresco",
+            "2 cucharadas soperas de mantequilla o aceite",
+            "sal y pimienta al gusto"
+        ],
+        "pasos": [
+            "1\n¿Te preguntas cómo se hace el espagueti verde? Pues bien, primero cocina el espagueti en abundante agua con sal hasta que esté al dente. Luego, escúrrelo, reservando un poco del agua de cocción para ajustar la textura de la salsa más adelante.",
+            "2\nAsa los chiles directamente sobre la llama o en una sartén hasta que la piel esté bien quemada. Luego, colócalos en una bolsa cerrada para que suden durante 10 minutos. Después, retira la piel, las semillas y las venas, y córtalos en tiras para facilitar el licuado.",
+            "3\nLicúa los chiles junto con la crema, la leche, el ajo, la cebolla y el cilantro hasta obtener una salsa suave y cremosa. Ajusta el sazón con sal y pimienta al gusto.",
+            "4\nVierte la salsa verde en la sartén y caliéntala a fuego medio-bajo durante unos minutos para que los sabores se integren. Ajusta la textura añadiendo un poco del agua de cocción del espagueti. Finalmente, incorpora la pasta ya cocida y mezcla bien para que se impregne con la salsa.",
+            "5\nEn una sartén grande, derrite la mantequilla y saltea los camarones durante 2 o 3 minutos por cada lado, hasta que adquieran un tono rosado. Retíralos y resérvalos.",
+            "6\nPara servir, coloca una cama de espagueti verde en el plato, añade unos cuantos camarones encima y decora con hojas frescas de cilantro. ¡Y listo los espaguetis verdes con camarones! Cuéntanos en los comentarios tu opinión y comparte con nosotros una fotografía del resultado final."
+        ]
+    },
+    {
+        "id": "rec-fqk24ptaf",
+        "titulo": "Receta de Tacos de camarón estilo Ensenada",
+        "categoria": "Comida Mexicana",
+        "tiempo": "30m",
+        "imagen": "https://cdn0.recetasgratis.net/es/posts/4/5/1/tacos_de_camaron_estilo_ensenada_78154_orig.jpg",
+        "ingredientes": [
+            "500 gramos de camarones medianos",
+            "100 gramos de harina de trigo",
+            "1 huevo",
+            "½ taza de agua mineral o cerveza",
+            "1 cucharadita de polvo para hornear",
+            "sal y pimienta al gusto",
+            "1 cucharadita de paprika",
+            "aceite vegetal para freir",
+            "tortillas de maíz",
+            "1 cucharadita de ajo en polvo"
+        ],
+        "pasos": [
+            "1\nPara empezar con la receta de tacos de camarón capeados, limpia y pela los camarones. Luego, sazónalos con sal y pimienta y reserva mientras preparas la mezcla para el capeado.",
+            "2\nEn un recipiente combina la harina, el agua mineral, el huevo, el polvo para hornear, la sal, la pimienta, la paprika y el ajo en polvo. Mezcla bien hasta obtener una masa espesa, pero fluida, asegurándote de que no queden grumos.",
+            "3\n Sumerge los camarones limpios en la mezcla para capear, asegurándote de cubrirlos por completo.",
+            "4\nCalienta el aceite en una sartén u olla y, cuando esté bien caliente, fríe los camarones en tandas hasta que estén dorados y crujientes. Luego, colócalos sobre papel absorbente para eliminar el exceso de grasa.\nTruco: para evitar que se quemen, coloca un par de palillos de madera dentro del aceite; esto ayudará a que se doren de manera uniforme.",
+            "5\nCalienta las tortillas de maíz y coloca los camarones sobre ellas. Añade col fresca y un chorrito de limón al gusto. ¡Y listo! Ya puedes disfrutar de unos deliciosos tacos de camarón capeados. Cuéntanos en los comentarios tu opinión y comparte con nosotros una fotografía del resultado final."
+        ]
+    },
+    {
+        "id": "rec-urvxz8jq8",
+        "titulo": "Receta de Nopales guisados en salsa roja",
+        "categoria": "Comida Mexicana",
+        "tiempo": "45m",
+        "imagen": "https://cdn0.recetasgratis.net/es/posts/8/0/3/nopales_guisados_en_salsa_roja_78308_orig.jpg",
+        "ingredientes": [
+            "2 tazas de nopales",
+            "½ taza de queso panela o queso fresco en cubos",
+            "2 piezas de jitomates maduros",
+            "2 chile guajillo secos sin semillas",
+            "1 diente de ajo",
+            "1 trozo de cebolla blanca",
+            "½ taza de agua o caldo",
+            "1 cucharadita de aceite",
+            "sal y pimienta al gusto",
+            "cilantro fresco para decorar"
+        ],
+        "pasos": [
+            "1\nPara comenzar la receta de nopales con queso, corta los nopales en tiras y cuécelos en agua con sal durante 10 minutos o hasta que cambien de color. Luego, escúrrelos y enjuágalos con agua fría para eliminar la baba.",
+            "2\nHidrata los chiles; coloca los chiles guajillos en agua caliente durante 10 minutos hasta que se ablanden. Escúrrelos y resérvalos para la salsa.",
+            "3\nPrepara la salsa. Para ello, licúa los jitomates, los chiles hidratados, el ajo, la cebolla y el agua o caldo hasta obtener una mezcla homogénea. Cuélala si deseas una textura más fina.",
+            "4\nEn una sartén amplia calienta el aceite y vierte la salsa licuada, cocina a fuego medio durante 8 minutos moviendo ocasionalmente hasta que espese y el color se intensifique. Rectifica y sazona con sal y pimienta al gusto.",
+            "5\nAgrega los nopales cocidos y el queso en cubos a la salsa y mezcla con cuidado, cocina por 5 minutos más para que se impregnen de sabor.",
+            "6\nCuando estén todos los ingredientes incorporados, retira los nopales guisados en salsa roja del fuego y sirve caliente decorando con cilantro fresco o con un poco de queso extra. ¡Listo, ya puedes disfrutar de estos ricos nopales a la mexicana con queso! Cuéntanos en los comentarios tu opinión y comparte con nosotros una fotografía del resultado final."
+        ]
+    },
+    {
+        "id": "rec-k61kiva73",
+        "titulo": "Receta de Tortitas de nopales",
+        "categoria": "Comida Mexicana",
+        "tiempo": "45m",
+        "imagen": "https://cdn0.recetasgratis.net/es/posts/6/9/2/tortitas_de_nopales_78296_orig.jpg",
+        "ingredientes": [
+            "2 tazas de nopales",
+            "½ taza de queso panela rallado o en cubos",
+            "2 huevos",
+            "2 cucharadas soperas de avena molida o pan molido",
+            "1 diente de ajo picado",
+            "1 trozo de cebolla picada",
+            "1 cucharada sopera de cilantro picado",
+            "sal y pimienta al gusto",
+            "Para la salsa verde",
+            "6 tomates verdes",
+            "1 chile serrano o al gusto",
+            "1 trozo de cebolla",
+            "1 diente de ajo",
+            "1 taza de agua o caldo",
+            "sal al gusto",
+            "1 rama de cilantro fresco"
+        ],
+        "pasos": [
+            "1\nHierve los nopales en agua con sal durante 10 minutos o hasta que cambien de color. Escúrrelos, enjuágalos con agua fría y sécalos con papel absorbente para retirar el exceso de baba.",
+            "2\nEn un tazón grande mezcla los nopales con el queso panela, los huevos, la avena, el ajo, la cebolla, el cilantro y una pizca de sal y pimienta. Debe quedar una masa suave pero firme.",
+            "3\nCon las manos ligeramente húmedas, forma porciones redondas y aplánalas con cuidado. Colócalas sobre una sartén caliente y cocina por cada lado unos 3 a 4 minutos hasta que estén ligeramente doradas.",
+            "4\nHierve los tomates, el chile, la cebolla y el ajo durante 8 minutos. Licúa con un poco del agua de cocción, sal al gusto y cilantro fresco.",
+            "5\nCocina esta salsa en una cacerola durante 5 minutos para que espese y se concentren los sabores, sazona al gusto con sal y pimienta.",
+            "6\nCuando las tortitas de nopales con queso estén listas y la salsa ya esté sazonada, sírvelas calientes, decora con hojas de cilantro y, si lo deseas, agrega un toque de aguacate o crema ligera. Cuéntanos en los comentarios tu opinión y comparte con nosotros una fotografía del resultado final."
+        ]
+    },
+    {
+        "id": "rec-vy5dy5xof",
+        "titulo": "Receta de Calabacitas con elote",
+        "categoria": "Comida Mexicana",
+        "tiempo": "30m",
+        "imagen": "https://cdn0.recetasgratis.net/es/posts/7/9/2/calabacitas_con_elote_78297_orig.jpg",
+        "ingredientes": [
+            "3 piezas de calabacitas",
+            "1 taza de granos de elote",
+            "½ taza de jitomate picado sin semillas",
+            "1 trozo de cebolla picada finamente",
+            "1 diente de ajo picado finamente",
+            "½ taza de queso fresco o queso panela",
+            "1 cucharada sopera de aceite de oliva",
+            "sal y pimienta al gusto"
+        ],
+        "pasos": [
+            "1\nPara comenzar con la receta, lava y corta las calabacitas en cubos medianos. Si usas elote fresco, desgránalo con cuidado. Ten todo listo para cocinar rápidamente y conservar la frescura.",
+            "2\nEn una sartén amplia calienta el aceite y añade la cebolla, cocina a fuego medio hasta que se vuelva transparente, después agrega el ajo y deja que libere su aroma sin dorarse.",
+            "3\nCuando la cebolla y el ajo estén ligeramente dorados, incorpora los granos de elote y mueve constantemente para continuar con el dorado sin quemar el ajo y la cebolla.",
+            "4\nAgrega el jitomate picado, las calabacitas picadas y una pizca de sal, cocina con la sartén semi tapada por 5 a 7 minutos, permitiendo que los jugos del jitomate se integren y se forme una salsa ligera.",
+            "5\nPor último, agrega el queso panela o queso fresco en cubos o desmoronado y cocina un par de minutos más a fuego medio bajo.",
+            "6\nRetira del fuego, sirve caliente y decora si lo deseas con un poco cilantro picado o queso extra. Disfruta como plato principal o acompañamiento. ¡A comer! Su mezcla de frescura, dulzura y suavidad convierte a las Calabacitas con elote en un homenaje sencillo y elegante a los sabores auténticos del campo mexicano. Cuéntanos en los comentarios tu opinión y comparte con nosotros una fotografía del resultado final."
+        ]
+    },
+    {
+        "id": "rec-ns7ju4zmd",
+        "titulo": "Receta de Alambre de puerco",
+        "categoria": "Comida Mexicana",
+        "tiempo": "30m",
+        "imagen": "https://cdn0.recetasgratis.net/es/posts/3/9/2/alambre_de_puerco_78293_orig.jpg",
+        "ingredientes": [
+            "400 gramos de puerco deshuesado",
+            "3 pimientos morrón de diferente color",
+            "1 diente de ajo",
+            "1 cebolla",
+            "salsa de soya",
+            "sal y condimentos al gusto"
+        ],
+        "pasos": [
+            "1\nLava y corta los pimientos y la cebolla en cuadritos del tamaño de bocado.",
+            "2\nPela y pica finamente el ajo. Llévalo a una sartén con un poco de aceite y sofríelo durante unos segundos hasta que empiece a soltar su aroma.",
+            "3\nCorta el puerco en cubos pequeños para que se cocine de manera uniforme y agrégalo al sartén junto con sal y los condimentos de tu preferencia. Cocina hasta que la carne empiece a cambiar de color.",
+            "4\nIncorpora la cebolla y los pimentones al sartén. Remueve bien y cocina todo junto durante unos 15 minutos hasta que las verduras estén tiernas y la carne completamente cocida.",
+            "5\nAgrega un chorrito de salsa de soya para intensificar el sabor, mezcla bien y deja reposar unos 5 minutos antes de servir. ¡A comer! Cuéntanos en los comentarios cómo te quedó y comparte una foto de tu alambre de puerco inspirar a otros amantes de la comida mexicana."
+        ]
+    },
+    {
+        "id": "rec-2mrxhg2tj",
+        "titulo": "Receta de Alegrías de chocolate",
+        "categoria": "Comida Mexicana",
+        "tiempo": "30m",
+        "imagen": "https://cdn0.recetasgratis.net/es/posts/5/9/2/alegrias_de_chocolate_78295_orig.jpg",
+        "ingredientes": [
+            "2 tazas de amaranto reventado",
+            "½ taza de miel de agave o miel de abeja",
+            "2 cucharadas soperas de cacao en polvo",
+            "2 cucharadas soperas de nueces picadas",
+            "1 pizca de sal de mar",
+            "1 cucharadita de esencia de vainilla",
+            "aceite vegetal para engrasar molde"
+        ],
+        "pasos": [
+            "1\nEn un tazón amplio coloca el amaranto junto con las semillas y la pizca de sal. Mezcla con una cuchara o tenedor para distribuir los ingredientes de manera uniforme.",
+            "2\nEn una cacerola a fuego bajo calienta la miel junto con el chocolate y la vainilla hasta obtener una mezcla homogénea. Evita que hierva para no cristalizar la miel.",
+            "3\nCuando la mezcla de chocolate con miel esté caliente, deja enfriar ligeramente y vierte la mezcla sobre el amaranto.",
+            "4\nCon movimientos envolventes incorpora todo hasta que el amaranto quede ligeramente cubierto y brillante, puedes apoyarte de una espátula o tenedor para distribuir el chocolate uniformemente.\nTruco: puedes elegir usar chocolate con leche derretido.",
+            "5\nEngrasa un molde rectangular o una charola con aceite vegetal y vierte la mezcla y presiona con una espátula o una cuchara para compactar bien.",
+            "6\nRefrigera durante 15 a 20 minutos o hasta que la mezcla endurezca lo suficiente para cortar en cuadros o barras. Conserva en un recipiente hermético a temperatura ambiente o refrigerado. ¡Listas para comer las alegrías de chocolate!"
+        ]
+    },
+    {
+        "id": "rec-m0cmtyu87",
+        "titulo": "Receta de Pan de muerto relleno de Nutella y fresas",
+        "categoria": "Comida Mexicana",
+        "tiempo": "1h 30m",
+        "imagen": "https://cdn0.recetasgratis.net/es/posts/3/8/2/pan_de_muerto_relleno_de_nutella_y_fresas_78283_orig.jpg",
+        "ingredientes": [
+            "370 gramos de harina",
+            "4 gramos de sal",
+            "100 gramos de azúcar                                                                    (½ taza)",
+            "9 gramos de levadura seca",
+            "15 mililitros de té de azahar",
+            "60 mililitros de leche                                                                    (¼ taza)",
+            "2 huevos",
+            "60 gramos de mantequilla",
+            "Nutella c/n",
+            "250 gramos de fresas",
+            "1 huevo para barnizar",
+            "mantequilla para decorar c/n",
+            "azucar granulada para decorar c/n"
+        ],
+        "pasos": [
+            "1\nPara hacer el pan de muerto, comienza colocando en el bowl de la batidora la harina, la sal, el azúcar y la levadura seca. Mezcla ligeramente y luego incorpora los huevos, el té de azahar y la leche, que deben estar a temperatura ambiente. Remueve utilizando el gancho de la batidora.",
+            "2\nCuando los ingredientes comiencen a integrarse, incorpora poco a poco la mantequilla cortada en cubos. Amasa durante aproximadamente 10 minutos, o hasta que el gluten se haya desarrollado.",
+            "3\nBolea la masa y colócala dentro de un bowl limpio. Cúbrela con un paño húmedo o papel film, y déjala leudar en el área más cálida de tu hogar durante aproximadamente 1 hora, o hasta que duplique su volumen.",
+            "4\nUna vez leudada, retira la masa del bowl y colócala sobre una mesa limpia para desgasificarla. Es decir, aplástala suavemente hasta que libere el aire. Luego, divídela en porciones. Esta receta rinde para cuatro panes grandes, así que pésala y divídela en cuatro partes. De cada una, retira 2 o 3 porciones de aproximadamente 10 gramos y 4 bolitas pequeñas de unos 3 gramos para realizar las decoraciones.",
+            "5\nColoca las tiras decorativas entrelazadas sobre cada una, puedes pegarlas con huevo batido. Luego, con el dedo índice, haz una hendidura en el centro y coloca la bolita de 3 gramos ahí.",
+            "6\nColoca las masas sobre una placa con tapete de silicona o una bandeja enmantecada. Cúbrelas con un paño húmedo o papel film, y deja reposar nuevamente en el área más cálida de tu hogar durante aproximadamente 1 hora, o hasta que dupliquen su volumen.",
+            "7\nBarniza la superficie de los panes con huevo batido y hornea a 165 °C durante unos 20 minutos, o hasta que estén bien dorados.",
+            "8\nCuando el pan esté listo, retíralo del horno y deja enfriar. Luego, embadurna la superficie con mantequilla a temperatura ambiente y espolvorea azúcar granulada para lograr la decoración tradicional.",
+            "9\nRebana el pan por la mitad y rellénalo con crema de Nutella y fresas cortadas en láminas.",
+            "10\n¡Tapa de nuevo el pan de muerto relleno de Nutella y fresas y a disfrutar! Cuéntanos en los comentarios tu opinión y comparte una fotografía del resultado final."
+        ]
+    },
+    {
+        "id": "rec-aiktqdr6u",
+        "titulo": "Receta de Alambre de pollo con queso",
+        "categoria": "Comida Mexicana",
+        "tiempo": "30m",
+        "imagen": "https://cdn0.recetasgratis.net/es/posts/6/8/2/alambre_de_pollo_con_queso_78286_orig.jpg",
+        "ingredientes": [
+            "500 gramos de pollo deshuesado",
+            "3 pimentones de diferente color",
+            "1 diente de ajo",
+            "1 cebolla",
+            "200 gramos de queso para derretir",
+            "aceite, sal y condimentos al gusto"
+        ],
+        "pasos": [
+            "1\nLava muy bien los pimentones y la cebolla. Luego, córtalos en cuadritos del tamaño de bocado.",
+            "2\nPela y pica finamente el ajo, llévalo a una sartén con un poco de aceite y sofríelo durante unos segundos hasta que empiece a soltar su aroma.",
+            "3\nCorta el pollo en cubos pequeños para que se cocine de manera uniforme. Agrégalo al sartén junto con sal y los condimentos de tu preferencia, luego cocínalo hasta que el pollo empiece a cambiar de color.",
+            "4\nIncorpora la cebolla y los pimentones al sartén. Cocina el alambre mexicano todo junto durante unos 15 minutos removiendo ocasionalmente para que los sabores se integren.",
+            "5\nAgrega el queso para derretir, apaga el fuego y tapa la sartén para que el calor residual derrita el queso del alambre de pollo con verduras.",
+            "6\nDeja reposar el alambre con queso unos 5 minutos y sirve caliente. Cuéntanos en los comentarios tu opinión y comparte con nosotros una fotografía del resultado final."
+        ]
+    },
+    {
+        "id": "rec-78qzbogfc",
+        "titulo": "Receta de Palanquetas de cacahuate",
+        "categoria": "Comida Mexicana",
+        "tiempo": "15m",
+        "imagen": "https://cdn0.recetasgratis.net/es/posts/8/8/2/palanquetas_de_cacahuate_78288_orig.jpg",
+        "ingredientes": [
+            "2 tazas de cacahuates tostados",
+            "1 taza de azúcar                                                                    (200 gramos)",
+            "2 cucharaditas de mantequilla",
+            "1 chorro de esencia de vainilla"
+        ],
+        "pasos": [
+            "1\nEmpieza preparando un caramelo seco. Para ello, coloca el azúcar en una sartén y enciende el fuego al máximo. Deja que el azúcar se derrita poco a poco, sin remover.",
+            "2\nCuando notes que empieza a volverse líquida, remueve cuidadosamente con una cuchara de palo para ayudar a que se derrita por completo. Asegúrate de remover especialmente si se ha formado algún gránulo de azúcar.",
+            "3\nIncorpora la mantequilla, que debe estar a temperatura ambiente, y aromatiza la mezcla con un chorro de esencia de vainilla.",
+            "4\nRemueve nuevamente con una espátula de goma hasta que el caramelo vuelva a estar líquido y tenga textura de salsa.",
+            "5\nReduce el fuego y agrega el cacahuate previamente tostado.",
+            "6\nRápidamente con la cuchara de palo, remueve para que el cacahuate se incorpore al caramelo. Con el calor, notarás que el caramelo se vuelve más fluido y será más fácil mezclar.",
+            "7\nInmediatamente vierte esta mezcla sobre una placa con tapete de silicona o sobre papel manteca. Esparce cuidadosamente con la cuchara de palo o, si prefieres, coloca otra hoja de papel manteca encima y, mientras aún está caliente, utiliza un rodillo para aplanar. Así lograrás una superficie pareja.",
+            "8\nDeja entibiar por un par de minutos. Cuando puedas despegarlo fácilmente del papel, colócalo sobre una tabla y corta para tener las palanquetas aprovechando que el caramelo aún está tibio.",
+            "9\nFinalmente, deja que el dulce de cacahuate mexicano enfríe por completo. Si lo prefieres, puedes conservarlas sobre el papel manteca. ¡Listo, ya puedes disfrutar de este típico dulce mexicano! Cuéntanos en los comentarios tu opinión y comparte una fotografía del resultado final."
+        ]
+    },
+    {
+        "id": "rec-838nrjohj",
+        "titulo": "Receta de Pan de muerto relleno de fresas con crema",
+        "categoria": "Comida Mexicana",
+        "tiempo": "1h 30m",
+        "imagen": "https://cdn0.recetasgratis.net/es/posts/4/8/2/pan_de_muerto_relleno_de_fresas_con_crema_78284_orig.jpg",
+        "ingredientes": [
+            "Para el pan:",
+            "370 gramos de harina",
+            "4 gramos de sal",
+            "100 gramos de azúcar                                                                    (½ taza)",
+            "9 gramos de levadura seca",
+            "2 huevos",
+            "60 mililitros de leche                                                                    (¼ taza)",
+            "15 mililitros de té de azahar",
+            "60 gramos de mantequilla",
+            "mantequilla para embadruanr c/n",
+            "azúcar granulada c/n",
+            "Para el relleno:",
+            "70 gramos de azúcar impalpable                                                                    (½ taza)",
+            "250 mililitros de crema de leche                                                                    (1¼ tazas)",
+            "1 chorro de vainilla",
+            "250 hebras de fresas"
+        ],
+        "pasos": [
+            "1\nEmpieza colocando en el bowl de la batidora los ingredientes secos: harina, sal, azúcar y levadura seca. Mezcla ligeramente con una espátula o batidor manual, y en el centro incorpora los ingredientes líquidos: huevos, leche y té de azahar. Enciende la batidora y comienza a mezclar hasta integrar.",
+            "2\nCuando los ingredientes comiencen a formar una masa, incorpora la mantequilla fría cortada en cubos, agregándola poco a poco. Luego, empieza a amasar durante unos 10 minutos, o hasta que el gluten esté bien desarrollado.",
+            "3\nUna vez lista la masa, retírala del bowl, boléala suavemente y vuelve a colocarla en un recipiente engrasado. Cubre con un paño húmedo o papel film, y déjala reposar en el lugar más cálido de tu hogar durante aproximadamente 1 hora, o hasta que duplique su volumen.",
+            "4\nCumplido el tiempo de reposo, vuelca la masa sobre la mesa y desgasifica: aplástala suavemente para liberar el aire. Divídela en cuatro porciones iguales. De cada una, separa entre 2 y 3 bolitas de unos 10 g para formar las tiras decorativas, y una bolita pequeña de unos 3 g para el centro.",
+            "5\nBolea las cuatro piezas grandes rozándolas sobre la mesa, girándolas hacia tu cuerpo hasta que la superficie esté lisa y tensa. Pincha la base con los dedos para evitar que se abran durante el horneado.",
+            "6\nEstira las bolitas decorativas formando tiras finas, y marca tres surcos con los dedos. Coloca las decoraciones sobre cada pan, pegándolas con huevo batido. Asegúrate de cruzar las tiras en forma de “X” y coloca la bolita en el centro, previamente presionando ligeramente.",
+            "7\nAcomoda los panes en una placa previamente enmantecada, dejando una separación de unos cuatro dedos entre cada uno. Tápalos con un paño húmedo y déjalos leudar por 1 hora más, hasta que vuelvan a duplicar su volumen.",
+            "8\nUna vez leudados, barnízalos con huevo batido usando una brocha y lleva al horno precalentado a 165 °C y hornea durante unos 20 minutos, o hasta que estén bien dorados. Retira del horno, deja enfriar, y luego embadurna la superficie con mantequilla a temperatura ambiente y espolvorea con azúcar granulada para dar el acabado tradicional. Deja caer el excelso y reserva.",
+            "9\nPara el relleno, bate la crema de leche con azúcar impalpable usando un batidor de globo, hasta obtener picos firmes. Si quieres aromatizar, puedes agregar un chorrito de esencia de vainilla.",
+            "10\nCorta las fresas en láminas finas, retirando hojas y tallo previamente.",
+            "11\nRebana cada pan por la mitad y rellénalo con la crema batida y las fresas. Disfruta y comparte este homenaje dulce, fresco y festivo. Cuéntanos en los comentarios tu opinión y comparte una fotografía del resultado final."
+        ]
+    },
+    {
+        "id": "rec-nzxbclcu1",
+        "titulo": "Receta de Pan de muerto grande",
+        "categoria": "Comida Mexicana",
+        "tiempo": "1h 30m",
+        "imagen": "https://cdn0.recetasgratis.net/es/posts/5/8/2/pan_de_muerto_grande_78285_orig.jpg",
+        "ingredientes": [
+            "370 gramos de harina",
+            "4 gramos de sal",
+            "100 gramos de azúcar                                                                    (½ taza)",
+            "9 gramos de levadura seca",
+            "60 mililitros de leche                                                                    (¼ taza)",
+            "15 mililitros de té de azahar",
+            "2 huevos",
+            "60 gramos de mantequilla",
+            "mantequilla para untar c/n",
+            "azúcar granulada para decorar c/n"
+        ],
+        "pasos": [
+            "1\nPara hacer este pan de muerto grande, coloca en el bowl de la batidora la harina, la sal, el azúcar y la levadura seca. Remueve inmediatamente utilizando el accesorio de gancho de la batidora. Luego, incorpora los ingredientes líquidos: la leche, los huevos, ambos a temperatura ambiente y el té de azahar.",
+            "2\nEnciende la batidora a velocidad media y comienza a mezclar. Cuando veas que se está formando una masa, incorpora la mantequilla fría, previamente cortada en cubos, poco a poco.",
+            "3\nAumenta la velocidad al máximo para comenzar a amasar y hazlo por 10 minutos aproximadamente o hasta que se haya desarrollado el gluten.",
+            "4\nPuedes comprobar que el gluten se ha desarrollado cuando detienes el amasado, retiras un poco de masa y la estiras utilizando los dedos, jalando por los extremos. Si se forma una película delgada y traslúcida que no se rompe fácilmente, está lista. Si se rompe, necesita más amasado.",
+            "5\nBolea la masa sobre la mesa jalándola de adelante hacia atrás, y colócala dentro del bowl con la unión hacia abajo. Cubre con papel film o con un paño húmedo y deja reposar en el área más cálida de tu hogar por lo menos 1 hora, o hasta que duplique su volumen.",
+            "6\nColoca la masa sobre una mesa limpia y aplástala suavemente para desgasificarla. Luego, pésala y retira aproximadamente 2 a 3 tiras de 15 g cada una, y una bolita pequeña de unos 5 g. Estas piezas servirán para hacer las decoraciones.",
+            "7\nBolea la masa principal nuevamente, jalándola hacia el cuerpo repetidas veces hasta formar una bola con superficie prolija. Luego, levántala y pincha bien la unión en la base para evitar que se abra durante el horneado.",
+            "8\nPara hacer las decoraciones, estira las tiras de masa hasta que tengan el diámetro suficiente para cubrir la superficie del pan. Colócalas sobre la mesa y, con los dedos, hunde tres puntos en cada tira para lograr el efecto característico de estos panes. No olvides bolear la pequeña bolita que irá en la parte superior.",
+            "9\nDecora el pan con las tiras. Para asegurarte de que queden bien adheridas, puedes usar un poco de huevo batido. Coloca las tiras en forma entrecruzada y simétrica. Luego, con el dedo índice, presiona el centro donde se unen las tiras y pega allí la bolita reservada, también con huevo batido.",
+            "10\nAcomoda el pan sobre una placa con tapete de silicona. Cúbrelo con papel film o un paño húmedo y deja reposar por lo menos 1 hora, o hasta que duplique su volumen. Luego, barniza con el huevo batido y hornea a 165 °C durante aproximadamente 40 minutos, o hasta que la superficie y la base estén bien doradas.",
+            "11\nCuando el pan esté listo, retíralo del horno, deja enfriar sobre una rejilla y unta mantequilla a temperatura ambiente por toda la superficie con una brocha.",
+            "12\nFinalmente, espolvorea abundante azúcar encima para que se adhiera y forme esa corteza brillante y crujiente.",
+            "13\n¡Ya está listo para servir el pan de muerto tradicional! Cuéntanos en los comentarios tu opinión y comparte una fotografía del resultado final."
+        ]
+    },
+    {
+        "id": "rec-49454f9i9",
+        "titulo": "Receta de Pan de muerto sin azúcar",
+        "categoria": "Comida Mexicana",
+        "tiempo": "1h 30m",
+        "imagen": "https://cdn0.recetasgratis.net/es/posts/8/7/2/pan_de_muerto_sin_azucar_78278_orig.jpg",
+        "ingredientes": [
+            "360 gramos de harina",
+            "9 gramos de levadura seca",
+            "50 gramos de monkfruit granulado",
+            "4 gramos de sal",
+            "70 gramos de mantequilla",
+            "15 gramos de té de azahar",
+            "60 leche tibia",
+            "2 huevos",
+            "huevo batido para barnizar",
+            "semillas de sésamo c/n"
+        ],
+        "pasos": [
+            "1\nPara la elaboración de pan de muerto empieza colocando en el bowl de la batidora de pedestal todos los ingredientes secos: la harina, la sal, en frente la levadura seca y el fruto del monje granulado (puede ser el que está mezclado con xylitol), ya que es el edulcorante que más se parece en sabor y textura al azúcar común. Remueve utilizando el gancho de la batidora, y luego incorpora los ingredientes líquidos: los huevos, la leche y el té de azahar.",
+            "2\nEnciende la batidora a velocidad media y comienza a mezclar. Cuando veas que los ingredientes se están integrando en una masa, añade la mantequilla cortada en cubos, poco a poco.",
+            "3\nCuando termines de incorporar toda la mantequilla, aumenta la velocidad y comienza a amasar durante unos 10 minutos, o hasta que el gluten se haya desarrollado. Para comprobarlo, retira un trozo de masa y estíralo jalando los bordes con cuidado: si se forma una película traslúcida que no se rompe fácilmente, el gluten está listo. Si se rompe, necesita más amasado.",
+            "4\nUna vez lista la masa, retírala del bowl y ruédala hacia adelante y hacia atrás con las manos sobre la mesa. Luego, colócala nuevamente en el bowl, cúbrela con un paño húmedo o papel piel, y déjala reposar en el área más cálida de tu hogar durante aproximadamente 1 hora y media.",
+            "5\nCuando la masa haya leudado, divídela en cuatro piezas para formar cuatro panes. De esa misma masa, retira pequeñas bolitas de aproximadamente 10 g para hacer las decoraciones de cada pan. Bolea cada pieza de masa y asegúrate de pinchar la sutura que se forma en la base para evitar que el pan se abra durante el horneado.",
+            "6\nEstira cada bolita hasta que tenga la longitud del pan de muerto sin azúcar, y asegúrate de marcar tres hendiduras simétricas. Puedes hacer de dos a tres tiras por pan. No olvides reservar bolitas de unos 2 g para colocar en la parte superior, si lo deseas.",
+            "7\nAdhiere las decoraciones sobre las masitas boleadas. Para fijarlas bien, puedes usar huevo batido. Al colocar las tiras, hazlo en forma entrelazada o en cruz, y presiona el centro con el dedo para colocar la bolita pequeña.",
+            "8\nColoca los panes sobre una placa enmantecada y déjalos leudar nuevamente en el área más cálida de tu hogar, cubiertos con papel film o un paño húmedo, durante aproximadamente 1.5 horas o hasta que dupliquen su volumen.",
+            "9\nFinalmente, antes de hornear, barniza el pan de muerto mexicano con huevo batido. Si lo prefieres, puedes decorar con semillas de sésamo, ya que no queremos añadir azúcar extra en la cobertura. Hornea a 165 °C durante unos 25 minutos, o hasta que los panes estén bien dorados. Retira del horno, deja enfriar sobre una rejilla, y luego disfruta de estos panes de muerto libres de azúcar. Cuéntanos en los comentarios tu opinión y comparte una fotografía del resultado final.Además, si quieres conocer más Recetas para el Día de Muertos, no te pierdas este artículo."
+        ]
+    },
+    {
+        "id": "rec-r3sgfj1p8",
+        "titulo": "Receta de Pan de elote de lata",
+        "categoria": "Comida Mexicana",
+        "tiempo": "1h 30m",
+        "imagen": "https://cdn0.recetasgratis.net/es/posts/8/5/2/pan_de_elote_de_lata_78258_orig.jpg",
+        "ingredientes": [
+            "1 lata de elote en grano escurrido",
+            "3 huevos",
+            "1 lata de leche condensada",
+            "½ taza de leche evaporada",
+            "90 gramos de mantequilla derretida",
+            "1 taza de harina de trigo                                                                    (140 gramos)",
+            "1 cucharadita de polvo para hornear",
+            "1 cucharadita de esencia de vainilla",
+            "1 pizca de sal",
+            "1 cucharada sopera de azúcar glass"
+        ],
+        "pasos": [
+            "1\nPara comenzar con la receta de pan de elote en lata, precalienta el horno a 180 °C y, luego, en una licuadora, coloca los granos de elote escurridos, los huevos, la leche condensada, la leche evaporada, la vainilla y la mantequilla. Licúa hasta obtener una mezcla homogénea.",
+            "2\nEn un bowl mezcla la harina, el polvo para hornear y la pizca de sal. Apóyate de un tenedor o batidor globo para que se integren bien los ingredientes.",
+            "3\nCuando estén listos los ingredientes secos, agrega poco a poco la mezcla licuada integrando con movimientos envolventes.",
+            "4\nEngrasa un molde rectangular o redondo con mantequilla y un poco de harina, enseguida vierte la preparación en el molde y da unos golpecitos suaves para eliminar burbujas de aire.",
+            "5\nHornea durante 40 a 45 minutos o hasta que al insertar un palillo en el centro, este salga limpio. Luego, retira del horno, deja enfriar ligeramente y desmolda con cuidado.",
+            "6\nCuando el pan de elote fácil haya reposado unos minutos, sirve tibio o a temperatura ambiente espolvoreando un poco de azúcar glass si deseas un acabado más vistoso. ¡Listo, ya puedes disfrutar de un rico pan de elote con leche condensada!"
+        ]
+    },
+    {
+        "id": "rec-r97j335sb",
+        "titulo": "Receta de Alambre de salchicha",
+        "categoria": "Comida Mexicana",
+        "tiempo": "30m",
+        "imagen": "https://cdn0.recetasgratis.net/es/posts/0/5/2/alambre_de_salchicha_78250_orig.jpg",
+        "ingredientes": [
+            "6 salchichas tipo frankfurt o de pavo",
+            "1 pimiento verde",
+            "1 pimiento rojo",
+            "1 pimiento amarillo",
+            "½ pieza de cebolla blanca",
+            "200 gramos de queso manchego o gouda",
+            "2 cucharadas soperas de aceite vegetal",
+            "sal y pimienta al gusto",
+            "tortillas de maíz o harina calientes"
+        ],
+        "pasos": [
+            "1\nPara comenzar la receta de alambre de salchicha, primero, corta en rodajas gruesas las salchichas y reserva. Puedes hacer corte diagonal para trozos más grandes.",
+            "2\nEn una sartén amplia, calienta un poco de aceite, añade las salchichas a la sartén y cocina a fuego medio hasta que comiencen a dorarse ligeramente.",
+            "3\nMientras se doran las salchichas, corta en tiras los pimientos y la cebolla blanca. Puedes usar cualquier tipo de pimiento, para una presentación atractiva puedes usar los de color semáforo.",
+            "4\nCuando las salchichas estén doradas, incorpora la cebolla y los pimientos. Saltea de 4 a 5 minutos hasta que estén suaves, pero ligeramente crocantes.",
+            "5\nAjusta con sal y pimienta al gusto. A continuación, baja el fuego y espolvorea el queso rallado sobre la preparación, cubre la sartén y deja que el queso se funda lentamente.",
+            "6\nCuando el queso se haya fundido, sirve el alambre mexicaon de salchicha de inmediato y acompaña con tortillas de maíz o harina calientes. ¡No olvides el toque fresco de limón y salsa al gusto! Cuéntanos en los comentarios tu opinión y comparte con nosotros una fotografía del resultado final."
+        ]
+    },
+    {
+        "id": "rec-88t7ay2s4",
+        "titulo": "Receta de Alambre al pastor",
+        "categoria": "Comida Mexicana",
+        "tiempo": "45m",
+        "imagen": "https://cdn0.recetasgratis.net/es/posts/9/4/2/alambre_al_pastor_78249_orig.jpg",
+        "ingredientes": [
+            "500 gramos de carne de cerdo",
+            "1 pimiento verde en tiras",
+            "1 pimiento rojo en tiras",
+            "1 pimiento amarillo en tiras",
+            "½ pieza de cebolla blanca en plumas",
+            "200 gramos de queso manchego",
+            "2 cucharadas soperas de aceite vegetal",
+            "sal y pimienta al gusto",
+            "tortillas de maíz",
+            "Para el adobo",
+            "3 chiles guajillos secos, desvenados e hidratados",
+            "2 chiles anchos secos, desvenados e hidratados",
+            "2 dientes de ajo",
+            "1 trozo de cebolla",
+            "2 cucharadas soperas de vinagre blanco",
+            "1 cucharadita de orégano seco",
+            "1 cucharadita de comino en polvo",
+            "2 cucharadas soperas de jugo de piña",
+            "sal al gusto",
+            "1 cucharadita de pasta de achiote"
+        ],
+        "pasos": [
+            "1\nPara comenzar con la receta de alambre al pastor, primero licúa los chiles hidratados junto con ajo, cebolla, vinagre, jugo de piña, achiote y especias hasta obtener una salsa tersa.",
+            "2\nMarina la carne de cerdo con la salsa de adobo durante al menos 30 minutos en refrigeración. Idealmente, toda la noche para intensificar los sabores.\nTruco: puedes usar carne cocida con sal y marinar por menos tiempo.",
+            "3\nCuando esté marinada la carne, calienta dos cucharadas de aceite en una sartén u olla grande y añade la carne marinada y cocina a fuego alto, moviendo constantemente hasta que esté bien dorada.",
+            "4\nIncorpora los pimientos y la cebolla, sofríe de 4 a 5 minutos hasta que estén suaves pero ligeramente firmes.\nTruco: evita sobrecocinar los pimientos.",
+            "5\nPara terminar, baja el fuego, agrega el queso manchego y cubre la sartén para que se funda lentamente sobre la mezcla.",
+            "6\nFinalmente, sirve de inmediato acompañado de tortillas calientes. Puedes armar tacos colocando una porción generosa de alambre al pastor, decorar con cebolla, cilantro fresco y un poco de salsa picante."
+        ]
+    },
+    {
+        "id": "rec-beinlkmqb",
+        "titulo": "Receta de Mini pan de muerto",
+        "categoria": "Comida Mexicana",
+        "tiempo": "2h 30m",
+        "imagen": "https://cdn0.recetasgratis.net/es/posts/9/5/2/mini_pan_de_muerto_78259_orig.jpg",
+        "ingredientes": [
+            "250 gramos de harina de trigo",
+            "50 gramos de azúcar                                                                    (¼ taza)",
+            "1 huevo",
+            "1 yema de huevo",
+            "50 gramos de mantequilla a temperatura ambiente",
+            "5 gramos de levadura seca o 12 gramos de levadura fresca",
+            "60 mililitros de leche tibia",
+            "½ cucharadita de sal",
+            "½ cucharadita de ralladura de naranja",
+            "½ cucharadita de esencia de azahar",
+            "azúcar extra para espolvorear"
+        ],
+        "pasos": [
+            "1\nPara comenzar la receta de mini pan de muerto, activa la levadura mezclándola en la leche tibia con una pizca de azúcar. Deja reposar 10 minutos hasta que espume.",
+            "2\nEn un recipiente grande mezcla la harina de trigo, el azúcar y la sal. Para una mejor textura, cierne los ingredientes secos.",
+            "3\nAñade el huevo, la esencia de azahar y la levadura ya activada. Mezcla muy bien hasta que comience a formarse una masa.",
+            "4\nAgrega la mantequilla a temperatura ambiente y la ralladura de naranja, comienza a amasar por unos 10 minutos.",
+            "5\nAmasa por al menos 30 minutos, ya sea manualmente o con ayuda de una batidora con gancho hasta que obtengas una masa suave y elástica. Cuando esté lista, deja reposar en un recipiente con aceite y cubre para que doble su tamaño.",
+            "6\nCuando la masa esté lista, divídela en 5 porciones iguales y forma los panes de muerto. Asimismo, separa un pequeño trozo de cada porción para formar los “huesitos” y bolitas decorativas. Arma los panes colocando los huesitos cruzados y la bolita en el centro.\nTruco: puedes dividir la masa según la cantidad de panes que prefieras.",
+            "7\nColoca en charola con papel encerado, cubre y deja reposar 40 minutos más para que esponjen. Luego, barniza con la yema batida y hornea a 180 °C durante 18 a 20 minutos hasta dorar ligeramente.",
+            "8\nAl salir del horno, pincela con mantequilla derretida y espolvorea con azúcar al gusto. ¡Listo, ya puedes disfrutar de un rico mini pan de muerto! Cuéntanos en los comentarios tu opinión y comparte con nosotros una fotografía del resultado final.Además, si quieres conocer más Recetas para el Día de Muertos para complementar tu menú, no te pierdas este artículo."
+        ]
+    },
+    {
+        "id": "rec-flesmucx0",
+        "titulo": "Receta de Tacos de alambre",
+        "categoria": "Comida Mexicana",
+        "tiempo": "30m",
+        "imagen": "https://cdn0.recetasgratis.net/es/posts/9/3/2/tacos_de_alambre_78239_orig.jpg",
+        "ingredientes": [
+            "500 gramos de carne de res sirloin o bistec",
+            "1 pimiento verde",
+            "1 pimiento rojo",
+            "1 pimiento amarillo",
+            "1 cebolla blanca mediana",
+            "200 gramos de queso manchego rallado",
+            "2 cucharadas soperas de aceite",
+            "sal y pimienta al gusto",
+            "tortillas de maíz o harina calientes"
+        ],
+        "pasos": [
+            "1\nPara comenzar, corta la carne en cubos pequeños y sazónala con sal y pimienta. Déjala reposar mientras preparas los vegetales.",
+            "2\nCorta en tiras las verduras: los tres tipos de pimientos y la cebolla blanca. También puedes usar solo un tipo de pimiento, según tu gusto.",
+            "3\nEn una sartén amplia, calienta el aceite. Agrega la cebolla y los pimientos cortados, y saltéalos de 4 a 5 minutos, o hasta que estén ligeramente suaves y caramelizados.",
+            "4\nLuego, incorpora la carne sazonada y cocina a fuego alto, moviendo constantemente hasta que tome un color dorado por fuera y quede jugosa por dentro.",
+            "5\nUna vez que la carne esté lista y cocida, baja el fuego y añade el queso rallado, cubre la sartén y deja que se funda ligeramente sobre la carne y pimientos.",
+            "6\nCuando el queso se haya fundido, sirve de inmediato. Utiliza tortillas calientes, coloca una porción generosa de alambre con queso ¡y listo! Ya puedes disfrutar de unos deliciosos tacos de alambre de res.Si también quieres preparar tus propias tortillas, no te pierdas esta receta: \"Receta de masa para tacos\"."
+        ]
+    },
+    {
+        "id": "rec-uqu52onw3",
+        "titulo": "Receta de Enchiladas de queso",
+        "categoria": "Comida Mexicana",
+        "tiempo": "30m",
+        "imagen": "https://cdn0.recetasgratis.net/es/posts/6/1/2/enchiladas_de_queso_78216_orig.jpg",
+        "ingredientes": [
+            "Para la salsa",
+            "5 tomate huaje",
+            "2 chile guajillo limpio",
+            "2 ajo",
+            "1 cebolla",
+            "1½ caldo de verduras o de pollo",
+            "Para las enchiladas",
+            "500 tortillas de maíz",
+            "350 queso fresco o queso oaxaca",
+            "½ aceite para freír",
+            "sal al gusto",
+            "½ crema",
+            "½ cebolla en rodajas",
+            "1 lechuga picada"
+        ],
+        "pasos": [
+            "1\nPara hacer la receta de enchiladas de queso, primero prepara la salsa. Asa los tomates, los dientes de ajo, la cebolla y los chiles en un sartén o comal caliente, hasta que se inflen un poco y se tuesten ligeramente, dales vuelta continuamente para evitar que se quemen. Cuando ya estén completamente asados los ingredientes para la salsa roja, pasa a la licuadora con una taza de agua y licua muy bien hasta obtener una salsa suave.",
+            "2\nEn una olla con una cucharada de aceite vierte la salsa licuada, añade el caldo de verduras o de pollo, este último puede ser en cubo o en polvo, deja y añade sal al gusto. Una vez que comience a hervir, toma el tiempo de 10 minutos más y retira del fuego. Asegúrate que la salsa no quede muy espesa o líquida, ya que debe ser lo suficientemente suave para bañar las enchiladas de queso, puedes añadir más o menos agua o caldo según te convenga.",
+            "3\nPrepara las tortillas para las enchiladas de queso. Para ello, las tortillas de maíz deben calentarse antes de usarlas, esto para evitar que se rompan al momento de rellenar y enrollar. Calienta la sartén o comal por unos segundos sin dejarlas por mucho tiempo, las tortillas deben quedar suaves y flexibles. Puedes calentarlas también en el horno de microondas.",
+            "4\nUna vez que las tortillas estén calientes y suaves, es hora de incorporar el queso a las enchiladas. Para esto, ralla el queso o corta en pedazos o tiras delgadas, rellena y distribuye bien sobre la tortilla, luego enrolla con cuidado formando una especie de cilindro. Es importante no poner demasiado queso para que no se desborden y se pueda cerrar bien la tortilla. Si lo prefieres en lugar de enrollar puedes doblar por la mitad. Continua hasta terminar con todo el queso.",
+            "5\nPara continuar la receta de enchiladas de queso, en una sartén grande calienta aceite a fuego medio y, una vez que el aceite esté caliente, coloca las tortillas enrolladas, trata de que no se empalmen una con otra para que se doren uniformemente. Fríe por unos 2 minutos de cada lado, la tortilla debe quedar crujiente. Una vez listas las enchiladas fritas, retira y deja reposar sobre papel absorbente.",
+            "6\nYa solo queda armar estas deliciosas enchiladas de queso. Para ello, acomoda en un plato las tortillas rellenas y fritas, enseguida vierte un poco de la salsa roja que hiciste, esta debe estar caliente. Distribuye bien para que se cubran, luego termina añadiendo un poco de lechuga, crema y cebolla en rodajas. Si lo prefieres, puedes agregar un poco más de queso rallado encima. ¡Ya puedes disfrutar de unas ricas enchiladas de queso! Cuéntanos en los comentarios tu opinión y comparte una fotografía del resultado final."
+        ]
+    },
+    {
+        "id": "rec-sh89pfipf",
+        "titulo": "Receta de Empanadas de camarones",
+        "categoria": "Comida Mexicana",
+        "tiempo": "45m",
+        "imagen": "https://cdn0.recetasgratis.net/es/posts/7/6/0/empanadas_de_camarones_78067_orig.jpg",
+        "ingredientes": [
+            "Para la masa:",
+            "2½ tazas de harina de trigo integral (o harina normal)",
+            "1 cucharadita de sal",
+            "100 gramos de mantequilla fría en cubos",
+            "1 huevo",
+            "55 mililitros de agua",
+            "1 cucharada sopera de vinagre blanco",
+            "Para el relleno:",
+            "1½ tazas de camarones limpios y picados",
+            "½ pieza de cebolla morada picada",
+            "1 diente de ajo picado",
+            "1 pieza de tomate picado sin semillas",
+            "1 cucharada sopera de aceite de oliva",
+            "jugo de un limón amarillo",
+            "sal, pimienta y comino al gusto",
+            "cilantro fresco picado",
+            "Para finalizar:",
+            "1 huevo batido para barnizar",
+            "aceite vegetal"
+        ],
+        "pasos": [
+            "1\nComienza la receta preparando la masa de las empanadas. En un bol grande combina la harina, la sal y la mantequilla —esta última debe estar fría y en cubos—. Mezcla con tus manos limpias hasta obtener una textura arenosa.",
+            "2\nLuego, incorpora el huevo, el agua y el vinagre blanco. Mezcla poco a poco hasta formar una masa suave y homogénea. Cuando esté lista, déjala reposar en el refrigerador por al menos 30 minutos.",
+            "3\nYa que la masa haya reposado, estírala y corta círculos de unos 12 a 15 cm. La cantidad dependerá de qué tan grandes o pequeñas quieras hacer las empanadas de camarón. Te saldrán aproximadamente de 10 a 12 círculos.",
+            "4\nPara el relleno, calienta una cucharada de aceite de oliva y sofríe la cebolla, el ajo, el tomate y los camarones. Remueve constantemente hasta que los camarones comiencen a cambiar ligeramente de color.",
+            "5\nPara terminar el relleno de las empanadas de camarones, agrega el jugo de limón amarillo, sal, pimienta y comino al gusto. Cocina todo por 3 a 4 minutos, luego añade el cilantro picado, mezcla bien y retira del fuego.",
+            "6\nAhora es momento de armar las empanadas. Coloca una cucharada del relleno en cada disco de masa, humedece los bordes con un poco de agua, ciérralas y presiona con un tenedor.",
+            "7\nLuego, cocínalas al gusto: puedes hornearlas a 200 °C durante 20 minutos, barnizándolas con huevo batido, o bien freírlas en abundante aceite hasta que estén doradas.",
+            "8\nCuando estén listas, sírvelas calientes y acompáñalas con una ensalada fresca o un delicioso ceviche de pescado con mango. Si decidiste freírlas, escúrrelas sobre papel absorbente antes de servir. ¡Así de bien queda la receta de empanadas de camarones!"
+        ]
+    },
+    {
+        "id": "rec-glv6zxthm",
+        "titulo": "Receta de Jericallas tapatías",
+        "categoria": "Comida Mexicana",
+        "tiempo": "1h 30m",
+        "imagen": "https://cdn0.recetasgratis.net/es/posts/4/2/2/jericallas_tapatias_78224_orig.jpg",
+        "ingredientes": [
+            "1 litro de leche entera",
+            "1 rama de canela",
+            "1 cucharadita de esencia de vainilla",
+            "6 huevos",
+            "150 gramos de azúcar                                                                    (¾ taza)",
+            "1 pizca de sal"
+        ],
+        "pasos": [
+            "1\nPara comenzar, infusiona la leche. En una olla, calienta la leche junto con la rama de canela y la vainilla; lleva a fuego medio hasta que comience a soltar vapor, sin dejar que hierva. Luego, retira del fuego y deja reposar durante 10 minutos.",
+            "2\nLuego, prepara la mezcla de huevos. En un bol grande, bate los huevos con el azúcar y la pizca de sal hasta que se integren por completo; no es necesario espumar.",
+            "3\nRetira la rama de canela de la leche y agrega, poco a poco, la leche tibia a la mezcla de huevos. Vierte la leche en forma de hilo mientras bates, para evitar que los huevos se cuezan y conseguir la textura ideal de las jericallas tradicionales.",
+            "4\nCuando los ingredientes estén integrados, vierte la mezcla en moldes individuales aptos para horno o baño María. Procura no llenarlos hasta el borde para evitar derrames.",
+            "5\nDespués, coloca los moldes en una bandeja con agua caliente y hornea en horno precalentado a 180 °C durante 40 a 50 minutos, o hasta que al insertar un palillo, este salga limpio.\nTruco: Para hacer la receta de jericallas sin horno, coloca los moldes en una cacerola, cúbrelos con papel de aluminio, tapa la cacerola y cocina al baño María durante 50 minutos aproximadamente.",
+            "6\nSi deseas una capa dorada más intensa, en los últimos minutos de horneado sube la temperatura o utiliza un gratinador. Luego, retira del horno y deja enfriar las jericallas a temperatura ambiente antes de refrigerar. Refrigera durante unas 2 horas para obtener una mejor textura y sabor. Después, ¡podrás disfrutar de una rica jericalla tapatía!Ahora que sabes cómo hacer jericallas de Guadalajara, completa tu mesa dulce con más postres mexicanos como estos:Receta de torta de eloteReceta de marquesitas yucatecas"
+        ]
+    },
+    {
+        "id": "rec-e78and86f",
+        "titulo": "Receta de Sopa de hongos",
+        "categoria": "Comida Mexicana",
+        "tiempo": "30m",
+        "imagen": "https://cdn0.recetasgratis.net/es/posts/1/4/8/sopa_de_hongos_77841_orig.jpg",
+        "ingredientes": [
+            "500 gramos de hongos frescos",
+            "1½ litros de agua o fondo de verduras",
+            "1 pieza de cebolla mediana picada",
+            "2 dientes de ajo picados",
+            "2 cucharadas soperas de crema ácida",
+            "2 cucharadas soperas de mantequilla o margarina",
+            "sal y pimienta al gusto",
+            "3 hojas de epazote picado",
+            "1 pizca de tomillo",
+            "2 hojas de laurel"
+        ],
+        "pasos": [
+            "1\nComienza por limpiar muy bien los hongos que vas a utilizar, en esta receta se va a utilizar champiñones blancos. Utiliza un poco de agua para eliminar la tierra que puedan traer, también puedes usar un trapo o servilleta húmeda. Si utilizas champiñones frescos retira la base, ya que esta suele ser dura. Una vez que estén limpios, corta en rebanadas, láminas o trozos según lo prefieras y reserva.",
+            "2\nEn una olla pon a derretir las dos cucharadas de mantequilla a fuego medio y, una vez esté derretida, agrega la cebolla que debe estar finamente picada, seguida por los dientes de ajo, estos pueden estar machacados o cortados en láminas o trozos pequeños. Sofríe ambos ingredientes durante unos 5 minutos o hasta que la cebolla se vuelva transparente, mueve constantemente para evitar que el ajo se queme.\nTruco: puedes sustituir la mantequilla por aceite de oliva.",
+            "3\nCuando la cebolla y el ajo estén bien sofritos, agrega los hongos limpios a la olla, remueve muy bien y cocina por unos 5 a 6 minutos hasta que empiecen a soltar su jugo y se ablanden. Cuando estén casi listos, agrega el epazote picado finamente y vuelve a mezclar por un par de minutos para que tanto los hongos como el epazote suelten sus aromas y sabores.",
+            "4\nCuando los hongos estén cocidos, será momento de añadir el fondo de verduras a la olla, enseguida agrega también un poco de tomillo ya sea fresco o seco y un par de hojas de laurel para aromatizar. Deja hervir por unos 15 minutos para que todos los ingredientes se integren bien. Pasados los 15 minutos, retira las hojas de laurel, si utilizaste tomillo fresco también retira la ramita.",
+            "5\nPasado el tiempo de cocción de los hongos con el fondo de verduras y las especias, es momento de hacer la sopa de champiñones más cremosa. Para ello, agrega dos cucharadas de crema, mezcla muy bien y, luego, agrega sal y pimienta al gusto. Deja hervir por un par de minutos, luego prueba para ajustar la sazón si lo ves necesario. Cocina todo 5 minutos más y deja reposar.\nTruco: si quieres una sopa con textura más espesa, añade un poco de harina disuelta en agua, esto hará la sopa con más cuerpo.",
+            "6\nSirve este exquisito caldo de hongos decorando con un poco de crema adicional y con un toque verde con unas hojitas de cilantro fresco. Acompaña también con unas rodajas de pan o con unas tostadas para añadir ese toque crocante. ¡A comer!"
+        ]
+    },
+    {
+        "id": "rec-0z9xkv0lj",
+        "titulo": "Receta de Salchichas enchipotladas",
+        "categoria": "Comida Mexicana",
+        "tiempo": "15m",
+        "imagen": "https://cdn0.recetasgratis.net/es/posts/3/2/2/salchichas_enchipotladas_78223_orig.jpg",
+        "ingredientes": [
+            "6 piezas de salchichas de pavo o res cortadas en rodajas o mitades",
+            "3 piezas de jitomate",
+            "1 trozo de cebolla blanca",
+            "1 diente de ajo",
+            "2 chiles chipotle adobados o secos",
+            "1 cucharada sopera de aceite vegetal",
+            "sal y pimienta al gusto",
+            "1 cucharada sopera de salsa cátsup"
+        ],
+        "pasos": [
+            "1\nPara hacer la receta de salchichas enchipotladas, primero prepara la salsa. Para ello, licúa los jitomates con el ajo, la cebolla, los chipotles y una pizca de sal. Agrega un poco de agua.",
+            "2\nSofríe las salchichas en una sartén caliente con una cucharada de aceite vegetal y dora por 3 a 4 minutos hasta que tomen color.",
+            "3\nVierte la salsa licuada sobre las salchichas y cocina a fuego medio bajo, remueve para que se impregnen bien de la salsa.",
+            "4\nCuando hayan pasado un par de minutos, rectifica el sabor de las salchichas en salsa, agrega sal, pimienta y un toque de salsa cátsup para equilibrar el picante. También puedes añadir más chile molido.",
+            "5\nTapa y deja cocer las salchichas con kétchup por 6 a 8 minutos más, moviendo de vez en cuando hasta que la salsa se espese, luego retira del fuego.",
+            "6\nSirve las salchichas con tomate calientes acompañadas con arroz blanco, tortillas o tostadas de maíz. También puedes decorar con cebolla morada o cilantro picado si lo deseas. ¡A comer!"
+        ]
+    },
+    {
+        "id": "rec-fv69ps8ri",
+        "titulo": "Receta de Atole de grano",
+        "categoria": "Comida Mexicana",
+        "tiempo": "1h 30m",
+        "imagen": "https://cdn0.recetasgratis.net/es/posts/7/1/2/atole_de_grano_78217_orig.jpg",
+        "ingredientes": [
+            "4 piezas de elote",
+            "1½ litros de agua",
+            "1 rama de anís planta",
+            "2 hojas de de hoja santa",
+            "sal al gusto",
+            "1 cucharada sopera de fécula de maíz disuelta en un chorrito de agua",
+            "limón al gusto",
+            "chile seco al gusto"
+        ],
+        "pasos": [
+            "1\nComienza la receta de atole de grano por desgranar los elotes, puedes hacerlo con todos o dejar uno y cortar en discos para una mejor presentación.\nTruco: puedes usar también maíz cacahuazintle precocido.",
+            "2\nCuece los granos de elote en suficiente agua hasta que estén bien cocidos, aproximadamente de 45 a 50 minutos. Si eliges usar maíz cacahuazintle precocido el tiempo se reduce a unos 25 minutos aproximadamente.",
+            "3\nCuando estén cocidos, agrega la fécula de maíz disuelta. Tambiénpuedes moler una cucharada grande de grano de elote para espesar el atole.",
+            "4\nLicua las hierbas, el anís planta y la hoja santa con un chorrito de agua hasta obtener una salsa líquida. Si no consigues el anís planta, puedes hervir una cucharada de anís en grano y utilizar el agua.\nTruco: si quieres añadir un toque extra de sabor, añade uno o dos chiles serranos desvenados.",
+            "5\nCuando el elote esté cocido, incorpora la salsa de hoja santa y anís (ya sea planta o en grano), añade sal al gusto y cocina por 10 a 15 minutos más, removiendo constantemente.",
+            "6\nPasado el tiempo de cocción, sirve caliente en jícaras o tazones de barro hondos, agrega limón y chile al gusto. ¡A disfrutar de un rico atole de grano! Cuéntanos en los comentarios tu opinión y comparte con nosotros una fotografía del resultado final."
+        ]
+    },
+    {
+        "id": "rec-jur0rmi6g",
+        "titulo": "Receta de Albóndigas enchipotladas",
+        "categoria": "Comida Mexicana",
+        "tiempo": "30m",
+        "imagen": "https://cdn0.recetasgratis.net/es/posts/3/1/2/albondigas_enchipotladas_78213_orig.jpg",
+        "ingredientes": [
+            "500 gramos de carne molida de res o mixta",
+            "1 huevo",
+            "½ taza de pan molido",
+            "2 cucharadas soperas de cebolla blanca picada finamente",
+            "1 pizca de ajo en polvo",
+            "sal y pimienta al guto",
+            "4 jitomates",
+            "2 dientes de ajo",
+            "1 trozo de cebolla",
+            "3 chiles chipotle",
+            "1 cucharada sopera de aceite"
+        ],
+        "pasos": [
+            "1\nPara comenzar forma las albóndigas. Mezcla la carne con el huevo, pan molido, ajo en polvo, cebolla, sal y pimienta; amasa ligeramente y forma bolitas del tamaño de una cucharada.",
+            "2\nSella las albóndigas. En una sartén con poco aceite, dóralas por todos lados a fuego medio, luego retira y reserva.",
+            "3\nPrepara la salsa. Licúa los jitomates con los chiles chipotles, el trozo de cebolla, los dientes de ajo y una pizca de sal.\nTruco: puedes usar chile chipotle adobado o seco, según sea el gusto.",
+            "4\nCuando esté licuada la salsa, en una olla cocina la salsa. Vierte la salsa y cocina por 5 minutos hasta que cambie ligeramente de color y se espese un poco.",
+            "5\nIncorpora las albóndigas selladas y cocina a fuego bajo por 15 minutos. Rectifica el sazón y, si lo ves, necesario añade un poco de sal al gusto.",
+            "6\nUna vez listas, sirve calientes las albóndigas mexicanas enchipotladas, decora con hojas de perejil o cilantro y acompaña con arroz blanco o ensalada fresca. ¡A comer! Cuéntanos en los comentarios tu opinión y comparte con nosotros una fotografía del resultado final."
+        ]
+    },
+    {
+        "id": "rec-hs8td7ht4",
+        "titulo": "Receta de Pulpo a la diabla",
+        "categoria": "Comida Mexicana",
+        "tiempo": "45m",
+        "imagen": "https://cdn0.recetasgratis.net/es/posts/0/0/2/pulpo_a_la_diabla_78200_orig.jpg",
+        "ingredientes": [
+            "1 kilogramo de pulpo cocido y troceado",
+            "5 chiles guajillo secos",
+            "2 chiles de árbol secos",
+            "3 jitomates",
+            "2 dientes de ajo",
+            "1 trozo de cebolla",
+            "2 cucharadas soperas de mantequilla",
+            "1 cucharada sopera de aceite",
+            "sal y pimienta al gusto",
+            "limón y cilantro para decorar"
+        ],
+        "pasos": [
+            "1\nPara comenzar con la receta de pulpo a la diabla, primero hidrata los chiles. Retira las semillas y hierve en agua por 5 minutos hasta que se ablanden.",
+            "2\nPrepara la salsa. En la licuadora coloca los chiles hidratados, los jitomates, los dientes de ajo, la cebolla y un poco del agua de la cocción de los chiles. Licúa hasta obtener una salsa espesa.",
+            "3\nSofríe la salsa para camarones a la diabla. En una olla o sartén grande calienta el aceite y la mantequilla, enseguida vierte la salsa y cocina por 10 minutos a fuego medio, moviendo ocasionalmente.",
+            "4\nIncorpora el pulpo cocido a la salsa y cocina por 5 a 7 minutos más para que se impregne de sabor. Puedes usar pulpo en trozo crudo, solo deberás cocinarlo por un par de minutos más hasta que tenga la textura correcta.",
+            "5\nPor último rectifica sazón, ajusta la sal y la pimienta y, si deseas más picante, puedes añadir más chile de árbol licuado con un poco de agua.",
+            "6\nSirve el pulpo a la diabla caliente, emplata acompañado de arroz blanco y una ensalada fresca. También puedes decorar con unas hojas de cilantro o rebanadas de aguacate. Cuéntanos en los comentarios tu opinión y comparte con nosotros una fotografía del resultado final."
+        ]
+    },
+    {
+        "id": "rec-0k01toquz",
+        "titulo": "Receta de Aguachile de mango",
+        "categoria": "Comida Mexicana",
+        "tiempo": "45m",
+        "imagen": "https://cdn0.recetasgratis.net/es/posts/3/8/1/aguachile_de_mango_78183_orig.jpg",
+        "ingredientes": [
+            "500 gramos de camarón crudo",
+            "2 piezas de mango maduro pero firme",
+            "1 pieza de pepino",
+            "½ pieza de cebolla morada",
+            "15 piezas de limones medianos",
+            "4 chiles de árbol o habaneros",
+            "1 cucharada sopera de salsa de soya",
+            "sal y pimienta al gusto",
+            "cilantro fresco",
+            "2 dientes de ajo",
+            "tostadas para acompañar",
+            "1 pieza de aguacate"
+        ],
+        "pasos": [
+            "1\nPara comenzar con la receta, limpia los camarones, retira la cáscara y la tripita, luego haz un corte mariposa para abrir el camarón.\nTruco: asegúrate de que los camarones queden muy limpios.",
+            "2\nColoca los camarones en un recipiente de vidrio preferentemente y cúralos con el jugo de 6 limones. Deja reposar en refrigeración por 20 minutos, hasta que se tornen opacos.",
+            "3\nMientras se cura el camarón pica la verdura, la cebolla en julianas y el pepino en medias lunas, también pica un mango en tiras o trozos de tamaño mediano.\nTruco: retira las semillas del pepino para una mejor presentación.",
+            "4\nPara la salsa, en un sartén con un poco de aceite dora los dientes de ajo y los chiles de árbol, remueve constantemente para que no se quemen. Puedes utilizar también chile habanero o serrano al gusto.",
+            "5\nLicúa la base del aguachile, agrega a la licuadora un mango picado, la salsa de soya, los chiles y el ajo dorados, sal, pimienta y el jugo de 9 limones.",
+            "6\nCuando los camarones se hayan curado, drena el jugo de limón y agrega las verduras y el mango picados mezcla bien para integrar todo.",
+            "7\nVierte la salsa licuada encima y añade el cilantro fresco picado. Mezcla con suavidad para que todo quede bien cubierto, tapa y deja reposar por al menos 10 minutos antes de servir.",
+            "8\nAhora solo queda servir y decorar el aguachile de mango. Sirve en platos hondos o copas frías, decora con hojas de cilantro y acompaña con rebanadas de aguacate y tostadas de maíz. ¡A comer! Cuéntanos en los comentarios tu opinión y comparte con nosotros una fotografía del resultado final."
+        ]
+    },
+    {
+        "id": "rec-hatn04nrd",
+        "titulo": "Receta de Jalapeños rellenos",
+        "categoria": "Comida Mexicana",
+        "tiempo": "30m",
+        "imagen": "https://cdn0.recetasgratis.net/es/posts/2/8/1/jalapenos_rellenos_78182_orig.jpg",
+        "ingredientes": [
+            "10 chiles jalapeños medianos",
+            "200 gramos de queso crema",
+            "100 gramos de tocino picado",
+            "1 trozo de cebolla finamente picada",
+            "1 diente de ajo picado",
+            "sal y pimienta al gusto",
+            "queso para gratinar al gusto",
+            "cilantro picado"
+        ],
+        "pasos": [
+            "1\nPara empezar la receta, limpia los jalapeños yhaz un corte longitudinal sin llegar a los extremos, retira cuidadosamente las semillas con auda de una cuchara.",
+            "2\nCuece los chiles jalapeños en agua hirviendo con sal durante 3 minutos. Escúrrelos y deja enfriar. Con este paso se suavizarán y se reducirá ligeramente el picor de los chiles.",
+            "3\nFríe el tocino en una sartén sin aceite hasta que esté bien dorado, añade la cebolla y el ajo picados y mezcla para integrar.",
+            "4\nAhora prepara el relleno. Mezcla el queso crema con el tocino, la cebolla y el ajo. Salpimenta al gusto y mezcla hasta que se integre todo por completo.\nTruco: opcionalmente puedes añadir un poco de cilantro fresco picado para proporcionar un toque extra de sabor.",
+            "5\nRellena los jalapeños con la mezcla de queso y tocino, distribuye bien y presiona suavemente para que queden bien rellenos.",
+            "6\nCuando estén rellenos los chiles, coloca una porción de queso para gratinar y enseguida hornea a 180 °C durante 10 minutos, o hasta que el queso haya gratinado y esté dorado.\nTruco: puedes gratinar al sartén a fuego bajo",
+            "7\nPasado el tiempo de horneado deja reposar un par de minutos y listo. ¡Ya puedes disfrutar de unos ricos jalapeños rellenos de queso! Cuéntanos en los comentarios tu opinión y comparte con nosotros una fotografía del resultado final."
+        ]
+    },
+    {
+        "id": "rec-2r4ndte41",
+        "titulo": "Receta de Morisqueta michoacana",
+        "categoria": "Comida Mexicana",
+        "tiempo": "45m",
+        "imagen": "https://cdn0.recetasgratis.net/es/posts/7/6/1/morisqueta_michoacana_78167_orig.jpg",
+        "ingredientes": [
+            "2 tazas de arroz blanco cocido",
+            "2 tazas de frijoles enteros cocidos con poco caldo",
+            "500 gramos de carne de res o cerdo en cubos",
+            "3 piezas de jitomates maduros",
+            "2 chiles serranos",
+            "1 trozo de cebolla",
+            "2 dientes de ajo",
+            "aceite vegetal",
+            "sal y pimienta al gusto",
+            "queso fresco"
+        ],
+        "pasos": [
+            "1\nPara empezar, cuece la carne en una olla con suficiente agua. Cocina la carne con sal hasta que esté suave, luego escúrrela y resérvala.",
+            "2\nPrepara la salsa. Para ello, licúa los jitomates, los chiles, el ajo y la cebolla con un poco de agua hasta obtener una salsa uniforme.",
+            "3\nEn una olla o sartén con aceite caliente, sofríe la carne previamente cocida, agrega sal y pimienta al gusto, remueve y deja dorar ligeramente.\nTruco: puedes sustituir el aceite por manteca de cerdo, proporcionará un mejor sabor.",
+            "4\nCuando la carne esté un poco dorada, vierte la salsa licuada y deja hervir por 10 minutos. Rectifica la sazón y, si lo ves necesario, añade un poco más de sal y pimienta al gusto.\nTruco: puedes añadir un cubo de caldo de pollo para intensificar los sabores.",
+            "5\nCuando tengas la carne con la salsa lista, es momento de servir. Para ello, coloca una base arroz blanco, agrega frijoles calientes y termina con la carne en salsa, añade queso fresco si lo deseas. Listo, disfruta de esta rica morisqueta michoacana. Cuéntanos en los comentarios tu opinión y comparte con nosotros una fotografía del resultado final."
+        ]
+    },
+    {
+        "id": "rec-br87ov7cl",
+        "titulo": "Receta de Tacos de camarones empanizados",
+        "categoria": "Comida Mexicana",
+        "tiempo": "30m",
+        "imagen": "https://cdn0.recetasgratis.net/es/posts/7/7/1/tacos_de_camarones_empanizados_78177_orig.jpg",
+        "ingredientes": [
+            "500 gramos de camarones medianos o grandes",
+            "½ taza de harina de trigo                                                                    (70 gramos)",
+            "2 huevos",
+            "1 taza de pan molido o panko",
+            "sal y pimienta al gusto",
+            "1 cucharadita de ajo en polvo",
+            "aceite vegetal",
+            "1 taza de col morada en tiras",
+            "limón al gusto",
+            "hojas de cilantro al gusto",
+            "tortillas de maíz"
+        ],
+        "pasos": [
+            "1\nPara comenzar la receta de tacos de camarones empanizados, primero limpia los camarones, retira la cáscara y asegúrate de quitar la tripita del lomo. Para una presentación diferente, conserva la cola.",
+            "2\nColoca los camarones en un bol y sazona con sal, pimienta y una cucharadita de ajo en polvo, mezcla bien y deja reposar por 10 minutos.",
+            "3\nPrepara los ingredientes para el empanizado. Coloca en platos separados la harina, los huevos batidos y el pan molido o panko.\nTruco: para una textura más crujiente añade al plato del pan una cucharada de fécula de maíz.",
+            "4\nEmpaniza los camarones. Pasa cada camarón en el siguiente orden, primero harina, seguido por huevo batido y finalmente pan molido, cubre perfectamente cada camarón.",
+            "5\nCuando hayas empanizado todos los camarones, colocalos en una bandeja, añade un poco de aceite y fríe durante 10 minutos a 200 °C en una freidora de aire o en una sartén con aceite.",
+            "6\nPor último, calienta las tortillas de maíz, monta los tacos, añade col morada en tiras, cilantro y unas gotas de limón. ¡Listo, ya puedes disfrutar de unos deliciosos tacos de camarones empanizados! Cuéntanos en los comentarios tu opinión y comparte con nosotros una fotografía del resultado final."
+        ]
+    },
+    {
+        "id": "rec-ph5qfgd3t",
+        "titulo": "Receta de Churipo",
+        "categoria": "Comida Mexicana",
+        "tiempo": "2h 30m",
+        "imagen": "https://cdn0.recetasgratis.net/es/posts/6/6/1/churipo_78166_orig.jpg",
+        "ingredientes": [
+            "1 kilogramo de carne de res o cerdo (chambarete o costilla)",
+            "4 litros de agua",
+            "6 piezas de chiles guajillo desvenados y sin semillas",
+            "2 piezas de chiles anchos",
+            "1 pieza de cebolla",
+            "2 dientes de ajo limpios",
+            "1 rama de epazote fresco",
+            "1 taza de ejotes picados",
+            "1 taza de zanahoria picada",
+            "1 taza de calabaza picada",
+            "2 piezas de elote en trozo",
+            "sal al gusto"
+        ],
+        "pasos": [
+            "1\nPara empezar la receta de churipo, primero cuece la carne con los elotes en una olla grande con agua, sal y media cebolla. Cocina por 1 hora y media a 2 horas o hasta que la carne esté suave y el caldo esté concentrado de sabor.",
+            "2\nMientras se cocina la carne, tuesta los chiles en una sartén o comal junto con media cebolla y dos dientes de ajo, dales vuelta de manera continua para evitar que se quemen.",
+            "3\nCuando los chiles estén tostados, remoja en agua caliente por unos 10 minutos hasta que se suavicen. Licúa muy bien hasta obtener una salsa espesa.",
+            "4\nEn una olla grande cuela la salsa, agrega 1 litro de agua y la rama de epazote fresco, deja cocinar por 10 minutos para que se integren los sabores.",
+            "5\nAgrega las verduras, la zanahoria, los ejotes, la calabaza, también agrega la carne ya cocida junto con los elotes. Por último también agrega 1.5 litros más de agua, sazona con sal al gusto y deja cocinar todo por 15 minutos o hasta que hierva.",
+            "6\nRectifica la sazón y, si lo ves necesario, añade un poco más de sal. Luego, deja reposar unos minutos antes de servir para que los sabores se asienten. ¡Ya puedes disfrutar de un rico churipo! Cuéntanos en los comentarios tu opinión y comparte con nosotros una fotografía del resultado final."
+        ]
+    },
+    {
+        "id": "rec-9mqrz0axh",
+        "titulo": "Receta de Salchichas a la diabla",
+        "categoria": "Comida Mexicana",
+        "tiempo": "30m",
+        "imagen": "https://cdn0.recetasgratis.net/es/posts/0/6/1/salchichas_a_la_diabla_78160_orig.jpg",
+        "ingredientes": [
+            "500 gramos de salchichas de pavo",
+            "2 cucharaditas de aceite vegetal",
+            "2 cucharadas soperas de mantequilla",
+            "1 trozo de cebolla picada",
+            "2 dientes de ajos finamente picados",
+            "½ taza de puré de tomate",
+            "2 cucharadas soperas de salsa cátsup",
+            "1 cucharada sopera de chile chipotle molido (ajustar al gusto)",
+            "sal y pimienta al gusto"
+        ],
+        "pasos": [
+            "1\nEmpieza la receta por cortar las salchichas en rodajas sesgadas o a la mitad si utilizas salchichas cocteleras, reserva mientras continuas con la preparación.",
+            "2\nCalienta el aceite y la mantequilla en una sartén u olla grande. Luego, añade la cebolla y los ajos picados, sofríe y remueve constantemente hasta que se doren sin quemar.",
+            "3\nAgrega las salchichas y fríelas durante 3 a 5 minutos hasta que se doren ligeramente por fuera, remueve constantemente para evitar que se peguen o quemen.",
+            "4\nCuando las salchichas estén doradas, vierte el puré de tomate, la salsa cátsup y el chipotle, mezcla bien para que la salsa cubra todas las salchichas.\nTruco: ajusta el nivel de picor añadiendo más o menos chile chipotle.",
+            "5\nRectifica la sazón añadiendo sal y pimienta al gusto. Luego, cocina a fuego bajo por 5 minutos, moviendode vez en cuando hasta que espese ligeramente.",
+            "6\nPasado el tiempo de cocción, retira del fuego y sirve las salchichas a la diabla, decora con cilantro fresco y listo. Cuéntanos en los comentarios tu opinión y comparte con nosotros una fotografía del resultado final."
+        ]
+    },
+    {
+        "id": "rec-nltlvku8o",
+        "titulo": "Receta de Chiles rellenos de carne molida",
+        "categoria": "Comida Mexicana",
+        "tiempo": "45m",
+        "imagen": "https://cdn0.recetasgratis.net/es/posts/1/6/1/chiles_rellenos_de_carne_molida_78161_orig.jpg",
+        "ingredientes": [
+            "5 chiles poblanos medianos o grandes",
+            "500 gramos de carne molida de res o cerdo",
+            "½ pieza de cebolla blanca picada",
+            "2 dientes de ajos picados",
+            "2 piezas de zanahorias picadas en cubos",
+            "sal y pimienta al gusto",
+            "4 claras de huevo",
+            "2 yemas de huevo",
+            "aceite para freir",
+            "salsa de tomate"
+        ],
+        "pasos": [
+            "1\nComienza por asar los chiles poblanos directamente sobre el fuego o sobre un comal o sartén hasta que la piel se queme. A continuación, introduce en una bolsa de plástico y déjalos sudar.",
+            "2\nPela los chiles poblanos rellenos, haz un corte a lo largo y retira las semillas sin romper el chile. Luego, reserva.",
+            "3\nEn una sartén sofríe la cebolla y el ajo con un poco de aceite, remueve constantemente para que ninguno de los ingredientes se queme. La cebolla debe quedar ligeramente transparente y el ajo dorado.",
+            "4\nAgrega la zanahoria y la carne molida, cocina a fuego medio y mezcla para integrar todo, añade sal y pimienta al gusto. Deja cocinar por 10 minutos, luego retira del fuego.",
+            "5\nCuando tengas la carne molida cocida, rellena cada chile con la carne, apóyate de una cuchara mediana para que el relleno se distibuya bien dentro del chile, luego reserva.",
+            "6\nPara el capeado, levanta las claras de huevo hasta punto de nieve y, cuando estén listas, agrega las yemas de huevo y mezcla ligeramente.\nTruco: comienza a calentar aceite en una sartén u olla.",
+            "7\nSumerge cada chile en la mezcla para el capeado y enseguida lleva a freir en el aceite caliente hasta que estén dorados, continua hasta terminar con los chiles.\nTruco: para mayor adherencia, espolvorea un poco de harina antes de sumergir en la mezcla de capeado.",
+            "8\nCuando estén dorados y capeados los chiles, sirve inmediatamente, acompaña con arroz y frijoles de la olla y baña con salsa de tomate. ¡Listos para comer! Cuéntanos en los comentarios tu opinión y comparte con nosotros una fotografía del resultado final."
+        ]
+    },
+    {
+        "id": "rec-q5f8z54al",
+        "titulo": "Receta de Pescado al mojo de ajo",
+        "categoria": "Comida Mexicana",
+        "tiempo": "30m",
+        "imagen": "https://cdn0.recetasgratis.net/es/posts/7/5/1/pescado_al_mojo_de_ajo_78157_orig.jpg",
+        "ingredientes": [
+            "4 filetes de pescado blanco (huachinango, tilapia o robalo)",
+            "6 dientes de ajo",
+            "3 cucharadas soperas de aceite de oliva",
+            "30 gramos de mantequilla",
+            "1 limón",
+            "sal y pimienta al gusto",
+            "perejil fresco para decorar"
+        ],
+        "pasos": [
+            "1\nComienza la receta de pescado al mojo de ajo limpiando los filetes. Luego, seca con papel absorbente y salpimenta al gusto por ambos lados, resérvalos.",
+            "2\nPela los dientes de ajo y pica finamente, puedes apoyarte de una prensa para que queden finos o bien puedes optar por laminarlos.",
+            "3\nEn una sartén calienta el aceite de oliva junto con la mantequilla, mantén a fuego medio, añade los ajos y sofríe hasta que estén dorados. Es importante remover constantemente para que no se quemen.",
+            "4\nRetira los ajos cuidadosamente y reserva. Enseguida y en la misma sartén, coloca los filetes de pescado y cocina de 3 a 4 minutos por lado.",
+            "5\nCuando el pescado esté casi listo, reincorpora los ajos picados y dorados y añade el jugo de un limón, deja que los sabores se integren por un par de minutos.",
+            "6\nCuando los filetes al mojo de ajo estén listo, sirve caliente, decora con unas hojas de perejil fresco y acompaña con una ensalada fresca. ¡A comer! Cuéntanos en los comentarios tu opinión y comparte con nosotros una fotografía del resultado final."
+        ]
+    },
+    {
+        "id": "rec-ybrej35sj",
+        "titulo": "Receta de Pescadillas de atún",
+        "categoria": "Comida Mexicana",
+        "tiempo": "30m",
+        "imagen": "https://cdn0.recetasgratis.net/es/posts/8/8/9/pescadillas_de_atun_77988_orig.jpg",
+        "ingredientes": [
+            "2 latas de atún en agua, escurrido",
+            "9 tortillas de maíz",
+            "½ pieza de cebolla picada",
+            "1 pieza de jitomate picado",
+            "1 diente de ajo picado",
+            "1 cucharada sopera de aceite vegetal",
+            "300 gramos de queso fresco",
+            "½ taza de cilantro picado",
+            "sal y pimienta al gusto",
+            "aceite para freir",
+            "limón y salsa al gusto",
+            "palillos de madera (opcional)"
+        ],
+        "pasos": [
+            "1\nCalienta una cucharada de aceite y sofríe la cebolla hasta que se ponga transparente. Luego, agrega el diente de ajo picado y remueve hasta que ambos ingredientes estén dorados.",
+            "2\nAgrega el jitomate picado y mezcla para que se integre con la cebolla y el ajo, cocina por 3 minutos.",
+            "3\nPara terminar el guisado de atún, agrega el cilantro picado, sazona con sal y pimienta al gusto y cocina por 3 minutos más, luego retira del fuego y reserva.",
+            "4\nCalienta las tortillas ligeramente para que se puedan doblar sin romper y, luego, rellena con el guisado de atún. A continuación, agrega un trozo de queso fresco, dobla y presiona la tortilla, puedes asegurar con palillos de madera para que al momento de freír la tortilla no se abra.",
+            "5\nBarniza con aceite las tortillas rellenas de atún, y lleva a hornear o a la freidora de aire a 180°C por 15 minutos. Si lo prefieres puedes freír directamente al sartén con suficiente aceite.",
+            "6\nPasado el tiempo de horneado o cuando tengas fritas las pescadillas, retira los palillos. Sirve acompañando con una ensalada de verduras, aguacate, limón y salsa al gusto. ¡A comer! Cuéntanos en los comentarios tu opinión y comparte con nosotros una fotografía del resultado final."
+        ]
+    },
+    {
+        "id": "rec-c9wskonw1",
+        "titulo": "Receta de Panqué mexicano",
+        "categoria": "Comida Mexicana",
+        "tiempo": "1h 30m",
+        "imagen": "https://cdn0.recetasgratis.net/es/posts/3/9/0/panque_mexicano_78093_orig.jpg",
+        "ingredientes": [
+            "200 gramos de mantequilla a temperatura ambiente",
+            "200 gramos de azúcar                                                                    (1 taza)",
+            "4 huevos",
+            "200 gramos de harina de trigo",
+            "1 cucharadita de polvo para hornear",
+            "1 cucharadita de esencia de vainilla",
+            "1 pizca de sal"
+        ],
+        "pasos": [
+            "1\nPara comenzar esta receta de panqué mexicano, precalienta el horno a 180 °C. Mientras tanto, en un recipiente amplio, bate la mantequilla con el azúcar hasta obtener una mezcla cremosa y de color claro. Para lograr la textura perfecta, te recomendamos apoyarte en una batidora de globo.",
+            "2\nLuego, incorpora los huevos uno a uno, batiendo bien después de cada adición para evitar que la mezcla se corte. Una vez que hayas integrado todos los huevos, agrega la esencia de vainilla y bate por un par de minutos más para asegurar que todo se integre perfectamente.",
+            "3\nDespués, es momento de integrar los ingredientes secos. En un recipiente aparte, cierne la harina con el polvo para hornear y la pizca de sal. Luego, añade esta mezcla a la preparación líquida y bate lentamente. Una vez incorporado, aumenta la velocidad a media y bate hasta eliminar por completo todos los grumos, logrando una masa suave y homogénea.",
+            "4\nAhora que tienes la mezcla lista, vacíala en moldes individuales o en un molde grande. Para facilitar el desmolde, puedes apoyarte de capacillos o papel encerado.\nTruco: no llenes por completo el molde o corres el riesgo de que se desborde al momento de hornear.",
+            "5\nCon el horno ya precalentado, hornea la mezcla del panqué por 45 minutos. Para verificar que esté listo, inserta un palillo o tenedor: estará cocido cuando este salga completamente limpio.",
+            "6\nPasado el tiempo de horneado, deja enfriar un poco el panqué dentro del horno. Después, sácalo y déjalo a temperatura ambiente por unos 20 minutos. Transcurrido este tiempo, ya puedes desmoldar o servir directamente en el capacillo. Cuéntanos en los comentarios tu opinión y comparte una fotografía del resultado final."
+        ]
+    },
+    {
+        "id": "rec-pglafay55",
+        "titulo": "Receta de Pescado a la diabla",
+        "categoria": "Comida Mexicana",
+        "tiempo": "30m",
+        "imagen": "https://cdn0.recetasgratis.net/es/posts/9/7/0/pescado_a_la_diabla_78079_orig.jpg",
+        "ingredientes": [
+            "4 filetes de pescado blanco (tilapia, huachinango o similar)",
+            "sal y pimienta al gusto",
+            "2 dientes de ajo limpios",
+            "1 trozo de cebolla blanca",
+            "2 piezas de chile guajillo",
+            "5 piezas de chile de árbol",
+            "2 piezas de jitomates",
+            "1 cucharada sopera de vinagre blanco",
+            "1 cucharadita de azúcar",
+            "aceite vegetal"
+        ],
+        "pasos": [
+            "1\nPara hacer la receta de pescado a la diabla, primero salpimienta los filetes de pescado por ambos lados y reserva.\nTruco: puedes añadir mas sazón con especias como el orégano o el tomillo, esto es completamente al gusto.",
+            "2\nHidrata los chiles en agua hirviendo durante unos 3 minutos y asegúrate de limpiar bien los chiles retirando semillas y venas.\nTruco: a los chiles de árbol no es necesario que les retires las semillas.",
+            "3\nAhora prepara la salsa. Licúa los chiles hidratados junto con los jitomates, la cebolla, los dientes de ajo, vinagre, azúcar y una pizca de sal, licúa por un par de minutos hasta obtener una salsa tersa.",
+            "4\nCalienta un poco de aceite en una olla, vierte la salsa licuada y cocina a fuego medio por 10 minutos moviendo ocasionalmente. Cuando esté lista, retira del fuego y reserva para servir.\nTruco: puedes colar la salsa si lo prefieres.",
+            "5\nCocina el pescado. En una sartén con aceite caliente cocina los filetes de 3 a 4 minutos por cada lado hasta que estén ligeramente dorados y bien cocidos, deben quedar suaves y húmedos.",
+            "6\nColoca el filete a la diabla cocido en un plato, baña con la salsa diabla caliente, sirve con ensalada fresca y arroz blanco. ¡Acompaña el pescado al limón y listo! Cuéntanos en los comentarios tu opinión y comparte con nosotros una fotografía del resultado final.Además, también te ofrecemos la receta de Camarones a la diabla."
+        ]
+    },
+    {
+        "id": "rec-w3pdj4nvc",
+        "titulo": "Receta de Sopa de habas secas",
+        "categoria": "Comida Mexicana",
+        "tiempo": "6h",
+        "imagen": "https://cdn0.recetasgratis.net/es/posts/5/7/0/sopa_de_habas_secas_78075_orig.jpg",
+        "ingredientes": [
+            "1 taza de habas secas",
+            "1½ litros de agua",
+            "½ pieza de cebolla blanca picada",
+            "2 dientes de ajo limpios",
+            "2 piezas de jitomates picados",
+            "1 rama de epazote (opcional)",
+            "2 cucharadas soperas de aceite vegetal",
+            "sal y pimienta al gusto",
+            "chile serrano para servir",
+            "cilantro fresco para servir",
+            "jitomate picado para servir"
+        ],
+        "pasos": [
+            "1\nPara saber cómo cocinar las habas secas, sigue estos pasos. Primero, lava y deja las habas en remojo en agua fría por la menos 4 horas o de preferencia durante una noche. Esto ayudará a que el tiempo de cocción sea más corto.",
+            "2\nEscurre el agua del remojo, enjuaga y, luego, cocina las habas en una olla con agua y la cebolla. Si usas olla normal deja cocinar por 1 hora y media. También puedes usar una olla de presión para agilizar el proceso, si es así deja cocinar por 40 minutos.",
+            "3\nMientras se cocinan las habas, prepara la base. Asa los jitomates, los dientes de ajo y la media cebolla, cuando estén dorados y suaves añade una taza de agua y deja cocinar por 3 minutos. Luego, reserva",
+            "4\nCuando las habas estén listas, toma un par de cucharadas grandes de habas cocidas y licúa junto con la base de jitomate, cebolla y ajo, asegúrate de que quede una especie de salsa ligera. Utiliza un poco del agua de la misma cocción de las habas.",
+            "5\nEn una olla con un poco de aceite, vierte la salsa licuada y cocina alrededor de 7 minutos, sazona con sal y pimienta al gusto. Remueve hasta que espese ligeramente.",
+            "6\nCuando esté sazonada la salsa, agrega el resto de las habas cocidas con su caldo. Si quieres proporcionar más sabor a la sopa de habas, agrega una rama de epazote fresco y deja hervir por 15 minutos, luego retira del fuego.",
+            "7\nRetira la rama de epazote y sirve la sopa caliente, decora con cilantro fresco, jitomate picado en cubos y unas rodajas de chile serrano si quieres un toque picante. Lista, disfruta de una reconfortante sopa de habas. Cuéntanos en los comentarios tu opinión y comparte con nosotros una fotografía del resultado final."
+        ]
+    },
+    {
+        "id": "rec-u0bxgcq8l",
+        "titulo": "Receta de Chiles rellenos de atún",
+        "categoria": "Comida Mexicana",
+        "tiempo": "45m",
+        "imagen": "https://cdn0.recetasgratis.net/es/posts/9/6/0/chiles_rellenos_de_atun_78069_orig.jpg",
+        "ingredientes": [
+            "4 piezas de chile poblano",
+            "2 latas de atún en agua o aceite escurridas",
+            "½ pieza de cebolla blanca picada",
+            "1 diente de ajo picado",
+            "2 piezas de jitomates medianos picados sin semillas",
+            "1 pieza de zanahoria rallada",
+            "1 cucharadita de aceite",
+            "200 gramos de queso fresco",
+            "cilantro fresco picado opcional"
+        ],
+        "pasos": [
+            "1\nPara empezar la receta, asa los chiles poblanos sobre la estufa, en un comal o sartén hasta que la piel esté tostada y se desprenda fácil, da vuelta constantemente para lograr un asado uniforme.",
+            "2\nColoca los chiles en una bolsa de plástico durante 10 minutos y, después, retira la piel. Haz una abertura y retira las semillas con cuidado.",
+            "3\nPrepara el relleno. En una sartén calienta un poco de aceite y sofríe la cebolla y el ajo, cuando estén ligeramente dorados añade el jitomate y la zanahoria. Cocina por 5 minutos removiendo constantemente.",
+            "4\nIncorpora el atún escurrido y sazona con sal y pimienta al gusto. También agrega el cilantro fresco picado, cocina por 3 minutos más, retira del fuego y reserva.",
+            "5\nCon ayuda de una cuchara, incorpora en cada chile el guisado de atún y también rellena con un poco de queso fresco en cubos o tiras.",
+            "6\n¡Y listo los chiles rellenos de atún! Acompaña con crema, salsa y una ensalada fresca. Puedes preparar también una base de caldo de tomate y bañar los chiles para hacer un platillo más jugoso. Cuéntanos en los comentarios tu opinión y comparte con nosotros una fotografía del resultado final."
+        ]
+    },
+    {
+        "id": "rec-4f0b2a87q",
+        "titulo": "Receta de Gorditas de masa",
+        "categoria": "Comida Mexicana",
+        "tiempo": "1h 30m",
+        "imagen": "https://cdn0.recetasgratis.net/es/posts/8/6/0/gorditas_de_masa_78068_orig.jpg",
+        "ingredientes": [
+            "Para la masa",
+            "500 gramos de masa de maíz nixtamalizado",
+            "1 cucharada sopera de manteca de cerdo o manteca vegetal",
+            "1 pizca de sal",
+            "agua tibia (solo si la masa está muy seca)",
+            "Para el relleno",
+            "250 gramos de chicharrón prensado",
+            "3 piezas de jitomates en trozos",
+            "2 unidades de chile guajillo limpios",
+            "1 trozo de cebolla",
+            "1 diente de ajo",
+            "sal al gusto",
+            "epazote fresco picado al gusto",
+            "1 taza de agua caliente",
+            "aceite vegetal al gusto"
+        ],
+        "pasos": [
+            "1\nPrepara el relleno. Para ello, calienta un poco de aceite en una sartén, sofríe la cebolla, el ajo, el jitomate y los chiles guajillo y, cuando estén dorados, licúa con una taza de agua caliente y sal al gusto.\nTruco: puedes hervir previamente los ingredientes y licuar cuando estén suaves.",
+            "2\nVierte la salsa en una olla y enseguida agrega el chicharrón prensado, mezcla y cocina a fuego medio hasta que espese.\nTruco: si lo prefieres puedes colar la salsa antes de calentarla. No olvides limpiar los chiles guajillo retirando venas y semillas.",
+            "3\nCuando el chicharrón y la salsa hayan espesado, agrega el epazote fresco picado, remueve y deja cocinar por 3 minutos más. Luego, retira del fuego y deja enfriar por completo.\nTruco: es importante dejar enfriar por completo para rellenar las gorditas mexicanas.",
+            "4\nPara la masa, en un bol mezcla la masa de maíz nixtamalizado con la manteca de cerdo y una pizca de sal, amasa hasta que se integren por completo y obtengas una masa suave y no pegajosa.",
+            "5\nCon la masa lista y el relleno de chicharrón prensado frío, forma bolas de masa del tamaño de una pelota de golf y aplana un poco para luego rellenar. Envuelve con la misma masa y presiona con tus manos hasta obtener un grosor de 1 cm aproximadamente.\nTruco: puedes usar una prensa de tortillas y hacerlas del tamaño del tu preferencia.",
+            "6\nCocina las gorditas en un comal o sartén caliente por ambos lados hasta que se inflen y queden ligeramente tostadas, puedes añadir aceite en spray o bien freírlas en abundante aceite hasta que estén doradas y crujientes.",
+            "7\nAbre las gorditas de maíz con un corte lateral sin romper por completo y agrega queso y lechuga al gusto. Sirve y acompaña con la salsa de tu preferencia y listo, ya puedes disfrutar de unas deliciosas gorditas de masa. Cuéntanos en los comentarios tu opinión y comparte con nosotros una fotografía del resultado final."
+        ]
+    },
+    {
+        "id": "rec-xpbwzms6o",
+        "titulo": "Champurrado con maseca",
+        "categoria": "Comida Mexicana",
+        "tiempo": "45m",
+        "imagen": "https://cdn0.recetasgratis.net/es/posts/2/6/0/champurrado_con_maseca_78062_orig.jpg",
+        "ingredientes": [
+            "1 litro de leche",
+            "3 tazas de agua                                                                    (720 mililitros)",
+            "½ taza de maseca (harina de maíz)",
+            "1 raja de canela",
+            "35 gramos de piloncillo o azúcar",
+            "1 cucharadita de esencia de vainilla (opcional)",
+            "3 cucharadas soperas de chocolate de mesa en polvo"
+        ],
+        "pasos": [
+            "1\nPara comenzar la receta de champurrado con maseca, hierve 3 tazas de agua con la raja de canela durante 5 a 7 minutos para extraer todo el sabor de la canela.",
+            "2\nMientras se calienta el agua con la canela, en un recipiente mezcla la maseca con una taza de leche hasta que obtengas una mezcla líquida sin grumos y reserva.",
+            "3\nCuando el agua con la canela empiece a hervir, añade el resto de la leche a la olla y baja el fuego al mínimo. Deja que se caliente nuevamente todo.",
+            "4\nCuando la leche esté caliente, agrega el piloncillo o azúcar y el chocolate de mesa en polvo, también opcionalmente agrega una cucharadita de esencia de vainilla. Mezcla para que se disuelvan los ingredientes.\nTruco: puedes usar tabletas de chocolate de mesa, solo asegúrate de que se disuelva bien en la leche.",
+            "5\nCuando los ingredientes estén integrados a la leche, incorpora la maseca disuelta lentamente en la olla mientras remueves para evitar grumos. Cocina a fuego medio bajo por 10 a 15 minutos hasta que hierva por completo.",
+            "6\nCuando el champurrado con maseca haya espesado y tenga una textura uniforme, retira la canela y sirve de inmediato.¡A disfrutar de un rico champurrado de chocolate y maseca! Cuéntanos en los comentarios tu opinión y comparte con nosotros una fotografía del resultado final."
+        ]
     }
 ];
