@@ -1,4 +1,4 @@
-const CACHE_NAME = 'allimentate-recetas-v2'; // Incrementamos versión
+const CACHE_NAME = 'allimentate-premium-v1';
 const ASSETS = [
     './',
     './index.html',
@@ -12,19 +12,14 @@ const ASSETS = [
 
 // Instalación
 self.addEventListener('install', (e) => {
-    // Forzar activación inmediata de esta nueva versión
     self.skipWaiting();
-
     e.waitUntil(
-        caches.open(CACHE_NAME).then((cache) => {
-            return cache.addAll(ASSETS);
-        })
+        caches.open(CACHE_NAME).then((cache) => cache.addAll(ASSETS))
     );
 });
 
 // Activación
 self.addEventListener('activate', (e) => {
-    // Tomar control de todas las pestañas abiertas inmediatamente
     e.waitUntil(
         Promise.all([
             self.clients.claim(),
@@ -37,34 +32,33 @@ self.addEventListener('activate', (e) => {
     );
 });
 
-// Fetch: Estratégia Híbrida
+// fetch: Smart Strategy
 self.addEventListener('fetch', (e) => {
     const url = new URL(e.request.url);
 
-    // Estrategia Network-First (Internet Primero) para:
-    // 1. La base de datos (para ver recetas nuevas siempre)
-    // 2. El index.html (para ver cambios de diseño)
+    // 1. DATA & CORE: Network-First with background Sync
     if (url.pathname.endsWith('db.js') || url.pathname.endsWith('index.html') || url.pathname.endsWith('/')) {
         e.respondWith(
             fetch(e.request)
                 .then(res => {
-                    // Si hay internet, actualizamos la cache y respondemos
                     const resClone = res.clone();
                     caches.open(CACHE_NAME).then(cache => cache.put(e.request, resClone));
                     return res;
                 })
-                .catch(() => {
-                    // Si falla internet, devolvemos lo que haya en cache
-                    return caches.match(e.request);
-                })
+                .catch(() => caches.match(e.request))
         );
         return;
     }
 
-    // Estrategia Cache-First (Velocidad) para todo lo demás (imágenes, fuentes, css)
+    // 2. IMAGES & UI: Stale-While-Revalidate (Speed Primary)
     e.respondWith(
-        caches.match(e.request).then((response) => {
-            return response || fetch(e.request);
+        caches.match(e.request).then((cachedResponse) => {
+            const fetchPromise = fetch(e.request).then((networkResponse) => {
+                const resClone = networkResponse.clone();
+                caches.open(CACHE_NAME).then((cache) => cache.put(e.request, resClone));
+                return networkResponse;
+            });
+            return cachedResponse || fetchPromise;
         })
     );
 });

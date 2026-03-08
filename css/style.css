@@ -12,7 +12,12 @@
     --card-bg: #ffffff;
     --font-main: 'Outfit', sans-serif;
     --font-logo: 'Dancing Script', cursive;
-    /* Para imitar la firma */
+
+    /* GLASSMORPHISM TOKENS */
+    --glass-bg: rgba(255, 255, 255, 0.7);
+    --glass-border: rgba(255, 255, 255, 0.4);
+    --glass-blur: blur(12px);
+    --glass-shadow: 0 8px 32px 0 rgba(146, 64, 14, 0.15);
 }
 
 * {
@@ -34,14 +39,24 @@ body {
 
 /* --- HEADER --- */
 header {
-    background: linear-gradient(135deg, #2c1810 0%, #5d2e1e 100%);
-    padding: 20px;
+    background: linear-gradient(135deg, #1a0f0a 0%, #452418 100%);
+    padding: 25px 20px;
     color: white;
     text-align: center;
     position: relative;
-    box-shadow: 0 4px 15px rgba(69, 26, 3, 0.3);
-    border-bottom-left-radius: 30px;
-    border-bottom-right-radius: 30px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+    border-bottom-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+    overflow: hidden;
+}
+
+header::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background-image: url("https://www.transparenttextures.com/patterns/pinstripe-light.png");
+    opacity: 0.05;
+    pointer-events: none;
 }
 
 .logo-container {
@@ -79,25 +94,43 @@ header {
 .search-box {
     background: white;
     border-radius: 50px;
-    padding: 12px 20px;
+    padding: 14px 22px;
     display: flex;
     align-items: center;
-    gap: 10px;
-    box-shadow: 0 8px 20px rgba(93, 46, 30, 0.1);
-    border: 1px solid rgba(146, 64, 14, 0.1);
+    gap: 12px;
+    box-shadow: 0 10px 30px rgba(93, 46, 30, 0.08);
+    border: 1px solid rgba(146, 64, 14, 0.08);
+    transition: box-shadow 0.3s ease;
 }
 
-.search-box input {
-    border: none;
-    flex: 1;
-    font-size: 1rem;
-    color: var(--text-main);
-    font-family: var(--font-main);
-    outline: none;
+.search-box:focus-within {
+    box-shadow: 0 15px 40px rgba(93, 46, 30, 0.12);
 }
 
-.search-box .material-icons-round {
-    color: var(--accent);
+.category-chip {
+    background: white;
+    padding: 10px 20px;
+    border-radius: 50px;
+    font-size: 0.95rem;
+    font-weight: 600;
+    color: var(--text-sec);
+    white-space: nowrap;
+    border: 1px solid rgba(146, 64, 14, 0.08);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.03);
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    cursor: pointer;
+}
+
+.category-chip:active {
+    transform: scale(0.95);
+}
+
+.category-chip.active {
+    background: var(--primary);
+    color: white;
+    border-color: var(--primary);
+    box-shadow: 0 8px 20px rgba(146, 64, 14, 0.25);
+    transform: translateY(-2px);
 }
 
 /* --- CONTENT --- */
@@ -130,19 +163,31 @@ h2 {
 
 .recipe-card {
     background: white;
-    border-radius: 20px;
+    border-radius: 24px;
     overflow: hidden;
     position: relative;
-    /* Sombra suave y elegante */
-    box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.1), 0 8px 10px -6px rgba(0, 0, 0, 0.1);
-    transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+    box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.05), 0 8px 10px -6px rgba(0, 0, 0, 0.05);
+    transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
     cursor: pointer;
-    border: 1px solid rgba(0, 0, 0, 0.03);
+    border: 1px solid rgba(0, 0, 0, 0.02);
+    animation: reveal 0.6s cubic-bezier(0.23, 1, 0.32, 1) both;
+}
+
+@keyframes reveal {
+    from {
+        opacity: 0;
+        transform: translateY(20px) scale(0.95);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0) scale(1);
+    }
 }
 
 .recipe-card:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+    transform: translateY(-8px);
+    box-shadow: 0 25px 50px -12px rgba(146, 64, 14, 0.15);
 }
 
 .recipe-card:active {
@@ -195,26 +240,37 @@ h2 {
 /* --- BOTTOM NAV --- */
 .nav-bar {
     position: fixed;
-    bottom: 20px;
+    bottom: 25px;
     left: 20px;
     right: 20px;
-    background: white;
-    border-radius: 25px;
-    padding: 10px 30px;
+    background: var(--glass-bg);
+    backdrop-filter: var(--glass-blur);
+    -webkit-backdrop-filter: var(--glass-blur);
+    border-radius: 30px;
+    padding: 12px 30px;
     display: flex;
     justify-content: space-between;
-    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
-    border: 1px solid rgba(0, 0, 0, 0.02);
+    box-shadow: var(--glass-shadow);
+    border: 1px solid var(--glass-border);
+    z-index: 90;
 }
 
 .nav-item {
     display: flex;
     flex-direction: column;
     align-items: center;
-    color: #d6d3d1;
+    color: #a8a29e;
     background: none;
     border: none;
     gap: 4px;
+    min-width: 60px;
+    /* Mejora touch target */
+    padding: 5px;
+    transition: transform 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+.nav-item:active {
+    transform: scale(0.9);
 }
 
 .nav-item.active {
@@ -265,16 +321,20 @@ h2 {
     position: absolute;
     top: 20px;
     left: 20px;
-    background: rgba(0, 0, 0, 0.4);
+    background: rgba(0, 0, 0, 0.3);
     color: white;
     border: none;
-    width: 40px;
-    height: 40px;
+    width: 44px;
+    /* A11y: Standard touch size */
+    height: 44px;
     border-radius: 50%;
     display: flex;
     justify-content: center;
     align-items: center;
-    backdrop-filter: blur(5px);
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
 }
 
 .modal-body {
@@ -334,6 +394,7 @@ h2 {
     font-weight: 700;
     font-size: 1.2rem;
 }
+
 /* --- CATEGORIES BAR --- */
 .category-filters {
     display: flex;
@@ -341,11 +402,13 @@ h2 {
     padding: 10px 20px;
     gap: 10px;
     margin-bottom: 5px;
-    scrollbar-width: none; /* Hide scrollbar Firefox */
+    scrollbar-width: none;
+    /* Hide scrollbar Firefox */
 }
 
 .category-filters::-webkit-scrollbar {
-    display: none; /* Hide scrollbar Chrome/Safari */
+    display: none;
+    /* Hide scrollbar Chrome/Safari */
 }
 
 .category-chip {
@@ -356,7 +419,7 @@ h2 {
     color: var(--text-sec);
     white-space: nowrap;
     border: 1px solid rgba(146, 64, 14, 0.1);
-    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
     transition: all 0.3s ease;
     cursor: pointer;
 }
@@ -379,7 +442,7 @@ h2 {
     font-weight: 600;
     color: var(--primary);
     backdrop-filter: blur(4px);
-    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
 .fav-btn {
@@ -396,7 +459,7 @@ h2 {
     align-items: center;
     font-size: 1.1rem;
     cursor: pointer;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
     transition: transform 0.2s;
 }
 
@@ -418,7 +481,7 @@ h2 {
     justify-content: center;
     font-weight: bold;
     flex-shrink: 0;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
 }
 
 .step p {

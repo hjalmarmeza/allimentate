@@ -6,7 +6,7 @@ const App = {
 
     // --- INICIALIZACIÓN ---
     init: () => {
-        console.log("Chef Alli iniciando 3.0...");
+        console.log("Chef Alli iniciando v3.1 (Premium 2.2)...");
 
         // 1. Cargar Datos Globales
         if (window.ChefAlliDB && Array.isArray(window.ChefAlliDB)) {
@@ -85,10 +85,13 @@ const App = {
         const toAdd = App.currentList.slice(App.renderedCount, App.renderedCount + App.batchSize);
         const fragment = document.createDocumentFragment();
 
-        toAdd.forEach(recipe => {
+        toAdd.forEach((recipe, index) => {
             const isFav = App.favorites.includes(recipe.id);
             const card = document.createElement('article');
             card.className = 'recipe-card';
+            // Staggered delay for the reveal animation
+            card.style.animationDelay = `${index * 0.05}s`;
+
             card.onclick = (e) => {
                 if (e.target.closest('.fav-btn')) return;
                 App.showDetail(recipe);
@@ -102,11 +105,17 @@ const App = {
                         ${isFav ? '❤️' : '🤍'}
                     </button>
                 </div>
-                <div class="card-content" style="padding: 12px;">
-                    <h3 style="font-size: 1rem; margin-bottom: 5px; line-height: 1.3;">${recipe.titulo}</h3>
-                    <div class="card-meta" style="font-size: 0.85rem; color: #a16207;">
-                        <span>⏱️ ${recipe.tiempo}</span>
-                        <span style="margin-left:8px;">🥗 ${recipe.ingredientes ? recipe.ingredientes.length : 0} ingr.</span>
+                <div class="card-content" style="padding: 14px;">
+                    <h3 style="font-size: 1.05rem; font-weight: 700; margin-bottom: 6px; line-height: 1.25; color: var(--text-main);">${recipe.titulo}</h3>
+                    <div class="card-meta" style="font-size: 0.8rem; color: #a16207; display: flex; align-items: center; gap: 8px;">
+                        <span style="display: flex; align-items: center; gap: 4px;">
+                            <span class="material-icons-round" style="font-size: 14px;">schedule</span> 
+                            ${recipe.tiempo}
+                        </span>
+                        <span style="display: flex; align-items: center; gap: 4px;">
+                            <span class="material-icons-round" style="font-size: 14px;">restaurant</span>
+                            ${recipe.ingredientes ? recipe.ingredientes.length : 0} ingr.
+                        </span>
                     </div>
                 </div>
             `;
