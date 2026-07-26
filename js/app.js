@@ -228,7 +228,7 @@ const App = {
         }
 
         const normalize = (str) => str.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").trim();
-        const stopWords = ['de', 'del', 'la', 'las', 'el', 'los', 'un', 'una', 'unos', 'unas', 'con', 'y', 'o', 'para'];
+        const stopWords = ['de', 'del', 'la', 'las', 'el', 'los', 'un', 'una', 'unos', 'unas', 'con', 'y', 'o', 'para', 'en', 'por'];
         
         // Separar por espacios (o comas), limpiar palabras cortas o "stop words"
         const inputTokens = inputStr.replace(/,/g, ' ')
@@ -244,10 +244,14 @@ const App = {
             const recipeTitle = normalize(recipe.titulo);
             const recipeIngs = recipe.ingredientes ? recipe.ingredientes.map(i => normalize(i)) : [];
             
-            // Un punto por cada palabra clave que se encuentre en el título o ingredientes
+            // Usamos expresiones regulares con \b para buscar la palabra exacta (evitar que "res" encuentre "refresco")
             inputTokens.forEach(token => {
-                const inTitle = recipeTitle.includes(token);
-                const inIng = recipeIngs.some(ri => ri.includes(token));
+                const escapedToken = token.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'); // Escapar caracteres especiales
+                const regex = new RegExp(`\\b${escapedToken}\\b`, 'i');
+                
+                const inTitle = regex.test(recipeTitle);
+                const inIng = recipeIngs.some(ri => regex.test(ri));
+                
                 if (inTitle || inIng) {
                     score += 1;
                 }
