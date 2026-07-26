@@ -219,20 +219,38 @@ const App = {
         }
     },
     
-    // Búsqueda por Ingredientes (Mi Refri)
-    searchByIngredients: (inputStr) => {
+    // Búsqueda por Ingredientes (Mi Refri) con IA
+    searchByIngredients: async (inputStr) => {
+        const btn = document.getElementById('btn-fridge-search');
+        const aiContainer = document.getElementById('ai-message-container');
+        const aiText = document.getElementById('ai-message-text');
+
         if (!inputStr || inputStr.trim() === '') {
             App.render([]);
             App.updateCount(0, 'Recetas sugeridas');
+            aiContainer.style.display = 'none';
             return;
         }
+
+        // UI: Cargando
+        const originalBtnText = btn.innerText;
+        btn.innerText = '👨‍🍳 El Chef está pensando...';
+        btn.disabled = true;
+        aiContainer.style.display = 'none';
+        App.render([]);
+        App.updateCount('...', 'Buscando las mejores combinaciones');
 
         const normalize = (str) => str.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").trim();
         const stopWords = ['de', 'del', 'la', 'las', 'el', 'los', 'un', 'una', 'unos', 'unas', 'con', 'y', 'o', 'para', 'en', 'por'];
         
         // 1. Separar por comas para obtener los "ingredientes" ingresados
         const clauses = inputStr.split(',').map(c => c.trim()).filter(c => c.length > 0);
-        if (clauses.length === 0) return;
+        
+        if (clauses.length === 0) {
+            btn.innerText = originalBtnText;
+            btn.disabled = false;
+            return;
+        }
 
         // 2. Extraer palabras clave y precompilar expresiones regulares
         const parsedClauses = clauses.map(clause => {
@@ -251,6 +269,8 @@ const App = {
         if (parsedClauses.length === 0) {
             App.render([]);
             App.updateCount(0, 'Recetas sugeridas');
+            btn.innerText = originalBtnText;
+            btn.disabled = false;
             return;
         }
 
@@ -276,19 +296,16 @@ const App = {
         });
 
         // 4. Calcular puntaje (TF-IDF) de cada receta
-        // Ingredientes raros ("hamburguesa de res") darán MUCHOS más puntos que ingredientes comunes ("arroz", "huevo")
         const scoredRecipes = App.data.map((recipe, index) => {
             const nr = normalizedRecipes[index];
             let score = 0;
             
             parsedClauses.forEach((clause, i) => {
-                // Todas las palabras clave del ingrediente deben estar presentes
                 const matches = clause.regexes.every(regex => {
                     return regex.test(nr.title) || nr.ings.some(ri => regex.test(ri));
                 });
                 
                 if (matches) {
-                    // IDF (Frecuencia Inversa de Documento): log(Total / (Frecuencia + 1)) + 1
                     const idf = Math.log(totalRecipes / (clauseDF[i] + 1)) + 1;
                     score += idf;
                 }
@@ -297,22 +314,83 @@ const App = {
             return { ...recipe, score };
         });
 
-        // 5. Filtrar, ordenar y aplicar umbral dinámico de relevancia
-        let matches = scoredRecipes
+        // 5. Pre-Filtro: Obtener el TOP 15 de recetas más relevantes para enviarlas a la IA
+        let topMatches = scoredRecipes
             .filter(r => r.score > 0)
-            .sort((a, b) => b.score - a.score);
+            .sort((a, b) => b.score - a.score)
+            .slice(0, 15);
 
-        // Si hay resultados, filtramos los que tienen un puntaje muy bajo en comparación con el mejor resultado.
-        // Esto elimina las recetas "basura" que solo coincidieron con un ingrediente muy común (ej. "arroz").
-        if (matches.length > 0) {
-            const bestScore = matches[0].score;
-            const threshold = bestScore * 0.4; // Debe tener al menos el 40% de la relevancia de la mejor receta
-            matches = matches.filter(r => r.score >= threshold);
+        if (topMatches.length === 0) {
+            App.render([]);
+            App.updateCount(0, 'Recetas sugeridas');
+            btn.innerText = originalBtnText;
+            btn.disabled = false;
+            return;
         }
 
-        // 6. Renderizar
-        App.render(matches);
-        App.updateCount(matches.length, 'Recetas sugeridas');
+        // Formatear los datos para la IA (ahorrando tokens: solo ID, título e ingredientes)
+        const recetasParaIA = topMatches.map(r => ({
+            id: r.id,
+            titulo: r.titulo,
+            ingredientes: r.ingredientes
+        }));
+
+        try {
+            // Llamar al Mini-Backend (Vercel Serverless Function)
+            // NOTA: Si estás en entorno local, asegúrate de correr 'vercel dev'. 
+            // Si está publicado en GitHub Pages, la URL debe apuntar al dominio de Vercel.
+            // Por defecto, usa ruta relativa si se aloja junto. 
+            // Cambia esta URL por la tuya de Vercel (ej: 'https://tu-proyecto.vercel.app/api/chat') si las separas.
+            const apiUrl = window.location.hostname.includes('github.io') || window.location.protocol === 'file:' 
+                ? '/api/chat' // Deberás cambiar esto a tu URL de Vercel cuando la tengas
+                : '/api/chat';
+
+            const response = await fetch(apiUrl, {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({
+                    ingredientes: inputStr,
+                    recetasTop: recetasParaIA
+                })
+            });
+
+            if (!response.ok) {
+                throw new Error('Error en el servidor de IA');
+            }
+
+            const aiData = await response.json();
+            
+            if (aiData && aiData.recetas_ids && aiData.mensaje) {
+                // Filtrar las recetas finales basadas en los IDs que eligió la IA
+                const recetasFinales = App.data.filter(r => aiData.recetas_ids.includes(r.id));
+                
+                // Mostrar mensaje de la IA
+                aiText.innerText = aiData.mensaje;
+                aiContainer.style.display = 'block';
+
+                App.render(recetasFinales);
+                App.updateCount(recetasFinales.length, 'Sugerencias del Chef');
+            } else {
+                throw new Error('Formato de IA inválido');
+            }
+
+        } catch (error) {
+            console.error('Error al consultar IA:', error);
+            // Fallback: Si la IA falla, usamos el filtro dinámico anterior
+            const bestScore = topMatches[0].score;
+            const threshold = bestScore * 0.4;
+            const fallbackMatches = topMatches.filter(r => r.score >= threshold);
+            
+            aiText.innerText = "Hubo un problema de conexión con mi cerebro artificial, pero aquí tienes mis mejores aproximaciones.";
+            aiContainer.style.display = 'block';
+
+            App.render(fallbackMatches);
+            App.updateCount(fallbackMatches.length, 'Recetas (Modo Básico)');
+        } finally {
+            // Restaurar botón
+            btn.innerText = originalBtnText;
+            btn.disabled = false;
+        }
     },
 
     // Buscador

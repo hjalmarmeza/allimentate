@@ -46,7 +46,12 @@
         <div style="background: white; border-radius: 20px; padding: 20px; box-shadow: 0 10px 30px rgba(93, 46, 30, 0.08); border: 1px solid rgba(146, 64, 14, 0.08); text-align: center;">
             <h3 style="color: var(--primary); margin-bottom: 10px; font-family: var(--font-logo); font-size: 1.8rem;">¿Qué ingredientes tienes?</h3>
             <textarea id="fridge-input" placeholder="Ej: chuleta de cerdo, cebolla, arroz..." style="width: 100%; border: 1px solid #e5e7eb; border-radius: 10px; padding: 10px; font-family: var(--font-main); resize: none; margin-bottom: 10px;" rows="2"></textarea>
-            <button onclick="App.searchByIngredients(document.getElementById('fridge-input').value)" style="background: var(--accent); color: white; border: none; padding: 10px 20px; border-radius: 50px; font-weight: bold; font-family: var(--font-main); font-size: 1rem; cursor: pointer; width: 100%;">Buscar Recetas</button>
+            <button id="btn-fridge-search" onclick="App.searchByIngredients(document.getElementById('fridge-input').value)" style="background: var(--accent); color: white; border: none; padding: 10px 20px; border-radius: 50px; font-weight: bold; font-family: var(--font-main); font-size: 1rem; cursor: pointer; width: 100%;">Buscar con el Chef AI ✨</button>
+            
+            <!-- AI Message Container -->
+            <div id="ai-message-container" style="display: none; margin-top: 15px; padding: 15px; background: #fffbeb; border-radius: 10px; border-left: 4px solid var(--accent); text-align: left; font-size: 0.95rem; color: #78350f;">
+                <strong>👨‍🍳 El Chef opina:</strong> <span id="ai-message-text"></span>
+            </div>
         </div>
     </div>
 
