@@ -163,13 +163,22 @@ const App = {
 
     // Filtro General (Bottom Nav)
     filter: (mode) => {
+        const normalSearch = document.getElementById('normal-search-container');
+        const fridgeSearch = document.getElementById('fridge-search-container');
+        
         if (mode === 'all') {
+            if (normalSearch) normalSearch.style.display = 'block';
+            if (fridgeSearch) fridgeSearch.style.display = 'none';
+            
             App.currentCategory = 'Todo';
             App.renderCategories();
             App.render(App.data);
             App.updateCount(App.data.length);
             App.updateNavState('all');
         } else if (mode === 'favorites') {
+            if (normalSearch) normalSearch.style.display = 'block';
+            if (fridgeSearch) fridgeSearch.style.display = 'none';
+
             App.currentCategory = ''; // Deseleccionar categorías
             App.renderCategories();
 
@@ -177,6 +186,28 @@ const App = {
             App.render(favRecipes);
             App.updateCount(favRecipes.length, 'Favoritas');
             App.updateNavState('favorites');
+        } else if (mode === 'refri') {
+            if (normalSearch) normalSearch.style.display = 'none';
+            if (fridgeSearch) fridgeSearch.style.display = 'block';
+
+            App.currentCategory = ''; 
+            App.renderCategories();
+            App.updateNavState('refri');
+            
+            // Si el input tiene algo, buscar, si no, limpiar
+            const fridgeInput = document.getElementById('fridge-input');
+            if (fridgeInput && fridgeInput.value.trim() !== '') {
+                App.searchByIngredients(fridgeInput.value);
+            } else {
+                App.render([]);
+                App.updateCount(0, 'Recetas sugeridas');
+                const container = document.getElementById('recipe-list');
+                container.innerHTML = `
+                    <div class="empty-state" style="text-align: center; padding: 40px; opacity: 0.7;">
+                        <p style="font-size: 1.2rem; margin-bottom: 10px;">¡Dime qué hay en tu refri! 🧊</p>
+                        <small>Escribe ingredientes separados por comas arriba.</small>
+                    </div>`;
+            }
         }
     },
 
@@ -186,6 +217,45 @@ const App = {
             const randomRecipe = App.data[Math.floor(Math.random() * App.data.length)];
             App.showDetail(randomRecipe);
         }
+    },
+    
+    // Búsqueda por Ingredientes (Mi Refri)
+    searchByIngredients: (inputStr) => {
+        if (!inputStr || inputStr.trim() === '') {
+            App.render([]);
+            App.updateCount(0, 'Recetas sugeridas');
+            return;
+        }
+
+        // 1. Limpiar y separar ingredientes
+        const normalize = (str) => str.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").trim();
+        const inputIngredients = inputStr.split(',').map(i => normalize(i)).filter(i => i.length > 0);
+
+        if (inputIngredients.length === 0) return;
+
+        // 2. Calcular puntaje
+        const scoredRecipes = App.data.map(recipe => {
+            let score = 0;
+            if (recipe.ingredientes) {
+                const recipeIngs = recipe.ingredientes.map(i => normalize(i));
+                inputIngredients.forEach(inputIng => {
+                    // Si el ingrediente ingresado está contenido en alguno de la receta
+                    if (recipeIngs.some(ri => ri.includes(inputIng))) {
+                        score += 1;
+                    }
+                });
+            }
+            return { ...recipe, score };
+        });
+
+        // 3. Filtrar y ordenar (priorizar las que tengan más coincidencias)
+        const matches = scoredRecipes
+            .filter(r => r.score > 0)
+            .sort((a, b) => b.score - a.score);
+
+        // 4. Renderizar
+        App.render(matches);
+        App.updateCount(matches.length, 'Recetas sugeridas');
     },
 
     // Buscador
@@ -217,6 +287,8 @@ const App = {
             document.querySelector('.nav-item[onclick*="all"]')?.classList.add('active');
         } else if (activeMode === 'favorites') {
             document.querySelector('.nav-item[onclick*="favorites"]')?.classList.add('active');
+        } else if (activeMode === 'refri') {
+            document.querySelector('.nav-item[onclick*="refri"]')?.classList.add('active');
         }
     },
 
