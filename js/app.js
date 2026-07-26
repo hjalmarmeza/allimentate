@@ -230,29 +230,44 @@ const App = {
         const normalize = (str) => str.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").trim();
         const stopWords = ['de', 'del', 'la', 'las', 'el', 'los', 'un', 'una', 'unos', 'unas', 'con', 'y', 'o', 'para', 'en', 'por'];
         
-        // Separar por espacios (o comas), limpiar palabras cortas o "stop words"
-        const inputTokens = inputStr.replace(/,/g, ' ')
-            .split(/\s+/)
-            .map(i => normalize(i))
-            .filter(i => i.length > 2 && !stopWords.includes(i));
+        // 1. Separar por comas para obtener los "ingredientes" ingresados
+        const clauses = inputStr.split(',').map(c => c.trim()).filter(c => c.length > 0);
+        if (clauses.length === 0) return;
 
-        if (inputTokens.length === 0) return;
+        // 2. Extraer palabras clave de cada ingrediente
+        // Ej: "hamburguesa de res" -> ["hamburguesa", "res"]
+        const parsedClauses = clauses.map(clause => {
+            return clause.split(/\s+/)
+                         .map(w => normalize(w))
+                         .filter(w => w.length > 2 && !stopWords.includes(w));
+        }).filter(clauseWords => clauseWords.length > 0);
 
-        // Calcular puntaje
+        if (parsedClauses.length === 0) {
+            App.render([]);
+            App.updateCount(0, 'Recetas sugeridas');
+            return;
+        }
+
+        // 3. Calcular puntaje
         const scoredRecipes = App.data.map(recipe => {
             let score = 0;
             const recipeTitle = normalize(recipe.titulo);
             const recipeIngs = recipe.ingredientes ? recipe.ingredientes.map(i => normalize(i)) : [];
             
-            // Usamos expresiones regulares con \b para buscar la palabra exacta (evitar que "res" encuentre "refresco")
-            inputTokens.forEach(token => {
-                const escapedToken = token.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'); // Escapar caracteres especiales
-                const regex = new RegExp(`\\b${escapedToken}\\b`, 'i');
+            parsedClauses.forEach(clauseWords => {
+                // Para que la receta gane 1 punto por este ingrediente,
+                // TODAS las palabras clave del ingrediente ("hamburguesa" Y "res") 
+                // deben encontrarse en el título o en la lista de ingredientes.
+                const matchesClause = clauseWords.every(token => {
+                    const escapedToken = token.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+                    const regex = new RegExp(`\\b${escapedToken}\\b`, 'i');
+                    
+                    const inTitle = regex.test(recipeTitle);
+                    const inIng = recipeIngs.some(ri => regex.test(ri));
+                    return inTitle || inIng;
+                });
                 
-                const inTitle = regex.test(recipeTitle);
-                const inIng = recipeIngs.some(ri => regex.test(ri));
-                
-                if (inTitle || inIng) {
+                if (matchesClause) {
                     score += 1;
                 }
             });
@@ -260,12 +275,12 @@ const App = {
             return { ...recipe, score };
         });
 
-        // Filtrar y ordenar (priorizar las que tengan más coincidencias)
+        // 4. Filtrar y ordenar
         const matches = scoredRecipes
             .filter(r => r.score > 0)
             .sort((a, b) => b.score - a.score);
 
-        // Renderizar
+        // 5. Renderizar
         App.render(matches);
         App.updateCount(matches.length, 'Recetas sugeridas');
     },
