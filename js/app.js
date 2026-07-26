@@ -297,11 +297,18 @@ const App = {
             return { ...recipe, score };
         });
 
-        // 5. Filtrar y ordenar
-        // CAMBIO: Ahora usamos un AND estricto. La receta debe contener TODOS los ingredientes (cláusulas) que el usuario ingresó.
-        const matches = scoredRecipes
-            .filter(r => r.matchedClausesCount === parsedClauses.length)
+        // 5. Filtrar, ordenar y aplicar umbral dinámico de relevancia
+        let matches = scoredRecipes
+            .filter(r => r.score > 0)
             .sort((a, b) => b.score - a.score);
+
+        // Si hay resultados, filtramos los que tienen un puntaje muy bajo en comparación con el mejor resultado.
+        // Esto elimina las recetas "basura" que solo coincidieron con un ingrediente muy común (ej. "arroz").
+        if (matches.length > 0) {
+            const bestScore = matches[0].score;
+            const threshold = bestScore * 0.4; // Debe tener al menos el 40% de la relevancia de la mejor receta
+            matches = matches.filter(r => r.score >= threshold);
+        }
 
         // 6. Renderizar
         App.render(matches);
