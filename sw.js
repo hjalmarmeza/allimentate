@@ -1,4 +1,4 @@
-const CACHE_NAME = 'allimentate-premium-v6';
+const CACHE_NAME = 'allimentate-premium-v7';
 const ASSETS = [
     './',
     './index.html',

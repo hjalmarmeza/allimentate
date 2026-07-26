@@ -298,8 +298,9 @@ const App = {
         });
 
         // 5. Filtrar y ordenar
+        // CAMBIO: Ahora usamos un AND estricto. La receta debe contener TODOS los ingredientes (cláusulas) que el usuario ingresó.
         const matches = scoredRecipes
-            .filter(r => r.score > 0)
+            .filter(r => r.matchedClausesCount === parsedClauses.length)
             .sort((a, b) => b.score - a.score);
 
         // 6. Renderizar
