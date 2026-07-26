@@ -234,13 +234,19 @@ const App = {
         const clauses = inputStr.split(',').map(c => c.trim()).filter(c => c.length > 0);
         if (clauses.length === 0) return;
 
-        // 2. Extraer palabras clave de cada ingrediente
-        // Ej: "hamburguesa de res" -> ["hamburguesa", "res"]
+        // 2. Extraer palabras clave y precompilar expresiones regulares
         const parsedClauses = clauses.map(clause => {
-            return clause.split(/\s+/)
+            const words = clause.split(/\s+/)
                          .map(w => normalize(w))
                          .filter(w => w.length > 2 && !stopWords.includes(w));
-        }).filter(clauseWords => clauseWords.length > 0);
+            
+            const regexes = words.map(w => {
+                const escapedToken = w.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+                return new RegExp(`\\b${escapedToken}\\b`, 'i');
+            });
+            
+            return { words, regexes };
+        }).filter(c => c.words.length > 0);
 
         if (parsedClauses.length === 0) {
             App.render([]);
@@ -248,39 +254,55 @@ const App = {
             return;
         }
 
-        // 3. Calcular puntaje
-        const scoredRecipes = App.data.map(recipe => {
+        // Precomputar datos de recetas para búsqueda rápida
+        const totalRecipes = App.data.length;
+        const normalizedRecipes = App.data.map(recipe => {
+            return {
+                title: normalize(recipe.titulo),
+                ings: recipe.ingredientes ? recipe.ingredientes.map(i => normalize(i)) : []
+            };
+        });
+
+        // 3. Calcular en cuántas recetas aparece cada ingrediente (Document Frequency)
+        const clauseDF = parsedClauses.map(clause => {
+            let count = 0;
+            normalizedRecipes.forEach(nr => {
+                const matches = clause.regexes.every(regex => {
+                    return regex.test(nr.title) || nr.ings.some(ri => regex.test(ri));
+                });
+                if (matches) count++;
+            });
+            return count;
+        });
+
+        // 4. Calcular puntaje (TF-IDF) de cada receta
+        // Ingredientes raros ("hamburguesa de res") darán MUCHOS más puntos que ingredientes comunes ("arroz", "huevo")
+        const scoredRecipes = App.data.map((recipe, index) => {
+            const nr = normalizedRecipes[index];
             let score = 0;
-            const recipeTitle = normalize(recipe.titulo);
-            const recipeIngs = recipe.ingredientes ? recipe.ingredientes.map(i => normalize(i)) : [];
             
-            parsedClauses.forEach(clauseWords => {
-                // Para que la receta gane 1 punto por este ingrediente,
-                // TODAS las palabras clave del ingrediente ("hamburguesa" Y "res") 
-                // deben encontrarse en el título o en la lista de ingredientes.
-                const matchesClause = clauseWords.every(token => {
-                    const escapedToken = token.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-                    const regex = new RegExp(`\\b${escapedToken}\\b`, 'i');
-                    
-                    const inTitle = regex.test(recipeTitle);
-                    const inIng = recipeIngs.some(ri => regex.test(ri));
-                    return inTitle || inIng;
+            parsedClauses.forEach((clause, i) => {
+                // Todas las palabras clave del ingrediente deben estar presentes
+                const matches = clause.regexes.every(regex => {
+                    return regex.test(nr.title) || nr.ings.some(ri => regex.test(ri));
                 });
                 
-                if (matchesClause) {
-                    score += 1;
+                if (matches) {
+                    // IDF (Frecuencia Inversa de Documento): log(Total / (Frecuencia + 1)) + 1
+                    const idf = Math.log(totalRecipes / (clauseDF[i] + 1)) + 1;
+                    score += idf;
                 }
             });
             
             return { ...recipe, score };
         });
 
-        // 4. Filtrar y ordenar
+        // 5. Filtrar y ordenar
         const matches = scoredRecipes
             .filter(r => r.score > 0)
             .sort((a, b) => b.score - a.score);
 
-        // 5. Renderizar
+        // 6. Renderizar
         App.render(matches);
         App.updateCount(matches.length, 'Recetas sugeridas');
     },
