@@ -227,33 +227,41 @@ const App = {
             return;
         }
 
-        // 1. Limpiar y separar ingredientes
         const normalize = (str) => str.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").trim();
-        const inputIngredients = inputStr.split(',').map(i => normalize(i)).filter(i => i.length > 0);
+        const stopWords = ['de', 'del', 'la', 'las', 'el', 'los', 'un', 'una', 'unos', 'unas', 'con', 'y', 'o', 'para'];
+        
+        // Separar por espacios (o comas), limpiar palabras cortas o "stop words"
+        const inputTokens = inputStr.replace(/,/g, ' ')
+            .split(/\s+/)
+            .map(i => normalize(i))
+            .filter(i => i.length > 2 && !stopWords.includes(i));
 
-        if (inputIngredients.length === 0) return;
+        if (inputTokens.length === 0) return;
 
-        // 2. Calcular puntaje
+        // Calcular puntaje
         const scoredRecipes = App.data.map(recipe => {
             let score = 0;
-            if (recipe.ingredientes) {
-                const recipeIngs = recipe.ingredientes.map(i => normalize(i));
-                inputIngredients.forEach(inputIng => {
-                    // Si el ingrediente ingresado está contenido en alguno de la receta
-                    if (recipeIngs.some(ri => ri.includes(inputIng))) {
-                        score += 1;
-                    }
-                });
-            }
+            const recipeTitle = normalize(recipe.titulo);
+            const recipeIngs = recipe.ingredientes ? recipe.ingredientes.map(i => normalize(i)) : [];
+            
+            // Un punto por cada palabra clave que se encuentre en el título o ingredientes
+            inputTokens.forEach(token => {
+                const inTitle = recipeTitle.includes(token);
+                const inIng = recipeIngs.some(ri => ri.includes(token));
+                if (inTitle || inIng) {
+                    score += 1;
+                }
+            });
+            
             return { ...recipe, score };
         });
 
-        // 3. Filtrar y ordenar (priorizar las que tengan más coincidencias)
+        // Filtrar y ordenar (priorizar las que tengan más coincidencias)
         const matches = scoredRecipes
             .filter(r => r.score > 0)
             .sort((a, b) => b.score - a.score);
 
-        // 4. Renderizar
+        // Renderizar
         App.render(matches);
         App.updateCount(matches.length, 'Recetas sugeridas');
     },
