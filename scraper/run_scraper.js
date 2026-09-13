@@ -9,10 +9,11 @@ const CATEGORIES = [
     // Ya descargadas:
     // { name: 'Comida Peruana', url: 'https://recetas.elperiodico.com/recetas-peruanas', maxPages: 20 },
     // { name: 'Comida Mexicana', url: 'https://recetas.elperiodico.com/recetas-mexicanas', maxPages: 50 },
+    // { name: 'Comida Italiana', url: 'https://recetas.elperiodico.com/recetas-italianas', maxPages: 30 },
+    // { name: 'Comida Americana', url: 'https://recetas.elperiodico.com/busqueda/country_id/53', maxPages: 10 },
 
     // Nuevas Solicitudes:
-    { name: 'Comida Italiana', url: 'https://recetas.elperiodico.com/recetas-italianas', maxPages: 30 },
-    { name: 'Comida Americana', url: 'https://recetas.elperiodico.com/busqueda/country_id/53', maxPages: 10 }
+    { name: 'Comida Española', url: 'https://recetas.elperiodico.com/recetas-espanolas', maxPages: 30 }
 ];
 
 const DB_FILE = path.join(__dirname, '../data/db.js');
