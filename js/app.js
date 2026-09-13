@@ -38,8 +38,20 @@ const App = {
 
     // --- RENDERIZADO DE CATEGORÍAS ---
     renderCategories: () => {
-        // Obtener categorías únicas y limpias, ordenadas alfabéticamente
-        const uniqueCats = [...new Set(App.data.map(r => r.categoria ? r.categoria.trim() : 'Varios'))].sort();
+        // Obtener categorías únicas y ordenarlas con un orden personalizado
+        const customOrder = ['Bebidas', 'Comida Peruana', 'Comida Española', 'Comida Argentina', 'Comida Italiana', 'Comida Mexicana', 'Comida Americana'];
+        let uniqueCats = [...new Set(App.data.map(r => r.categoria ? r.categoria.trim() : 'Varios'))];
+        
+        uniqueCats.sort((a, b) => {
+            let indexA = customOrder.indexOf(a);
+            let indexB = customOrder.indexOf(b);
+            indexA = indexA === -1 ? 999 : indexA;
+            indexB = indexB === -1 ? 999 : indexB;
+            
+            if (indexA !== indexB) return indexA - indexB;
+            return a.localeCompare(b); // Las demás alfabéticamente al final
+        });
+        
         const categories = ['Todo', ...uniqueCats];
 
         const container = document.getElementById('category-filters');
