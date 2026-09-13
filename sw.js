@@ -1,4 +1,4 @@
-const CACHE_NAME = 'allimentate-premium-v13';
+const CACHE_NAME = 'allimentate-premium-v14';
 const ASSETS = [
     './',
     './index.html',
@@ -37,7 +37,7 @@ self.addEventListener('fetch', (e) => {
     const url = new URL(e.request.url);
 
     // 1. DATA & CORE: Network-First with background Sync
-    if (url.pathname.endsWith('db.js') || url.pathname.endsWith('index.html') || url.pathname.endsWith('/')) {
+    if (url.pathname.endsWith('db.js') || url.pathname.endsWith('index.html') || url.pathname.endsWith('/') || url.pathname.endsWith('app.js') || url.pathname.endsWith('style.css')) {
         e.respondWith(
             fetch(e.request)
                 .then(res => {
